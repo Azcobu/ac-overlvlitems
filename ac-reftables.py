@@ -158,10 +158,14 @@ def scan_reftables(db_user, db_pass, min_npc_level=1, max_npc_level=60, leveldif
     found.sort(key = lambda x: x[7], reverse=True)
     return found
 
+def get_auth_details(infile):
+	with open(infile, 'r') as authfile:
+		auth = [x.strip() for x in authfile.readlines()]
+	return auth[0], auth[1]
+	
 def main():
     start = time.time()
-    db_user = 'acore'
-    db_pass = 'acore'
+    db_user, db_pass = get_auth_details('db-auth.txt')
     min_lvl, max_lvl = 1, 58
     found = scan_reftables(db_user, db_pass, min_lvl, max_lvl, 5)
     export_data(found, f'{min_lvl}-{max_lvl}', gen_sql=True)
