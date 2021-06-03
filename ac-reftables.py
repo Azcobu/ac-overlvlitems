@@ -34,8 +34,8 @@ def process_data(found, gen_sql):
                           f'RLT {reftable} -> Item ID: {item[4]}, '\
                           f'lvl {item[6]} {item[5]} and {oli[npc_id][reftable]} others\n')
             if gen_sql: #QQQQ check SQL quotes vs confirmed source
-                sqlout.append(f'-- Deletes RFT {reftable} from lvl {item[2]} NPC '\
-                              f'{item[1]}, ID: {npc_id} due to {item[7]} level gap.\n')
+                sqlout.append(f'-- Deletes RLT {reftable} from lvl {item[2]} NPC '\
+                              f'{item[1]}, ID: {npc_id} due to {item[7]} level item gap.\n')
                 sqlout.append(f'DELETE FROM `creature_loot_template` WHERE '\
                               f'`Entry` = {item[8]} AND `Reference` = {reftable};\n\n')
 
