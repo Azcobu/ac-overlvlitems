@@ -1,0 +1,75 @@
+ID: 232, Farmer Ray, lvl 23 -> CLT 232 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 1 others
+ID: 4250, Galak Packhound, lvl 24 -> CLT 4250 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 12 others
+ID: 2260, Syndicate Rogue, lvl 22 -> CLT 2260 -> RLT 24056 -> Item ID: 1207, lvl 39 Murphstar and 92 others
+ID: 205, Nightbane Dark Runner, lvl 29 -> CLT 205 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 12 others
+ID: 7849, Mobile Alert System, lvl 25 -> CLT 7849 -> RLT 24052 -> Item ID: 3197, lvl 35 Stonecutter Claymore and 88 others
+ID: 6547, Suffering Victim, lvl 25 -> CLT 6547 -> RLT 24051 -> Item ID: 2299, lvl 33 Burning War Axe and 5 others
+ID: 6132, Razorfen Servitor, lvl 24 -> CLT 6132 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff and 11 others
+ID: 2091, Chieftain Nek'rosh, lvl 26 -> CLT 2091 -> RLT 24051 -> Item ID: 2299, lvl 33 Burning War Axe and 5 others
+ID: 11921, Besseleth, lvl 21 -> CLT 11921 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 81 others
+ID: 7603, Leprous Assistant, lvl 27 -> CLT 7603 -> RLT 24051 -> Item ID: 2299, lvl 33 Burning War Axe and 5 others
+ID: 7053, Klaven Mortwake, lvl 23 -> CLT 7053 -> RLT 24068 -> Item ID: 897, lvl 29 Madwolf Bracers and 80 others
+ID: 6224, Leprous Machinesmith, lvl 27 -> CLT 6224 -> RLT 24051 -> Item ID: 2299, lvl 33 Burning War Axe and 5 others
+ID: 6222, Leprous Technician, lvl 27 -> CLT 6222 -> RLT 24051 -> Item ID: 2299, lvl 33 Burning War Axe and 5 others
+ID: 4803, Blackfathom Oracle, lvl 21 -> CLT 4803 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 81 others
+ID: 4789, Fallenroot Rogue, lvl 21 -> CLT 4789 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 81 others
+ID: 4096, Galak Windchaser, lvl 25 -> CLT 4096 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff and 10 others
+ID: 2350, Forest Moss Creeper, lvl 21 -> CLT 2350 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 81 others
+ID: 2261, Syndicate Watchman, lvl 21 -> CLT 2261 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 81 others
+ID: 1026, Bluegill Forager, lvl 23 -> CLT 1026 -> RLT 24068 -> Item ID: 897, lvl 29 Madwolf Bracers and 80 others
+ID: 1024, Bluegill Murloc, lvl 21 -> CLT 1024 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 81 others
+ID: 930, Black Widow Hatchling, lvl 25 -> CLT 930 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff and 10 others
+ID: 531, Skeletal Fiend, lvl 25 -> CLT 531 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff and 10 others
+ID: 215, Defias Night Runner, lvl 25 -> CLT 215 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff and 10 others
+ID: 12897, Silverwing Warrior, lvl 22 -> CLT 12897 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 40 others
+ID: 10761, Grimtotem Reaver, lvl 28 -> CLT 10761 -> RLT 24050 -> Item ID: 1998, lvl 33 Bloodscalp Channeling Staff and 45 others
+ID: 10757, Boiling Elemental, lvl 28 -> CLT 10757 -> RLT 24050 -> Item ID: 1998, lvl 33 Bloodscalp Channeling Staff and 45 others
+ID: 10720, Galak Assassin, lvl 28 -> CLT 10720 -> RLT 24050 -> Item ID: 1998, lvl 33 Bloodscalp Channeling Staff and 45 others
+ID: 6523, Dark Iron Rifleman, lvl 28 -> CLT 6523 -> RLT 24050 -> Item ID: 1998, lvl 33 Bloodscalp Channeling Staff and 45 others
+ID: 6208, Caverndeep Invader, lvl 26 -> CLT 6208 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff and 5 others
+ID: 6207, Caverndeep Ambusher, lvl 26 -> CLT 6207 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff and 5 others
+ID: 5763, Nightmare Ectoplasm, lvl 20 -> CLT 5763 -> RLT 24065 -> Item ID: 2194, lvl 25 Diamond Hammer and 5 others
+ID: 4627, Arugal's Voidwalker, lvl 20 -> CLT 4627 -> RLT 24065 -> Item ID: 2194, lvl 25 Diamond Hammer and 5 others
+ID: 4463, Blackrock Summoner, lvl 22 -> CLT 4463 -> RLT 24067 -> Item ID: 2098, lvl 27 Double-barreled Shotgun and 5 others
+ID: 4124, Needles Cougar, lvl 28 -> CLT 4124 -> RLT 24050 -> Item ID: 1998, lvl 33 Bloodscalp Channeling Staff and 45 others
+ID: 4095, Galak Mauler, lvl 28 -> CLT 4095 -> RLT 24050 -> Item ID: 1998, lvl 33 Bloodscalp Channeling Staff and 45 others
+ID: 4065, Blackrock Sentry, lvl 22 -> CLT 4065 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 40 others
+ID: 4041, Scorched Basilisk, lvl 28 -> CLT 4041 -> RLT 24050 -> Item ID: 1998, lvl 33 Bloodscalp Channeling Staff and 45 others
+ID: 4040, Cave Stalker, lvl 22 -> CLT 4040 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 40 others
+ID: 4029, Blackened Ancient, lvl 28 -> CLT 4029 -> RLT 24050 -> Item ID: 1998, lvl 33 Bloodscalp Channeling Staff and 45 others
+ID: 4023, Bloodfury Roguefeather, lvl 26 -> CLT 4023 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff and 5 others
+ID: 4012, Pridewing Wyvern, lvl 22 -> CLT 4012 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 40 others
+ID: 3999, Windshear Digger, lvl 22 -> CLT 3999 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 40 others
+ID: 3928, Rotting Slime, lvl 22 -> CLT 3928 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 40 others
+ID: 3825, Ghostpaw Alpha, lvl 28 -> CLT 3825 -> RLT 24050 -> Item ID: 1998, lvl 33 Bloodscalp Channeling Staff and 45 others
+ID: 3815, Blink Dragon, lvl 26 -> CLT 3815 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff and 5 others
+ID: 3809, Ashenvale Bear, lvl 22 -> CLT 3809 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 40 others
+ID: 3770, Bleakheart Shadowstalker, lvl 28 -> CLT 3770 -> RLT 24050 -> Item ID: 1998, lvl 33 Bloodscalp Channeling Staff and 45 others
+ID: 3767, Bleakheart Trickster, lvl 28 -> CLT 3767 -> RLT 24050 -> Item ID: 1998, lvl 33 Bloodscalp Channeling Staff and 45 others
+ID: 3734, Forsaken Thug, lvl 20 -> CLT 3734 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 37 others
+ID: 3393, Captain Fairmount, lvl 20 -> CLT 3393 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 37 others
+ID: 3392, Prospector Khazgorm, lvl 24 -> CLT 3392 -> RLT 24069 -> Item ID: 13024, lvl 29 Beazel's Basher and 4 others
+ID: 3374, Bael'dun Excavator, lvl 22 -> CLT 3374 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 40 others
+ID: 3252, Silithid Swarmer, lvl 22 -> CLT 3252 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 40 others
+ID: 3251, Silithid Grub, lvl 20 -> CLT 3251 -> RLT 24065 -> Item ID: 2194, lvl 25 Diamond Hammer and 5 others
+ID: 2503, Hillsbrad Foreman, lvl 28 -> CLT 2503 -> RLT 24050 -> Item ID: 1998, lvl 33 Bloodscalp Channeling Staff and 45 others
+ID: 2387, Hillsbrad Councilman, lvl 26 -> CLT 2387 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff and 5 others
+ID: 2385, Feral Mountain Lion, lvl 28 -> CLT 2385 -> RLT 24050 -> Item ID: 1998, lvl 33 Bloodscalp Channeling Staff and 45 others
+ID: 2356, Elder Gray Bear, lvl 26 -> CLT 2356 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff and 5 others
+ID: 2351, Gray Bear, lvl 22 -> CLT 2351 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 40 others
+ID: 2270, Hillsbrad Sentry, lvl 28 -> CLT 2270 -> RLT 24050 -> Item ID: 1998, lvl 33 Bloodscalp Channeling Staff and 45 others
+ID: 2244, Syndicate Shadow Mage, lvl 22 -> CLT 2244 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 40 others
+ID: 2089, Giant Wetlands Crocolisk, lvl 26 -> CLT 2089 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff and 5 others
+ID: 1947, Thule Ravenclaw, lvl 20 -> CLT 1947 -> RLT 24065 -> Item ID: 2194, lvl 25 Diamond Hammer and 5 others
+ID: 1057, Dragonmaw Bonewarder, lvl 24 -> CLT 1057 -> RLT 24068 -> Item ID: 897, lvl 29 Madwolf Bracers and 39 others
+ID: 1038, Dragonmaw Shadowwarder, lvl 24 -> CLT 1038 -> RLT 24068 -> Item ID: 897, lvl 29 Madwolf Bracers and 39 others
+ID: 1025, Bluegill Puddlejumper, lvl 22 -> CLT 1025 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 40 others
+ID: 948, Rotted One, lvl 26 -> CLT 948 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff and 5 others
+ID: 909, Defias Night Blade, lvl 26 -> CLT 909 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff and 5 others
+ID: 892, Splinter Fist Taskmaster, lvl 28 -> CLT 892 -> RLT 24050 -> Item ID: 1998, lvl 33 Bloodscalp Channeling Staff and 45 others
+ID: 604, Plague Spreader, lvl 28 -> CLT 604 -> RLT 24050 -> Item ID: 1998, lvl 33 Bloodscalp Channeling Staff and 45 others
+ID: 569, Green Recluse, lvl 22 -> CLT 569 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 40 others
+ID: 533, Nightbane Shadow Weaver, lvl 28 -> CLT 533 -> RLT 24050 -> Item ID: 1998, lvl 33 Bloodscalp Channeling Staff and 45 others
+ID: 518, Yowler, lvl 20 -> CLT 518 -> RLT 24065 -> Item ID: 2194, lvl 25 Diamond Hammer and 5 others
+ID: 434, Rabid Shadowhide Gnoll, lvl 22 -> CLT 434 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 40 others
+ID: 391, Old Murk-Eye, lvl 20 -> CLT 391 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 37 others
