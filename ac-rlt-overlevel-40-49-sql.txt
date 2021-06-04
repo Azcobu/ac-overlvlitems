@@ -19,20 +19,11 @@ DELETE FROM `creature_loot_template` WHERE `Entry` = 24818 AND `Reference` = 240
 -- Deletes RLT 24045 from lvl 43 NPC Steeljaw Snapper, ID: 14123 due to 6 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 14123 AND `Reference` = 24045;
 
--- Deletes RLT 24025 from lvl 45 NPC Theradrim Shardling, ID: 11783 due to 6 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 11783 AND `Reference` = 24025;
-
 -- Deletes RLT 24029 from lvl 49 NPC Incendosaur, ID: 9318 due to 6 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 9318 AND `Reference` = 24029;
 
 -- Deletes RLT 24025 from lvl 45 NPC Dark Iron Watchman, ID: 8637 due to 6 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 8637 AND `Reference` = 24025;
-
--- Deletes RLT 24025 from lvl 45 NPC Treasure Hunting Buccaneer, ID: 7902 due to 6 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 7902 AND `Reference` = 24025;
-
--- Deletes RLT 24025 from lvl 45 NPC Treasure Hunting Pirate, ID: 7899 due to 6 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 7899 AND `Reference` = 24025;
 
 -- Deletes RLT 24025 from lvl 45 NPC Southsea Swashbuckler, ID: 7858 due to 6 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 7858 AND `Reference` = 24025;
@@ -121,24 +112,6 @@ DELETE FROM `creature_loot_template` WHERE `Entry` = 750 AND `Reference` = 24045
 -- Deletes RLT 24045 from lvl 43 NPC Wyrmkin Dreamwalker, ID: 743 due to 6 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 743 AND `Reference` = 24045;
 
--- Deletes RLT 24041 from lvl 40 NPC Stonemaul Spirit, ID: 23786 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 23786 AND `Reference` = 24041;
-
--- Deletes RLT 24046 from lvl 44 NPC Noxxious Scion, ID: 13696 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 13696 AND `Reference` = 24046;
-
--- Deletes RLT 24025 from lvl 46 NPC Stolid Snapjaw, ID: 13599 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 13599 AND `Reference` = 24025;
-
--- Deletes RLT 24083 from lvl 44 NPC Vile Larva, ID: 12218 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 12218 AND `Reference` = 24083;
-
--- Deletes RLT 24082 from lvl 42 NPC Corruptor, ID: 12217 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 12217 AND `Reference` = 24082;
-
--- Deletes RLT 24044 from lvl 42 NPC Poison Sprite, ID: 12216 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 12216 AND `Reference` = 24044;
-
 -- Deletes RLT 24045 from lvl 44 NPC Clunk, ID: 8447 due to 5 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 8447 AND `Reference` = 24045;
 
@@ -148,23 +121,8 @@ DELETE FROM `creature_loot_template` WHERE `Entry` = 8419 AND `Reference` = 2402
 -- Deletes RLT 24025 from lvl 46 NPC Obsidion, ID: 8400 due to 5 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 8400 AND `Reference` = 24025;
 
--- Deletes RLT 24025 from lvl 46 NPC Lathoric the Black, ID: 8391 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 8391 AND `Reference` = 24025;
-
--- Deletes RLT 24028 from lvl 48 NPC Nightmare Whelp, ID: 8319 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 8319 AND `Reference` = 24028;
-
--- Deletes RLT 24025 from lvl 46 NPC Slime Maggot, ID: 8311 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 8311 AND `Reference` = 24025;
-
 -- Deletes RLT 24025 from lvl 46 NPC Caliph Scorpidsting, ID: 7847 due to 5 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 7847 AND `Reference` = 24025;
-
--- Deletes RLT 24025 from lvl 46 NPC Marauding Owlbeast, ID: 7808 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 7808 AND `Reference` = 24025;
-
--- Deletes RLT 24083 from lvl 44 NPC Scarab, ID: 7269 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 7269 AND `Reference` = 24083;
 
 -- Deletes RLT 24025 from lvl 46 NPC Haldarr Satyr, ID: 6125 due to 5 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 6125 AND `Reference` = 24025;

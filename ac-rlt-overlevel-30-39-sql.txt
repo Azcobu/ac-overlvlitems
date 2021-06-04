@@ -1,17 +1,8 @@
--- Deletes RLT 24025 from lvl 30 NPC Scarlet Trainee, ID: 6575 due to 21 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 6575 AND `Reference` = 24025;
-
 -- Deletes RLT 24025 from lvl 37 NPC Rigglefuzz, ID: 2817 due to 14 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 2817 AND `Reference` = 24025;
 
 -- Deletes RLT 24041 from lvl 35 NPC Young Murk Thresher, ID: 4388 due to 10 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 4388 AND `Reference` = 24041;
-
--- Deletes RLT 24041 from lvl 36 NPC Splinterbone Centurion, ID: 7346 due to 9 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 7346 AND `Reference` = 24041;
-
--- Deletes RLT 24041 from lvl 36 NPC Cleft Scorpid, ID: 7078 due to 9 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 7078 AND `Reference` = 24041;
 
 -- Deletes RLT 24041 from lvl 36 NPC Magram Marauder, ID: 4644 due to 9 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 4644 AND `Reference` = 24041;
@@ -22,14 +13,8 @@ DELETE FROM `creature_loot_template` WHERE `Entry` = 4404 AND `Reference` = 2404
 -- Deletes RLT 24041 from lvl 36 NPC Muckshell Clacker, ID: 4401 due to 9 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 4401 AND `Reference` = 24041;
 
--- Deletes RLT 24041 from lvl 36 NPC Gazban, ID: 2624 due to 9 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 2624 AND `Reference` = 24041;
-
 -- Deletes RLT 24041 from lvl 37 NPC Murk Thresher, ID: 4389 due to 8 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 4389 AND `Reference` = 24041;
-
--- Deletes RLT 24037 from lvl 35 NPC Stonevault Ambusher, ID: 7175 due to 7 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 7175 AND `Reference` = 24037;
 
 -- Deletes RLT 24041 from lvl 38 NPC Stonevault Basher, ID: 6733 due to 7 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 6733 AND `Reference` = 24041;
@@ -61,24 +46,6 @@ DELETE FROM `creature_loot_template` WHERE `Entry` = 595 AND `Reference` = 24037
 -- Deletes RLT 24039 from lvl 37 NPC Syndicate Thief, ID: 24477 due to 6 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 2588 AND `Reference` = 24039;
 
--- Deletes RLT 24041 from lvl 39 NPC Sul'lithuz Broodling, ID: 8138 due to 6 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 8138 AND `Reference` = 24041;
-
--- Deletes RLT 24081 from lvl 39 NPC Earthen Stonecarver, ID: 7397 due to 6 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 7397 AND `Reference` = 24081;
-
--- Deletes RLT 24081 from lvl 39 NPC Earthen Stonebreaker, ID: 7396 due to 6 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 7396 AND `Reference` = 24081;
-
--- Deletes RLT 24041 from lvl 39 NPC Shadowforge Ambusher, ID: 7091 due to 6 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 7091 AND `Reference` = 24041;
-
--- Deletes RLT 24081 from lvl 39 NPC Earthen Sculptor, ID: 7012 due to 6 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 7012 AND `Reference` = 24081;
-
--- Deletes RLT 24081 from lvl 39 NPC Earthen Rocksmasher, ID: 7011 due to 6 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 7011 AND `Reference` = 24081;
-
 -- Deletes RLT 24039 from lvl 37 NPC Obsidian Golem, ID: 4872 due to 6 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 4872 AND `Reference` = 24039;
 
@@ -97,14 +64,8 @@ DELETE FROM `creature_loot_template` WHERE `Entry` = 4664 AND `Reference` = 2405
 -- Deletes RLT 24037 from lvl 36 NPC Muckshell Pincer, ID: 4403 due to 6 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 4403 AND `Reference` = 24037;
 
--- Deletes RLT 24039 from lvl 37 NPC Mudrock Snapjaw, ID: 4400 due to 6 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 4400 AND `Reference` = 24039;
-
 -- Deletes RLT 24037 from lvl 36 NPC Mudrock Spikeshell, ID: 4397 due to 6 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 4397 AND `Reference` = 24037;
-
--- Deletes RLT 24039 from lvl 37 NPC Swamp Ooze, ID: 4391 due to 6 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 4391 AND `Reference` = 24039;
 
 -- Deletes RLT 24039 from lvl 37 NPC Withervine Rager, ID: 4385 due to 6 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 4385 AND `Reference` = 24039;
@@ -120,9 +81,6 @@ DELETE FROM `creature_loot_template` WHERE `Entry` = 4357 AND `Reference` = 2404
 
 -- Deletes RLT 24041 from lvl 39 NPC Bloodfen Razormaw, ID: 4356 due to 6 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 4356 AND `Reference` = 24041;
-
--- Deletes RLT 24054 from lvl 31 NPC Unfettered Spirit, ID: 4308 due to 6 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 4308 AND `Reference` = 24054;
 
 -- Deletes RLT 24054 from lvl 31 NPC Scarlet Augur, ID: 4284 due to 6 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 4284 AND `Reference` = 24054;
@@ -247,9 +205,6 @@ DELETE FROM `creature_loot_template` WHERE `Entry` = 23592 AND `Reference` = 240
 -- Deletes RLT 24037 from lvl 37 NPC Defias Rummager, ID: 23589 due to 5 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 23589 AND `Reference` = 24037;
 
--- Deletes RLT 24039 from lvl 38 NPC Demon Portal Guardian, ID: 11937 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 11937 AND `Reference` = 24039;
-
 -- Deletes RLT 24037 from lvl 37 NPC Whirlwind Stormwalker, ID: 11577 due to 5 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 11577 AND `Reference` = 24037;
 
@@ -267,27 +222,6 @@ DELETE FROM `creature_loot_template` WHERE `Entry` = 7873 AND `Reference` = 2405
 
 -- Deletes RLT 24056 from lvl 34 NPC Death's Head Cultist, ID: 7872 due to 5 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 7872 AND `Reference` = 24056;
-
--- Deletes RLT 24080 from lvl 38 NPC Deadly Cleft Scorpid, ID: 7405 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 7405 AND `Reference` = 24080;
-
--- Deletes RLT 24038 from lvl 36 NPC Splinterbone Warrior, ID: 7344 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 7344 AND `Reference` = 24038;
-
--- Deletes RLT 24038 from lvl 36 NPC Battle Boar Horror, ID: 7334 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 7334 AND `Reference` = 24038;
-
--- Deletes RLT 24056 from lvl 34 NPC Withered Battle Boar, ID: 7333 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 7333 AND `Reference` = 24056;
-
--- Deletes RLT 24039 from lvl 38 NPC Earthen Custodian, ID: 7309 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 7309 AND `Reference` = 24039;
-
--- Deletes RLT 24039 from lvl 38 NPC Earthen Hallshaper, ID: 7077 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 7077 AND `Reference` = 24039;
-
--- Deletes RLT 24039 from lvl 38 NPC Earthen Guardian, ID: 7076 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 7076 AND `Reference` = 24039;
 
 -- Deletes RLT 24054 from lvl 32 NPC Gutspill, ID: 6170 due to 5 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 6170 AND `Reference` = 24054;
@@ -367,12 +301,6 @@ DELETE FROM `creature_loot_template` WHERE `Entry` = 4635 AND `Reference` = 2405
 -- Deletes RLT 24054 from lvl 32 NPC Kolkar Mauler, ID: 4634 due to 5 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 4634 AND `Reference` = 24054;
 
--- Deletes RLT 24037 from lvl 37 NPC Frostmaw, ID: 4504 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 4504 AND `Reference` = 24037;
-
--- Deletes RLT 24052 from lvl 30 NPC Grenka Bloodscreech, ID: 4490 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 4490 AND `Reference` = 24052;
-
 -- Deletes RLT 24037 from lvl 37 NPC Murkgill Lord, ID: 4460 due to 5 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 4460 AND `Reference` = 24037;
 
@@ -384,12 +312,6 @@ DELETE FROM `creature_loot_template` WHERE `Entry` = 4414 AND `Reference` = 2403
 
 -- Deletes RLT 24039 from lvl 38 NPC Darkfang Creeper, ID: 4412 due to 5 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 4412 AND `Reference` = 24039;
-
--- Deletes RLT 24037 from lvl 37 NPC Darkfang Lurker, ID: 4411 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 4411 AND `Reference` = 24037;
-
--- Deletes RLT 24037 from lvl 37 NPC Mudrock Tortoise, ID: 4396 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 4396 AND `Reference` = 24037;
 
 -- Deletes RLT 24037 from lvl 37 NPC Darkmist Recluse, ID: 4378 due to 5 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 4378 AND `Reference` = 24037;
@@ -408,9 +330,6 @@ DELETE FROM `creature_loot_template` WHERE `Entry` = 4352 AND `Reference` = 2403
 
 -- Deletes RLT 24039 from lvl 38 NPC Drywallow Snapper, ID: 4343 due to 5 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 4343 AND `Reference` = 24039;
-
--- Deletes RLT 24037 from lvl 37 NPC Drywallow Vicejaw, ID: 4342 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 4342 AND `Reference` = 24037;
 
 -- Deletes RLT 24037 from lvl 37 NPC Venture Co. Shredder, ID: 4260 due to 5 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 4260 AND `Reference` = 24037;
@@ -600,9 +519,6 @@ DELETE FROM `creature_loot_template` WHERE `Entry` = 587 AND `Reference` = 24056
 
 -- Deletes RLT 24054 from lvl 32 NPC Stalvan Mistmantle, ID: 315 due to 5 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 315 AND `Reference` = 24054;
-
--- Deletes RLT 24053 from lvl 30 NPC Eliza, ID: 314 due to 5 level item gap.
-DELETE FROM `creature_loot_template` WHERE `Entry` = 314 AND `Reference` = 24053;
 
 -- Deletes RLT 24052 from lvl 30 NPC Zzarc' Vul, ID: 300 due to 5 level item gap.
 DELETE FROM `creature_loot_template` WHERE `Entry` = 300 AND `Reference` = 24052;

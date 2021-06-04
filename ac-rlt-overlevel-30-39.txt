@@ -1,14 +1,9 @@
-ID: 6575, Scarlet Trainee, lvl 30 -> CLT 6575 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 108 others
 ID: 2817, Rigglefuzz, lvl 37 -> CLT 2817 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 108 others
 ID: 4388, Young Murk Thresher, lvl 35 -> CLT 4388 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 10 others
-ID: 7346, Splinterbone Centurion, lvl 36 -> CLT 7346 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 12 others
-ID: 7078, Cleft Scorpid, lvl 36 -> CLT 7078 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 12 others
 ID: 4644, Magram Marauder, lvl 36 -> CLT 4644 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 144 others
 ID: 4404, Muckshell Scrabbler, lvl 36 -> CLT 4404 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 12 others
 ID: 4401, Muckshell Clacker, lvl 36 -> CLT 4401 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 12 others
-ID: 2624, Gazban, lvl 36 -> CLT 2624 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 12 others
 ID: 4389, Murk Thresher, lvl 37 -> CLT 4389 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 12 others
-ID: 7175, Stonevault Ambusher, lvl 35 -> CLT 7175 -> RLT 24037 -> Item ID: 14255, lvl 42 Lunar Belt and 94 others
 ID: 6733, Stonevault Basher, lvl 38 -> CLT 6733 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 12 others
 ID: 4655, Maraudine Wrangler, lvl 38 -> CLT 4655 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 11 others
 ID: 4390, Elder Murk Thresher, lvl 38 -> CLT 4390 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 12 others
@@ -19,27 +14,18 @@ ID: 1094, Venture Co. Miner, lvl 35 -> CLT 1094 -> RLT 24037 -> Item ID: 14255, 
 ID: 978, Kurzen Subchief, lvl 38 -> CLT 978 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 11 others
 ID: 595, Bloodscalp Hunter, lvl 35 -> CLT 595 -> RLT 24037 -> Item ID: 14255, lvl 42 Lunar Belt and 94 others
 ID: 24477, Syndicate Thief, lvl 37 -> CLT 2588 -> RLT 24039 -> Item ID: 1624, lvl 43 Skullsplitter Helm and 42 others
-ID: 8138, Sul'lithuz Broodling, lvl 39 -> CLT 8138 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 108 others
-ID: 7397, Earthen Stonecarver, lvl 39 -> CLT 7397 -> RLT 24081 -> Item ID: 2164, lvl 45 Gut Ripper and 2 others
-ID: 7396, Earthen Stonebreaker, lvl 39 -> CLT 7396 -> RLT 24081 -> Item ID: 2164, lvl 45 Gut Ripper and 2 others
-ID: 7091, Shadowforge Ambusher, lvl 39 -> CLT 7091 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 108 others
-ID: 7012, Earthen Sculptor, lvl 39 -> CLT 7012 -> RLT 24081 -> Item ID: 2164, lvl 45 Gut Ripper and 2 others
-ID: 7011, Earthen Rocksmasher, lvl 39 -> CLT 7011 -> RLT 24081 -> Item ID: 2164, lvl 45 Gut Ripper and 2 others
 ID: 4872, Obsidian Golem, lvl 37 -> CLT 4872 -> RLT 24039 -> Item ID: 1624, lvl 43 Skullsplitter Helm and 42 others
 ID: 4851, Stonevault Rockchewer, lvl 37 -> CLT 4851 -> RLT 24039 -> Item ID: 1624, lvl 43 Skullsplitter Helm and 42 others
 ID: 4845, Shadowforge Ruffian, lvl 36 -> CLT 4845 -> RLT 24037 -> Item ID: 14255, lvl 42 Lunar Belt and 48 others
 ID: 4695, Carrion Horror, lvl 37 -> CLT 4695 -> RLT 24039 -> Item ID: 1624, lvl 43 Skullsplitter Helm and 42 others
 ID: 4664, Burning Blade Reaver, lvl 31 -> CLT 4664 -> RLT 24054 -> Item ID: 863, lvl 37 Gloom Reaper and 96 others
 ID: 4403, Muckshell Pincer, lvl 36 -> CLT 4403 -> RLT 24037 -> Item ID: 14255, lvl 42 Lunar Belt and 47 others
-ID: 4400, Mudrock Snapjaw, lvl 37 -> CLT 4400 -> RLT 24039 -> Item ID: 1624, lvl 43 Skullsplitter Helm and 42 others
 ID: 4397, Mudrock Spikeshell, lvl 36 -> CLT 4397 -> RLT 24037 -> Item ID: 14255, lvl 42 Lunar Belt and 48 others
-ID: 4391, Swamp Ooze, lvl 37 -> CLT 4391 -> RLT 24039 -> Item ID: 1624, lvl 43 Skullsplitter Helm and 42 others
 ID: 4385, Withervine Rager, lvl 37 -> CLT 4385 -> RLT 24039 -> Item ID: 1624, lvl 43 Skullsplitter Helm and 42 others
 ID: 4379, Darkmist Silkspinner, lvl 37 -> CLT 4379 -> RLT 24039 -> Item ID: 1624, lvl 43 Skullsplitter Helm and 42 others
 ID: 4361, Mirefin Muckdweller, lvl 37 -> CLT 4361 -> RLT 24039 -> Item ID: 1624, lvl 43 Skullsplitter Helm and 42 others
 ID: 4357, Bloodfen Lashtail, lvl 39 -> CLT 4357 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 108 others
 ID: 4356, Bloodfen Razormaw, lvl 39 -> CLT 4356 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 108 others
-ID: 4308, Unfettered Spirit, lvl 31 -> CLT 4308 -> RLT 24054 -> Item ID: 863, lvl 37 Gloom Reaper and 96 others
 ID: 4284, Scarlet Augur, lvl 31 -> CLT 4284 -> RLT 24054 -> Item ID: 863, lvl 37 Gloom Reaper and 96 others
 ID: 4283, Scarlet Sentry, lvl 31 -> CLT 4283 -> RLT 24054 -> Item ID: 863, lvl 37 Gloom Reaper and 96 others
 ID: 4147, Saltstone Basilisk, lvl 31 -> CLT 4147 -> RLT 24054 -> Item ID: 863, lvl 37 Gloom Reaper and 96 others
@@ -81,20 +67,12 @@ ID: 660, Bloodscalp Witch Doctor, lvl 37 -> CLT 660 -> RLT 24039 -> Item ID: 162
 ID: 597, Bloodscalp Berserker, lvl 37 -> CLT 597 -> RLT 24039 -> Item ID: 1624, lvl 43 Skullsplitter Helm and 42 others
 ID: 23592, Grimtotem Breaker, lvl 37 -> CLT 23592 -> RLT 24037 -> Item ID: 14255, lvl 42 Lunar Belt and 1 others
 ID: 23589, Defias Rummager, lvl 37 -> CLT 23589 -> RLT 24037 -> Item ID: 14255, lvl 42 Lunar Belt and 1 others
-ID: 11937, Demon Portal Guardian, lvl 38 -> CLT 11937 -> RLT 24039 -> Item ID: 1624, lvl 43 Skullsplitter Helm and 45 others
 ID: 11577, Whirlwind Stormwalker, lvl 37 -> CLT 11577 -> RLT 24037 -> Item ID: 14255, lvl 42 Lunar Belt and 1 others
 ID: 11562, Drysnap Crawler, lvl 34 -> CLT 11562 -> RLT 24056 -> Item ID: 1207, lvl 39 Murphstar and 46 others
 ID: 11561, Undead Ravager, lvl 38 -> CLT 11561 -> RLT 24039 -> Item ID: 1624, lvl 43 Skullsplitter Helm and 45 others
 ID: 7874, Razorfen Thornweaver, lvl 34 -> CLT 7874 -> RLT 24056 -> Item ID: 1207, lvl 39 Murphstar and 46 others
 ID: 7873, Razorfen Battleguard, lvl 34 -> CLT 7873 -> RLT 24056 -> Item ID: 1207, lvl 39 Murphstar and 46 others
 ID: 7872, Death's Head Cultist, lvl 34 -> CLT 7872 -> RLT 24056 -> Item ID: 1207, lvl 39 Murphstar and 46 others
-ID: 7405, Deadly Cleft Scorpid, lvl 38 -> CLT 7405 -> RLT 24080 -> Item ID: 868, lvl 43 Ardent Custodian and 2 others
-ID: 7344, Splinterbone Warrior, lvl 36 -> CLT 7344 -> RLT 24038 -> Item ID: 9434, lvl 41 Elemental Raiment and 5 others
-ID: 7334, Battle Boar Horror, lvl 36 -> CLT 7334 -> RLT 24038 -> Item ID: 9434, lvl 41 Elemental Raiment and 5 others
-ID: 7333, Withered Battle Boar, lvl 34 -> CLT 7333 -> RLT 24056 -> Item ID: 1207, lvl 39 Murphstar and 46 others
-ID: 7309, Earthen Custodian, lvl 38 -> CLT 7309 -> RLT 24039 -> Item ID: 1624, lvl 43 Skullsplitter Helm and 45 others
-ID: 7077, Earthen Hallshaper, lvl 38 -> CLT 7077 -> RLT 24039 -> Item ID: 1624, lvl 43 Skullsplitter Helm and 45 others
-ID: 7076, Earthen Guardian, lvl 38 -> CLT 7076 -> RLT 24039 -> Item ID: 1624, lvl 43 Skullsplitter Helm and 45 others
 ID: 6170, Gutspill, lvl 32 -> CLT 6170 -> RLT 24054 -> Item ID: 863, lvl 37 Gloom Reaper and 46 others
 ID: 6072, Diathorus the Seeker, lvl 32 -> CLT 6072 -> RLT 24054 -> Item ID: 863, lvl 37 Gloom Reaper and 46 others
 ID: 5622, Ongeku, lvl 37 -> CLT 5622 -> RLT 24037 -> Item ID: 14255, lvl 42 Lunar Belt and 1 others
@@ -121,21 +99,16 @@ ID: 4641, Magram Windchaser, lvl 34 -> CLT 4641 -> RLT 24056 -> Item ID: 1207, l
 ID: 4640, Magram Wrangler, lvl 34 -> CLT 4640 -> RLT 24056 -> Item ID: 1207, lvl 39 Murphstar and 46 others
 ID: 4635, Kolkar Windchaser, lvl 32 -> CLT 4635 -> RLT 24054 -> Item ID: 863, lvl 37 Gloom Reaper and 46 others
 ID: 4634, Kolkar Mauler, lvl 32 -> CLT 4634 -> RLT 24054 -> Item ID: 863, lvl 37 Gloom Reaper and 46 others
-ID: 4504, Frostmaw, lvl 37 -> CLT 4504 -> RLT 24037 -> Item ID: 14255, lvl 42 Lunar Belt and 1 others
-ID: 4490, Grenka Bloodscreech, lvl 30 -> CLT 4490 -> RLT 24052 -> Item ID: 3197, lvl 35 Stonecutter Claymore and 43 others
 ID: 4460, Murkgill Lord, lvl 37 -> CLT 4460 -> RLT 24037 -> Item ID: 14255, lvl 42 Lunar Belt and 1 others
 ID: 4459, Murkgill Oracle, lvl 37 -> CLT 4459 -> RLT 24037 -> Item ID: 14255, lvl 42 Lunar Belt and 1 others
 ID: 4414, Darkfang Venomspitter, lvl 37 -> CLT 4414 -> RLT 24037 -> Item ID: 14255, lvl 42 Lunar Belt and 1 others
 ID: 4412, Darkfang Creeper, lvl 38 -> CLT 4412 -> RLT 24039 -> Item ID: 1624, lvl 43 Skullsplitter Helm and 45 others
-ID: 4411, Darkfang Lurker, lvl 37 -> CLT 4411 -> RLT 24037 -> Item ID: 14255, lvl 42 Lunar Belt and 1 others
-ID: 4396, Mudrock Tortoise, lvl 37 -> CLT 4396 -> RLT 24037 -> Item ID: 14255, lvl 42 Lunar Belt and 1 others
 ID: 4378, Darkmist Recluse, lvl 37 -> CLT 4378 -> RLT 24037 -> Item ID: 14255, lvl 42 Lunar Belt and 1 others
 ID: 4363, Mirefin Oracle, lvl 37 -> CLT 4363 -> RLT 24037 -> Item ID: 14255, lvl 42 Lunar Belt and 1 others
 ID: 4362, Mirefin Coastrunner, lvl 37 -> CLT 4362 -> RLT 24037 -> Item ID: 14255, lvl 42 Lunar Belt and 1 others
 ID: 4359, Mirefin Murloc, lvl 37 -> CLT 4359 -> RLT 24037 -> Item ID: 14255, lvl 42 Lunar Belt and 1 others
 ID: 4352, Bloodfen Screecher, lvl 37 -> CLT 4352 -> RLT 24037 -> Item ID: 14255, lvl 42 Lunar Belt and 1 others
 ID: 4343, Drywallow Snapper, lvl 38 -> CLT 4343 -> RLT 24039 -> Item ID: 1624, lvl 43 Skullsplitter Helm and 45 others
-ID: 4342, Drywallow Vicejaw, lvl 37 -> CLT 4342 -> RLT 24037 -> Item ID: 14255, lvl 42 Lunar Belt and 1 others
 ID: 4260, Venture Co. Shredder, lvl 37 -> CLT 4260 -> RLT 24037 -> Item ID: 14255, lvl 42 Lunar Belt and 1 others
 ID: 4158, Salt Flats Vulture, lvl 34 -> CLT 4158 -> RLT 24056 -> Item ID: 1207, lvl 39 Murphstar and 46 others
 ID: 4154, Salt Flats Scavenger, lvl 32 -> CLT 4154 -> RLT 24054 -> Item ID: 863, lvl 37 Gloom Reaper and 46 others
@@ -199,5 +172,4 @@ ID: 685, Stranglethorn Raptor, lvl 34 -> CLT 685 -> RLT 24056 -> Item ID: 1207, 
 ID: 684, Shadowmaw Panther, lvl 38 -> CLT 684 -> RLT 24039 -> Item ID: 1624, lvl 43 Skullsplitter Helm and 45 others
 ID: 587, Bloodscalp Warrior, lvl 34 -> CLT 587 -> RLT 24056 -> Item ID: 1207, lvl 39 Murphstar and 46 others
 ID: 315, Stalvan Mistmantle, lvl 32 -> CLT 315 -> RLT 24054 -> Item ID: 863, lvl 37 Gloom Reaper and 46 others
-ID: 314, Eliza, lvl 30 -> CLT 314 -> RLT 24053 -> Item ID: 2277, lvl 35 Necromancer Leggings and 4 others
 ID: 300, Zzarc' Vul, lvl 30 -> CLT 300 -> RLT 24052 -> Item ID: 3197, lvl 35 Stonecutter Claymore and 43 others

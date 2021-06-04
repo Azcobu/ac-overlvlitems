@@ -1,4 +1,8 @@
-# recursively unroll RLTs and level compare vs creatures
+# Find NPCs dropping overlevelled items by examining reference_loot_templates
+# and generate SQL to delete RLT references from creature templates in DB.
+
+# Map check ensures only mobs tracked are in open world (Eastern Kingdoms
+# and Kalimdor.) Note this means dungeon/instance and raid mobs are not checked.
 
 from mysql.connector import connect, Error
 from os import path
@@ -35,7 +39,7 @@ def process_data(found, gen_sql):
                           f'CLT {item[8]} -> '\
                           f'RLT {reftable} -> Item ID: {item[4]}, '\
                           f'lvl {item[6]} {item[5]} and {oli[npc_id][reftable]} others\n')
-            if gen_sql: #QQQQ check SQL quotes vs confirmed source
+            if gen_sql:
                 sqlout.append(f'-- Deletes RLT {reftable} from lvl {item[2]} NPC '\
                               f'{item[1]}, ID: {npc_id} due to {item[7]} level item gap.\n')
                 sqlout.append(f'DELETE FROM `creature_loot_template` WHERE '\
@@ -62,7 +66,6 @@ def build_rlt_table(db, cursor):
     rlts = {}
     unrolled = {}
     print('Building RLT table...', end='')
-    #db, cursor = open_sql_db(db_user, db_pass)
     query = ('SELECT rlt.entry, rlt.reference '
              'FROM `reference_loot_template` rlt '
              'WHERE rlt.reference != 0')
@@ -70,8 +73,6 @@ def build_rlt_table(db, cursor):
     for rlt in cursor.fetchall():
         k, v = rlt
         rlts[k] = rlts.get(k, []) + [v]
-
-    #rlts = {k:list(set(v)) for k, v in rlts.items()}
 
     for k, v in rlts.items():
         queue = set(v)
@@ -117,9 +118,10 @@ def scan_reftables(db_user, db_pass, min_npc_level=1, max_npc_level=60, leveldif
              'FROM `creature_template` ct '
              'JOIN `creature_loot_template` clt ON ct.lootid = clt.entry '
              'JOIN `reference_loot_template` rlt ON clt.reference = rlt.entry '
+             'JOIN `creature` c ON ct.entry = c.id '
              f'WHERE ct.minlevel >= {min_npc_level} '
              f'AND ct.maxlevel <= {max_npc_level} AND ct.rank = 0 '
-             'AND clt.reference != 0')
+             'AND clt.reference != 0 AND c.map IN (0, 1)')
 
     cursor.execute(query)
     npclist = cursor.fetchall()
@@ -173,7 +175,7 @@ def get_auth_details(infile):
 def main():
     start = time.time()
     db_user, db_pass = get_auth_details('db-auth.txt')
-    min_lvl, max_lvl = 1, 58
+    min_lvl, max_lvl = 50, 58
     found = scan_reftables(db_user, db_pass, min_lvl, max_lvl, 5)
     export_data(found, f'{min_lvl}-{max_lvl}', gen_sql=True)
     print(f'Run complete in {time.time() - start:.2f} secs.')

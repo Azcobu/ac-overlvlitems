@@ -5,11 +5,8 @@ ID: 2521, Skymane Gorilla, lvl 41 -> CLT 2521 -> RLT 24083 -> Item ID: 2291, lvl
 ID: 5990, Redstone Basilisk, lvl 48 -> CLT 5990 -> RLT 24029 -> Item ID: 8269, lvl 55 Ebonhold Boots and 95 others
 ID: 24818, Anvilrage Taskmaster, lvl 49 -> CLT 24818 -> RLT 24029 -> Item ID: 8269, lvl 55 Ebonhold Boots and 95 others
 ID: 14123, Steeljaw Snapper, lvl 43 -> CLT 14123 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 106 others
-ID: 11783, Theradrim Shardling, lvl 45 -> CLT 11783 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 108 others
 ID: 9318, Incendosaur, lvl 49 -> CLT 9318 -> RLT 24029 -> Item ID: 8269, lvl 55 Ebonhold Boots and 95 others
 ID: 8637, Dark Iron Watchman, lvl 45 -> CLT 8637 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 108 others
-ID: 7902, Treasure Hunting Buccaneer, lvl 45 -> CLT 7902 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 108 others
-ID: 7899, Treasure Hunting Pirate, lvl 45 -> CLT 7899 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 108 others
 ID: 7858, Southsea Swashbuckler, lvl 45 -> CLT 7858 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 108 others
 ID: 7857, Southsea Dock Worker, lvl 45 -> CLT 7857 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 108 others
 ID: 7856, Southsea Freebooter, lvl 45 -> CLT 7856 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 108 others
@@ -39,21 +36,10 @@ ID: 2505, Saltwater Snapjaw, lvl 45 -> CLT 2505 -> RLT 24026 -> Item ID: 7734, l
 ID: 818, Mai'Zoth, lvl 45 -> CLT 818 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 5 others
 ID: 750, Marsh Inkspewer, lvl 43 -> CLT 750 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 106 others
 ID: 743, Wyrmkin Dreamwalker, lvl 43 -> CLT 743 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 106 others
-ID: 23786, Stonemaul Spirit, lvl 40 -> CLT 23786 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 53 others
-ID: 13696, Noxxious Scion, lvl 44 -> CLT 13696 -> RLT 24046 -> Item ID: 13035, lvl 49 Serpent Slicer and 5 others
-ID: 13599, Stolid Snapjaw, lvl 46 -> CLT 13599 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 55 others
-ID: 12218, Vile Larva, lvl 44 -> CLT 12218 -> RLT 24083 -> Item ID: 2291, lvl 49 Kang the Decapitator and 2 others
-ID: 12217, Corruptor, lvl 42 -> CLT 12217 -> RLT 24082 -> Item ID: 871, lvl 47 Flurry Axe and 1 others
-ID: 12216, Poison Sprite, lvl 42 -> CLT 12216 -> RLT 24044 -> Item ID: 754, lvl 47 Shortsword of Vengeance and 5 others
 ID: 8447, Clunk, lvl 44 -> CLT 8447 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 53 others
 ID: 8419, Twilight Idolater, lvl 46 -> CLT 8419 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 4 others
 ID: 8400, Obsidion, lvl 46 -> CLT 8400 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 55 others
-ID: 8391, Lathoric the Black, lvl 46 -> CLT 8391 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 55 others
-ID: 8319, Nightmare Whelp, lvl 48 -> CLT 8319 -> RLT 24028 -> Item ID: 5266, lvl 53 Eye of Adaegus and 5 others
-ID: 8311, Slime Maggot, lvl 46 -> CLT 8311 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 55 others
 ID: 7847, Caliph Scorpidsting, lvl 46 -> CLT 7847 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 55 others
-ID: 7808, Marauding Owlbeast, lvl 46 -> CLT 7808 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 55 others
-ID: 7269, Scarab, lvl 44 -> CLT 7269 -> RLT 24083 -> Item ID: 2291, lvl 49 Kang the Decapitator and 2 others
 ID: 6125, Haldarr Satyr, lvl 46 -> CLT 6125 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 55 others
 ID: 6116, Highborne Apparition, lvl 46 -> CLT 6116 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 55 others
 ID: 5984, Starving Snickerfang, lvl 46 -> CLT 5984 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 55 others

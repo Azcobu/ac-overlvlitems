@@ -2,15 +2,11 @@ ID: 232, Farmer Ray, lvl 23 -> CLT 232 -> RLT 24042 -> Item ID: 1713, lvl 45 Ank
 ID: 4250, Galak Packhound, lvl 24 -> CLT 4250 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 12 others
 ID: 2260, Syndicate Rogue, lvl 22 -> CLT 2260 -> RLT 24056 -> Item ID: 1207, lvl 39 Murphstar and 92 others
 ID: 205, Nightbane Dark Runner, lvl 29 -> CLT 205 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 12 others
-ID: 7849, Mobile Alert System, lvl 25 -> CLT 7849 -> RLT 24052 -> Item ID: 3197, lvl 35 Stonecutter Claymore and 88 others
 ID: 6547, Suffering Victim, lvl 25 -> CLT 6547 -> RLT 24051 -> Item ID: 2299, lvl 33 Burning War Axe and 5 others
 ID: 6132, Razorfen Servitor, lvl 24 -> CLT 6132 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff and 11 others
 ID: 2091, Chieftain Nek'rosh, lvl 26 -> CLT 2091 -> RLT 24051 -> Item ID: 2299, lvl 33 Burning War Axe and 5 others
 ID: 11921, Besseleth, lvl 21 -> CLT 11921 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 81 others
-ID: 7603, Leprous Assistant, lvl 27 -> CLT 7603 -> RLT 24051 -> Item ID: 2299, lvl 33 Burning War Axe and 5 others
 ID: 7053, Klaven Mortwake, lvl 23 -> CLT 7053 -> RLT 24068 -> Item ID: 897, lvl 29 Madwolf Bracers and 80 others
-ID: 6224, Leprous Machinesmith, lvl 27 -> CLT 6224 -> RLT 24051 -> Item ID: 2299, lvl 33 Burning War Axe and 5 others
-ID: 6222, Leprous Technician, lvl 27 -> CLT 6222 -> RLT 24051 -> Item ID: 2299, lvl 33 Burning War Axe and 5 others
 ID: 4803, Blackfathom Oracle, lvl 21 -> CLT 4803 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 81 others
 ID: 4789, Fallenroot Rogue, lvl 21 -> CLT 4789 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 81 others
 ID: 4096, Galak Windchaser, lvl 25 -> CLT 4096 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff and 10 others
@@ -24,12 +20,8 @@ ID: 215, Defias Night Runner, lvl 25 -> CLT 215 -> RLT 24049 -> Item ID: 791, lv
 ID: 12897, Silverwing Warrior, lvl 22 -> CLT 12897 -> RLT 24066 -> Item ID: 2072, lvl 27 Dwarven Magestaff and 40 others
 ID: 10761, Grimtotem Reaver, lvl 28 -> CLT 10761 -> RLT 24050 -> Item ID: 1998, lvl 33 Bloodscalp Channeling Staff and 45 others
 ID: 10757, Boiling Elemental, lvl 28 -> CLT 10757 -> RLT 24050 -> Item ID: 1998, lvl 33 Bloodscalp Channeling Staff and 45 others
-ID: 10720, Galak Assassin, lvl 28 -> CLT 10720 -> RLT 24050 -> Item ID: 1998, lvl 33 Bloodscalp Channeling Staff and 45 others
 ID: 6523, Dark Iron Rifleman, lvl 28 -> CLT 6523 -> RLT 24050 -> Item ID: 1998, lvl 33 Bloodscalp Channeling Staff and 45 others
 ID: 6208, Caverndeep Invader, lvl 26 -> CLT 6208 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff and 5 others
-ID: 6207, Caverndeep Ambusher, lvl 26 -> CLT 6207 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff and 5 others
-ID: 5763, Nightmare Ectoplasm, lvl 20 -> CLT 5763 -> RLT 24065 -> Item ID: 2194, lvl 25 Diamond Hammer and 5 others
-ID: 4627, Arugal's Voidwalker, lvl 20 -> CLT 4627 -> RLT 24065 -> Item ID: 2194, lvl 25 Diamond Hammer and 5 others
 ID: 4463, Blackrock Summoner, lvl 22 -> CLT 4463 -> RLT 24067 -> Item ID: 2098, lvl 27 Double-barreled Shotgun and 5 others
 ID: 4124, Needles Cougar, lvl 28 -> CLT 4124 -> RLT 24050 -> Item ID: 1998, lvl 33 Bloodscalp Channeling Staff and 45 others
 ID: 4095, Galak Mauler, lvl 28 -> CLT 4095 -> RLT 24050 -> Item ID: 1998, lvl 33 Bloodscalp Channeling Staff and 45 others
