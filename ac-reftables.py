@@ -2,7 +2,9 @@
 # and generate SQL to delete RLT references from creature templates in DB.
 
 # Map check ensures only mobs tracked are in open world (Eastern Kingdoms
-# and Kalimdor.) Note this means dungeon/instance and raid mobs are not checked.
+# and Kalimdor.) Note this means dungeon/instance and raid mobs are not 
+# checked. Mobs must also be non-elite.
+
 
 from mysql.connector import connect, Error
 from os import path
@@ -21,6 +23,16 @@ def open_sql_db(db_user, db_pass):
         print(e)
 
     return db, db.cursor()
+    
+def get_auth_details(infile):
+	filepath = path.dirname(path.abspath(__file__))
+	try:
+		with open(path.join(filepath, infile), 'r') as authfile:
+			auth = [x.strip() for x in authfile.readlines()]
+		return auth[0], auth[1]
+	except Exception as err:
+		print(err)
+		sys.exit(1)
 
 def process_data(found, gen_sql):
     oli = {}
@@ -40,8 +52,9 @@ def process_data(found, gen_sql):
                           f'RLT {reftable} -> Item ID: {item[4]}, '\
                           f'lvl {item[6]} {item[5]} and {oli[npc_id][reftable]} others\n')
             if gen_sql:
-                sqlout.append(f'-- Deletes RLT {reftable} from lvl {item[2]} NPC '\
-                              f'{item[1]}, ID: {npc_id} due to {item[7]} level item gap.\n')
+                sqlout.append(f'-- Deletes RLT {reftable} from lvl {item[2]} '\
+                              f'{item[1]}, ID {npc_id} ({oli[npc_id][reftable]} '\
+                              f'items/{item[7]} level gap)\n')
                 sqlout.append(f'DELETE FROM `creature_loot_template` WHERE '\
                               f'`Entry` = {item[8]} AND `Reference` = {reftable};\n\n')
 
@@ -63,9 +76,8 @@ def export_data(found, levelstr, gen_sql=False):
         print(f'SQL commands written to {sqloutfilename}.')
 
 def build_rlt_table(db, cursor):
-    rlts = {}
-    unrolled = {}
-    print('Building RLT table...', end='')
+    rlts, unrolled = {}, {}
+    
     query = ('SELECT rlt.entry, rlt.reference '
              'FROM `reference_loot_template` rlt '
              'WHERE rlt.reference != 0')
@@ -84,8 +96,6 @@ def build_rlt_table(db, cursor):
                 if link not in v:
                     v.append(link)
         unrolled[k] = list(set(v))
-
-    print('done.')
     return unrolled
 
 def get_rlt_table(db, cursor, rlt_id):
@@ -107,9 +117,11 @@ def get_rlt_table(db, cursor, rlt_id):
 
     return {rlt_id: items}
 
-def scan_reftables(db_user, db_pass, min_npc_level=1, max_npc_level=60, leveldiff=4):
+def scan_reftables(min_npc_level=1, max_npc_level=58, leveldiff=4):
     found = []
     npcs, rlt_tables = {}, {}
+    
+    db_user, db_pass = get_auth_details('db-auth.txt')
     db, cursor = open_sql_db(db_user, db_pass)
 
     rlts = build_rlt_table(db, cursor)
@@ -161,24 +173,23 @@ def scan_reftables(db_user, db_pass, min_npc_level=1, max_npc_level=60, leveldif
     found.sort(key = lambda x: x[0], reverse=True)
     found.sort(key = lambda x: x[7], reverse=True)
     return found
-
-def get_auth_details(infile):
-	filepath = path.dirname(path.abspath(__file__))
-	try:
-		with open(path.join(filepath, infile), 'r') as authfile:
-			auth = [x.strip() for x in authfile.readlines()]
-		return auth[0], auth[1]
-	except Exception as err:
-		print(err)
-		sys.exit(1)
+	
+def batch_scan_lvl_ranges(level_diff):
+	ranges  = [[1, 19], [20, 29], [30, 39], [40, 49], [50, 58], [1, 58]]
+	for min_lvl, max_lvl in ranges:
+		found = scan_reftables(min_lvl, max_lvl, level_diff)
+		export_data(found, f'{min_lvl}-{max_lvl}', gen_sql=True)
 	
 def main():
-    start = time.time()
-    db_user, db_pass = get_auth_details('db-auth.txt')
-    min_lvl, max_lvl = 50, 58
-    found = scan_reftables(db_user, db_pass, min_lvl, max_lvl, 5)
-    export_data(found, f'{min_lvl}-{max_lvl}', gen_sql=True)
-    print(f'Run complete in {time.time() - start:.2f} secs.')
+	start = time.time()
+	min_lvl, max_lvl = 1, 19 # level ranges are inclusive, so min <= val <= max 
+	level_diff = 5
+	#batch_scan_lvl_ranges(level_diff)
+	
+	found = scan_reftables(min_lvl, max_lvl, level_diff)
+	export_data(found, f'{min_lvl}-{max_lvl}', gen_sql=True)
+	
+	print(f'Run complete in {time.time() - start:.2f} secs.')
 
 if __name__ == '__main__':
     main()
