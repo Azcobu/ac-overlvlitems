@@ -1,6 +1,8 @@
 # recursively unroll RLTs and level compare vs creatures
 
 from mysql.connector import connect, Error
+from os import path
+import sys
 import time
 
 def open_sql_db(db_user, db_pass):
@@ -159,9 +161,14 @@ def scan_reftables(db_user, db_pass, min_npc_level=1, max_npc_level=60, leveldif
     return found
 
 def get_auth_details(infile):
-	with open(infile, 'r') as authfile:
-		auth = [x.strip() for x in authfile.readlines()]
-	return auth[0], auth[1]
+	filepath = path.dirname(path.abspath(__file__))
+	try:
+		with open(path.join(filepath, infile), 'r') as authfile:
+			auth = [x.strip() for x in authfile.readlines()]
+		return auth[0], auth[1]
+	except Exception as err:
+		print(err)
+		sys.exit(1)
 	
 def main():
     start = time.time()
