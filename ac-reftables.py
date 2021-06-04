@@ -5,7 +5,6 @@
 # and Kalimdor.) Note this means dungeon/instance and raid mobs are not 
 # checked. Mobs must also be non-elite.
 
-
 from mysql.connector import connect, Error
 from os import path
 import sys
