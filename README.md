@@ -1,4 +1,4 @@
-# ac-rlt-overitems
+# ac-overlvlitems
 Finds overlevelled item drops in AC's reference loot tables and generates SQL to delete them.
 
 Requires a file called "db-auth.txt" in the program directory. This contains authorization details for the MySQL database. 
