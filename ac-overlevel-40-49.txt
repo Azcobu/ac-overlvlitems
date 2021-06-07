@@ -1,0 +1,229 @@
+ID: 2521, Skymane Gorilla, lvl 41 -> CLT 2521 -> RLT 24083 -> Item ID: 2291, lvl 49 Kang the Decapitator and 1 others
+ID: 5990, Redstone Basilisk, lvl 48 -> CLT 5990 -> RLT 24029 -> Item ID: 8269, lvl 55 Ebonhold Boots and 94 others
+ID: 672, Skullsplitter Spiritchaser, lvl 44 -> CLT 672 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 678, Mosh'Ogg Mauler, lvl 44 -> CLT 678 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 679, Mosh'Ogg Shaman, lvl 44 -> CLT 679 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 710, Mosh'Ogg Spellcrafter, lvl 44 -> CLT 710 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 728, Bhag'thera, lvl 40 -> CLT 728 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 4 others
+ID: 744, Green Scalebane, lvl 42 -> CLT 744 -> RLT 24044 -> Item ID: 754, lvl 47 Shortsword of Vengeance and 4 others
+ID: 751, Marsh Flesheater, lvl 44 -> CLT 751 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 783, Skullsplitter Berserker, lvl 44 -> CLT 783 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 813, Colonel Kurzen, lvl 40 -> CLT 813 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 107 others
+ID: 1062, Nezzliok the Dire, lvl 40 -> CLT 1062 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 107 others
+ID: 1907, Naga Explorer, lvl 44 -> CLT 1907 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 2306, Baron Vardus, lvl 40 -> CLT 2306 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 107 others
+ID: 2320, Nagaz, lvl 40 -> CLT 2320 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 107 others
+ID: 2347, Wild Gryphon, lvl 40 -> CLT 2347 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 107 others
+ID: 2421, Muckrake, lvl 40 -> CLT 2421 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 107 others
+ID: 2473, Granistad, lvl 40 -> CLT 2473 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 107 others
+ID: 2474, Kurdros, lvl 40 -> CLT 2474 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 107 others
+ID: 2536, Jon-Jon the Crow, lvl 44 -> CLT 2536 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 2546, Fleet Master Firallon, lvl 42 -> CLT 2546 -> RLT 24044 -> Item ID: 754, lvl 47 Shortsword of Vengeance and 4 others
+ID: 2548, Captain Keelhaul, lvl 42 -> CLT 2548 -> RLT 24044 -> Item ID: 754, lvl 47 Shortsword of Vengeance and 4 others
+ID: 2549, Garr Salthoof, lvl 42 -> CLT 2549 -> RLT 24043 -> Item ID: 1608, lvl 47 Skullcrusher Mace and 107 others
+ID: 2550, Captain Stillwater, lvl 42 -> CLT 2550 -> RLT 24044 -> Item ID: 754, lvl 47 Shortsword of Vengeance and 4 others
+ID: 2597, Lord Falconcrest, lvl 40 -> CLT 2597 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 107 others
+ID: 2607, Prince Galen Trollbane, lvl 44 -> CLT 2607 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 2691, Highvale Outrunner, lvl 44 -> CLT 2691 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 2720, Dustbelcher Ogre Mage, lvl 44 -> CLT 2720 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 2736, Greater Rock Elemental, lvl 44 -> CLT 2736 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 2773, Or'Kalar, lvl 40 -> CLT 2773 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 4 others
+ID: 2783, Marez Cowl, lvl 40 -> CLT 2783 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 107 others
+ID: 2924, Silvermane Wolf, lvl 44 -> CLT 2924 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 4334, Firemane Flamecaller, lvl 42 -> CLT 4334 -> RLT 24082 -> Item ID: 871, lvl 47 Flurry Axe and 1 others
+ID: 4505, Bloodsail Deckhand, lvl 42 -> CLT 4505 -> RLT 24044 -> Item ID: 754, lvl 47 Shortsword of Vengeance and 4 others
+ID: 5224, Murk Slitherer, lvl 46 -> CLT 5224 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 107 others
+ID: 5234, Gordunni Mauler, lvl 44 -> CLT 5234 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 5235, Fungal Ooze, lvl 46 -> CLT 5235 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 107 others
+ID: 5240, Gordunni Warlock, lvl 44 -> CLT 5240 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 5243, Cursed Atal'ai, lvl 46 -> CLT 5243 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 107 others
+ID: 5247, Zukk'ash Tunneler, lvl 46 -> CLT 5247 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 107 others
+ID: 5292, Feral Scar Yeti, lvl 44 -> CLT 5292 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 5293, Hulking Feral Scar, lvl 46 -> CLT 5293 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 107 others
+ID: 5295, Enraged Feral Scar, lvl 44 -> CLT 5295 -> RLT 24083 -> Item ID: 2291, lvl 49 Kang the Decapitator and 1 others
+ID: 5300, Frayfeather Hippogryph, lvl 44 -> CLT 5300 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 5305, Frayfeather Skystormer, lvl 46 -> CLT 5305 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 107 others
+ID: 5334, Hatecrest Myrmidon, lvl 44 -> CLT 5334 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 5336, Hatecrest Sorceress, lvl 44 -> CLT 5336 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 5423, Scorpid Tail Lasher, lvl 44 -> CLT 5423 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 5471, Dunemaul Ogre, lvl 46 -> CLT 5471 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 107 others
+ID: 5615, Wastewander Rogue, lvl 44 -> CLT 5615 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 5646, Sandfury Axe Thrower, lvl 44 -> CLT 5646 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 5647, Sandfury Firecaller, lvl 44 -> CLT 5647 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 5771, Jugkar Grim'rod, lvl 40 -> CLT 5771 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 107 others
+ID: 5839, Dark Iron Geologist, lvl 44 -> CLT 5839 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 5860, Twilight Dark Shaman, lvl 44 -> CLT 5860 -> RLT 24083 -> Item ID: 2291, lvl 49 Kang the Decapitator and 1 others
+ID: 5861, Twilight Fire Guard, lvl 46 -> CLT 5861 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 4 others
+ID: 5974, Dreadmaul Ogre, lvl 46 -> CLT 5974 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 107 others
+ID: 5984, Starving Snickerfang, lvl 46 -> CLT 5984 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 107 others
+ID: 6116, Highborne Apparition, lvl 46 -> CLT 6116 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 107 others
+ID: 6125, Haldarr Satyr, lvl 46 -> CLT 6125 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 107 others
+ID: 7847, Caliph Scorpidsting, lvl 46 -> CLT 7847 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 107 others
+ID: 8400, Obsidion, lvl 46 -> CLT 8400 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 107 others
+ID: 8419, Twilight Idolater, lvl 46 -> CLT 8419 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 4 others
+ID: 8447, Clunk, lvl 44 -> CLT 8447 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 674, Venture Co. Strip Miner, lvl 41 -> CLT 674 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 5 others
+ID: 677, Venture Co. Tinkerer, lvl 41 -> CLT 677 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 5 others
+ID: 680, Mosh'Ogg Lord, lvl 45 -> CLT 680 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 52 others
+ID: 687, Jungle Stalker, lvl 41 -> CLT 687 -> RLT 24081 -> Item ID: 2164, lvl 45 Gut Ripper and 1 others
+ID: 730, Tethis, lvl 43 -> CLT 730 -> RLT 24043 -> Item ID: 1608, lvl 47 Skullcrusher Mace and 52 others
+ID: 742, Green Wyrmkin, lvl 41 -> CLT 742 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 5 others
+ID: 743, Wyrmkin Dreamwalker, lvl 43 -> CLT 743 -> RLT 24043 -> Item ID: 1608, lvl 47 Skullcrusher Mace and 52 others
+ID: 746, Elder Dragonkin, lvl 45 -> CLT 746 -> RLT 24046 -> Item ID: 13035, lvl 49 Serpent Slicer and 4 others
+ID: 750, Marsh Inkspewer, lvl 43 -> CLT 750 -> RLT 24082 -> Item ID: 871, lvl 47 Flurry Axe
+ID: 752, Marsh Oracle, lvl 45 -> CLT 752 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 52 others
+ID: 766, Tangled Horror, lvl 41 -> CLT 766 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 5 others
+ID: 769, Deathstrike Tarantula, lvl 41 -> CLT 769 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 5 others
+ID: 818, Mai'Zoth, lvl 45 -> CLT 818 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 52 others
+ID: 922, Silt Crawler, lvl 41 -> CLT 922 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 5 others
+ID: 1059, Ana'thek the Cruel, lvl 45 -> CLT 1059 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 52 others
+ID: 1061, Gan'zulah, lvl 41 -> CLT 1061 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 52 others
+ID: 1713, Elder Shadowmaw Panther, lvl 43 -> CLT 1713 -> RLT 24043 -> Item ID: 1608, lvl 47 Skullcrusher Mace and 52 others
+ID: 2257, Mug'thol, lvl 43 -> CLT 2257 -> RLT 24044 -> Item ID: 754, lvl 47 Shortsword of Vengeance and 4 others
+ID: 2420, Targ, lvl 41 -> CLT 2420 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 52 others
+ID: 2423, Lord Aliden Perenolde, lvl 41 -> CLT 2423 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 52 others
+ID: 2505, Saltwater Snapjaw, lvl 45 -> CLT 2505 -> RLT 24083 -> Item ID: 2291, lvl 49 Kang the Decapitator and 1 others
+ID: 2522, Jaguero Stalker, lvl 41 -> CLT 2522 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 52 others
+ID: 2530, Yenniku, lvl 41 -> CLT 2530 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 52 others
+ID: 2544, Southern Sand Crawler, lvl 41 -> CLT 2544 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 5 others
+ID: 2547, Ironpatch, lvl 43 -> CLT 2547 -> RLT 24043 -> Item ID: 1608, lvl 47 Skullcrusher Mace and 52 others
+ID: 2551, Brutus, lvl 43 -> CLT 2551 -> RLT 24043 -> Item ID: 1608, lvl 47 Skullcrusher Mace and 52 others
+ID: 2640, Vilebranch Witch Doctor, lvl 47 -> CLT 2640 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 54 others
+ID: 2641, Vilebranch Headhunter, lvl 47 -> CLT 2641 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 3 others
+ID: 2644, Vilebranch Hideskinner, lvl 49 -> CLT 2644 -> RLT 24028 -> Item ID: 5266, lvl 53 Eye of Adaegus and 4 others
+ID: 2645, Vilebranch Shadow Hunter, lvl 49 -> CLT 2645 -> RLT 24028 -> Item ID: 5266, lvl 53 Eye of Adaegus and 4 others
+ID: 2649, Witherbark Scalper, lvl 41 -> CLT 2649 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 5 others
+ID: 2651, Witherbark Hideskinner, lvl 43 -> CLT 2651 -> RLT 24082 -> Item ID: 871, lvl 47 Flurry Axe
+ID: 2652, Witherbark Venomblood, lvl 43 -> CLT 2652 -> RLT 24082 -> Item ID: 871, lvl 47 Flurry Axe
+ID: 2653, Witherbark Sadist, lvl 45 -> CLT 2653 -> RLT 24083 -> Item ID: 2291, lvl 49 Kang the Decapitator and 1 others
+ID: 2655, Green Sludge, lvl 47 -> CLT 2655 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 3 others
+ID: 2658, Razorbeak Gryphon, lvl 45 -> CLT 2658 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 52 others
+ID: 2680, Vilebranch Wolf Pup, lvl 47 -> CLT 2680 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 3 others
+ID: 2686, Witherbark Broodguard, lvl 45 -> CLT 2686 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 52 others
+ID: 2692, Highvale Scout, lvl 45 -> CLT 2692 -> RLT 24046 -> Item ID: 13035, lvl 49 Serpent Slicer and 4 others
+ID: 2694, Highvale Ranger, lvl 47 -> CLT 2694 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 54 others
+ID: 2716, Dustbelcher Wyrmhunter, lvl 41 -> CLT 2716 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 5 others
+ID: 2718, Dustbelcher Shaman, lvl 43 -> CLT 2718 -> RLT 24044 -> Item ID: 754, lvl 47 Shortsword of Vengeance and 4 others
+ID: 2719, Dustbelcher Lord, lvl 45 -> CLT 2719 -> RLT 24046 -> Item ID: 13035, lvl 49 Serpent Slicer and 4 others
+ID: 2725, Scalding Whelp, lvl 43 -> CLT 2725 -> RLT 24044 -> Item ID: 754, lvl 47 Shortsword of Vengeance and 4 others
+ID: 2730, Rabid Crag Coyote, lvl 43 -> CLT 2730 -> RLT 24043 -> Item ID: 1608, lvl 47 Skullcrusher Mace and 52 others
+ID: 2734, Ridge Stalker Patriarch, lvl 41 -> CLT 2734 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 5 others
+ID: 2780, Caretaker Nevlin, lvl 41 -> CLT 2780 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 52 others
+ID: 2781, Caretaker Weston, lvl 41 -> CLT 2781 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 52 others
+ID: 2782, Caretaker Alaric, lvl 41 -> CLT 2782 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 52 others
+ID: 2791, Enraged Rock Elemental, lvl 43 -> CLT 2791 -> RLT 24044 -> Item ID: 754, lvl 47 Shortsword of Vengeance and 4 others
+ID: 2894, Stonevault Shaman, lvl 41 -> CLT 2894 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 5 others
+ID: 2927, Vicious Owlbeast, lvl 43 -> CLT 2927 -> RLT 24044 -> Item ID: 754, lvl 47 Shortsword of Vengeance and 4 others
+ID: 2928, Primitive Owlbeast, lvl 45 -> CLT 2928 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 52 others
+ID: 2929, Savage Owlbeast, lvl 47 -> CLT 2929 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 3 others
+ID: 4328, Firemane Scalebane, lvl 41 -> CLT 4328 -> RLT 24081 -> Item ID: 2164, lvl 45 Gut Ripper and 1 others
+ID: 4331, Firemane Ash Tail, lvl 41 -> CLT 4331 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 5 others
+ID: 4466, Vilebranch Scalper, lvl 47 -> CLT 4466 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 3 others
+ID: 4467, Vilebranch Soothsayer, lvl 47 -> CLT 4467 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 3 others
+ID: 4469, Emerald Ooze, lvl 47 -> CLT 4469 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 54 others
+ID: 4506, Bloodsail Swabby, lvl 41 -> CLT 4506 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 5 others
+ID: 4841, Deadmire, lvl 41 -> CLT 4841 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 52 others
+ID: 5225, Murk Spitter, lvl 47 -> CLT 5225 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 54 others
+ID: 5229, Gordunni Ogre, lvl 41 -> CLT 5229 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 5 others
+ID: 5232, Gordunni Brute, lvl 43 -> CLT 5232 -> RLT 24082 -> Item ID: 871, lvl 47 Flurry Axe
+ID: 5236, Gordunni Shaman, lvl 45 -> CLT 5236 -> RLT 24083 -> Item ID: 2291, lvl 49 Kang the Decapitator and 1 others
+ID: 5241, Gordunni Warlord, lvl 47 -> CLT 5241 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 3 others
+ID: 5245, Zukk'ash Wasp, lvl 45 -> CLT 5245 -> RLT 24046 -> Item ID: 13035, lvl 49 Serpent Slicer and 4 others
+ID: 5246, Zukk'ash Worker, lvl 45 -> CLT 5246 -> RLT 24046 -> Item ID: 13035, lvl 49 Serpent Slicer and 4 others
+ID: 5249, Woodpaw Mongrel, lvl 41 -> CLT 5249 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 5 others
+ID: 5254, Woodpaw Mystic, lvl 43 -> CLT 5254 -> RLT 24082 -> Item ID: 871, lvl 47 Flurry Axe
+ID: 5255, Woodpaw Reaver, lvl 43 -> CLT 5255 -> RLT 24044 -> Item ID: 754, lvl 47 Shortsword of Vengeance and 4 others
+ID: 5260, Groddoc Ape, lvl 43 -> CLT 5260 -> RLT 24043 -> Item ID: 1608, lvl 47 Skullcrusher Mace and 52 others
+ID: 5261, Enthralled Atal'ai, lvl 45 -> CLT 5261 -> RLT 24083 -> Item ID: 2291, lvl 49 Kang the Decapitator and 1 others
+ID: 5263, Mummified Atal'ai, lvl 47 -> CLT 5263 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 54 others
+ID: 5269, Atal'ai Priest, lvl 47 -> CLT 5269 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 54 others
+ID: 5272, Grizzled Ironfur Bear, lvl 45 -> CLT 5272 -> RLT 24046 -> Item ID: 13035, lvl 49 Serpent Slicer and 4 others
+ID: 5274, Ironfur Patriarch, lvl 49 -> CLT 5274 -> RLT 24028 -> Item ID: 5266, lvl 53 Eye of Adaegus and 4 others
+ID: 5278, Sprite Darter, lvl 45 -> CLT 5278 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 52 others
+ID: 5286, Longtooth Runner, lvl 41 -> CLT 5286 -> RLT 24081 -> Item ID: 2164, lvl 45 Gut Ripper and 1 others
+ID: 5296, Rage Scar Yeti, lvl 47 -> CLT 5296 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 54 others
+ID: 5297, Elder Rage Scar, lvl 49 -> CLT 5297 -> RLT 24027 -> Item ID: 8254, lvl 53 Imperial Red Circlet and 46 others
+ID: 5304, Frayfeather Stagwing, lvl 45 -> CLT 5304 -> RLT 24083 -> Item ID: 2291, lvl 49 Kang the Decapitator and 1 others
+ID: 5306, Frayfeather Patriarch, lvl 47 -> CLT 5306 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 3 others
+ID: 5307, Vale Screecher, lvl 43 -> CLT 5307 -> RLT 24082 -> Item ID: 871, lvl 47 Flurry Axe
+ID: 5327, Coast Crawl Snapclaw, lvl 45 -> CLT 5327 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 52 others
+ID: 5331, Hatecrest Warrior, lvl 43 -> CLT 5331 -> RLT 24044 -> Item ID: 754, lvl 47 Shortsword of Vengeance and 4 others
+ID: 5333, Hatecrest Serpent Guard, lvl 45 -> CLT 5333 -> RLT 24083 -> Item ID: 2291, lvl 49 Kang the Decapitator and 1 others
+ID: 5337, Hatecrest Siren, lvl 43 -> CLT 5337 -> RLT 24043 -> Item ID: 1608, lvl 47 Skullcrusher Mace and 52 others
+ID: 5362, Northspring Harpy, lvl 49 -> CLT 5362 -> RLT 24027 -> Item ID: 8254, lvl 53 Imperial Red Circlet and 46 others
+ID: 5363, Northspring Roguefeather, lvl 49 -> CLT 5363 -> RLT 24028 -> Item ID: 5266, lvl 53 Eye of Adaegus and 4 others
+ID: 5419, Glasshide Basilisk, lvl 43 -> CLT 5419 -> RLT 24082 -> Item ID: 871, lvl 47 Flurry Axe
+ID: 5421, Glasshide Petrifier, lvl 49 -> CLT 5421 -> RLT 24028 -> Item ID: 5266, lvl 53 Eye of Adaegus and 4 others
+ID: 5422, Scorpid Hunter, lvl 41 -> CLT 5422 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 5 others
+ID: 5424, Scorpid Dunestalker, lvl 47 -> CLT 5424 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 3 others
+ID: 5426, Blisterpaw Hyena, lvl 45 -> CLT 5426 -> RLT 24083 -> Item ID: 2291, lvl 49 Kang the Decapitator and 1 others
+ID: 5428, Roc, lvl 43 -> CLT 5428 -> RLT 24082 -> Item ID: 871, lvl 47 Flurry Axe
+ID: 5429, Fire Roc, lvl 45 -> CLT 5429 -> RLT 24046 -> Item ID: 13035, lvl 49 Serpent Slicer and 4 others
+ID: 5430, Searing Roc, lvl 49 -> CLT 5430 -> RLT 24027 -> Item ID: 8254, lvl 53 Imperial Red Circlet and 46 others
+ID: 5453, Hazzali Tunneler, lvl 49 -> CLT 5453 -> RLT 24027 -> Item ID: 8254, lvl 53 Imperial Red Circlet and 46 others
+ID: 5456, Centipaar Stinger, lvl 49 -> CLT 5456 -> RLT 24028 -> Item ID: 5266, lvl 53 Eye of Adaegus and 4 others
+ID: 5458, Centipaar Worker, lvl 49 -> CLT 5458 -> RLT 24028 -> Item ID: 5266, lvl 53 Eye of Adaegus and 4 others
+ID: 5461, Sea Elemental, lvl 49 -> CLT 5461 -> RLT 24028 -> Item ID: 5266, lvl 53 Eye of Adaegus and 4 others
+ID: 5465, Land Rager, lvl 47 -> CLT 5465 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 54 others
+ID: 5472, Dunemaul Enforcer, lvl 47 -> CLT 5472 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 3 others
+ID: 5473, Dunemaul Ogre Mage, lvl 47 -> CLT 5473 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 54 others
+ID: 5490, Gnarled Thistleshrub, lvl 49 -> CLT 5490 -> RLT 24028 -> Item ID: 5266, lvl 53 Eye of Adaegus and 4 others
+ID: 5616, Wastewander Thief, lvl 41 -> CLT 5616 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 5 others
+ID: 5617, Wastewander Shadow Mage, lvl 43 -> CLT 5617 -> RLT 24082 -> Item ID: 871, lvl 47 Flurry Axe
+ID: 5623, Wastewander Assassin, lvl 45 -> CLT 5623 -> RLT 24083 -> Item ID: 2291, lvl 49 Kang the Decapitator and 1 others
+ID: 5645, Sandfury Hideskinner, lvl 43 -> CLT 5645 -> RLT 24082 -> Item ID: 871, lvl 47 Flurry Axe
+ID: 5833, Margol the Rager, lvl 43 -> CLT 5833 -> RLT 24044 -> Item ID: 754, lvl 47 Shortsword of Vengeance and 4 others
+ID: 5840, Dark Iron Steamsmith, lvl 47 -> CLT 5840 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 3 others
+ID: 5843, Slave Worker, lvl 47 -> CLT 5843 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 3 others
+ID: 5850, Blazing Elemental, lvl 47 -> CLT 5850 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 3 others
+ID: 5852, Inferno Elemental, lvl 49 -> CLT 5852 -> RLT 24027 -> Item ID: 8254, lvl 53 Imperial Red Circlet and 46 others
+ID: 5853, Tempered War Golem, lvl 47 -> CLT 5853 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 54 others
+ID: 5854, Heavy War Golem, lvl 49 -> CLT 5854 -> RLT 24028 -> Item ID: 5266, lvl 53 Eye of Adaegus and 4 others
+ID: 5856, Glassweb Spider, lvl 45 -> CLT 5856 -> RLT 24083 -> Item ID: 2291, lvl 49 Kang the Decapitator and 1 others
+ID: 5857, Searing Lava Spider, lvl 47 -> CLT 5857 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 3 others
+ID: 5858, Greater Lava Spider, lvl 49 -> CLT 5858 -> RLT 24028 -> Item ID: 5266, lvl 53 Eye of Adaegus and 4 others
+ID: 5862, Twilight Geomancer, lvl 45 -> CLT 5862 -> RLT 24083 -> Item ID: 2291, lvl 49 Kang the Decapitator and 1 others
+ID: 5881, Cursed Sycamore, lvl 45 -> CLT 5881 -> RLT 24083 -> Item ID: 2291, lvl 49 Kang the Decapitator and 1 others
+ID: 5975, Dreadmaul Ogre Mage, lvl 47 -> CLT 5975 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 54 others
+ID: 5976, Dreadmaul Brute, lvl 47 -> CLT 5976 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 54 others
+ID: 5979, Wretched Lost One, lvl 47 -> CLT 5979 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 54 others
+ID: 5988, Scorpok Stinger, lvl 47 -> CLT 5988 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 3 others
+ID: 5992, Ashmane Boar, lvl 49 -> CLT 5992 -> RLT 24028 -> Item ID: 5266, lvl 53 Eye of Adaegus and 4 others
+ID: 6117, Highborne Lichling, lvl 47 -> CLT 6117 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 3 others
+ID: 6126, Haldarr Trickster, lvl 47 -> CLT 6126 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 54 others
+ID: 6127, Haldarr Felsworn, lvl 47 -> CLT 6127 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 54 others
+ID: 6184, Timbermaw Pathfinder, lvl 47 -> CLT 6184 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 54 others
+ID: 6186, Timbermaw Totemic, lvl 49 -> CLT 6186 -> RLT 24027 -> Item ID: 8254, lvl 53 Imperial Red Circlet and 46 others
+ID: 6190, Spitelash Warrior, lvl 47 -> CLT 6190 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 3 others
+ID: 6194, Spitelash Serpent Guard, lvl 49 -> CLT 6194 -> RLT 24028 -> Item ID: 5266, lvl 53 Eye of Adaegus and 4 others
+ID: 6505, Ravasaur, lvl 49 -> CLT 6505 -> RLT 24028 -> Item ID: 5266, lvl 53 Eye of Adaegus and 4 others
+ID: 6509, Bloodpetal Lasher, lvl 49 -> CLT 6509 -> RLT 24027 -> Item ID: 8254, lvl 53 Imperial Red Circlet and 46 others
+ID: 7097, Ironbeak Owl, lvl 49 -> CLT 7097 -> RLT 24027 -> Item ID: 8254, lvl 53 Imperial Red Circlet and 46 others
+ID: 7105, Jadefire Satyr, lvl 49 -> CLT 7105 -> RLT 24028 -> Item ID: 5266, lvl 53 Eye of Adaegus and 4 others
+ID: 7153, Deadwood Warrior, lvl 49 -> CLT 7153 -> RLT 24028 -> Item ID: 5266, lvl 53 Eye of Adaegus and 4 others
+ID: 7154, Deadwood Gardener, lvl 49 -> CLT 7154 -> RLT 24028 -> Item ID: 5266, lvl 53 Eye of Adaegus and 4 others
+ID: 7725, Grimtotem Raider, lvl 43 -> CLT 7725 -> RLT 24044 -> Item ID: 754, lvl 47 Shortsword of Vengeance and 4 others
+ID: 7855, Southsea Pirate, lvl 45 -> CLT 7855 -> RLT 24083 -> Item ID: 2291, lvl 49 Kang the Decapitator and 1 others
+ID: 7856, Southsea Freebooter, lvl 45 -> CLT 7856 -> RLT 24083 -> Item ID: 2291, lvl 49 Kang the Decapitator and 1 others
+ID: 7857, Southsea Dock Worker, lvl 45 -> CLT 7857 -> RLT 24046 -> Item ID: 13035, lvl 49 Serpent Slicer and 4 others
+ID: 7858, Southsea Swashbuckler, lvl 45 -> CLT 7858 -> RLT 24046 -> Item ID: 13035, lvl 49 Serpent Slicer and 4 others
+ID: 7883, Andre Firebeard, lvl 45 -> CLT 7883 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 52 others
+ID: 8136, Lord Shalzaru, lvl 47 -> CLT 8136 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 54 others
+ID: 8637, Dark Iron Watchman, lvl 45 -> CLT 8637 -> RLT 24046 -> Item ID: 13035, lvl 49 Serpent Slicer and 4 others
+ID: 8667, Gusting Vortex, lvl 45 -> CLT 8667 -> RLT 24046 -> Item ID: 13035, lvl 49 Serpent Slicer and 4 others
+ID: 8759, Mosshoof Runner, lvl 47 -> CLT 8759 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 54 others
+ID: 8837, Muck Splash, lvl 49 -> CLT 8837 -> RLT 24027 -> Item ID: 8254, lvl 53 Imperial Red Circlet and 46 others
+ID: 9318, Incendosaur, lvl 49 -> CLT 9318 -> RLT 24028 -> Item ID: 5266, lvl 53 Eye of Adaegus and 4 others
+ID: 9396, Ground Pounder, lvl 43 -> CLT 9396 -> RLT 24043 -> Item ID: 1608, lvl 47 Skullcrusher Mace and 52 others
+ID: 11686, Ghostly Raider, lvl 41 -> CLT 11686 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 5 others
+ID: 11777, Shadowshard Rumbler, lvl 41 -> CLT 11777 -> RLT 24081 -> Item ID: 2164, lvl 45 Gut Ripper and 1 others
+ID: 11781, Ambershard Crusher, lvl 41 -> CLT 11781 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 5 others
+ID: 11782, Ambershard Destroyer, lvl 43 -> CLT 11782 -> RLT 24043 -> Item ID: 1608, lvl 47 Skullcrusher Mace and 52 others
+ID: 11785, Ambereye Basilisk, lvl 41 -> CLT 11785 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 5 others
+ID: 11787, Rock Borer, lvl 41 -> CLT 11787 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 5 others
+ID: 12046, Gor'marok the Ravager, lvl 49 -> CLT 12046 -> RLT 24028 -> Item ID: 5266, lvl 53 Eye of Adaegus and 4 others
+ID: 14123, Steeljaw Snapper, lvl 43 -> CLT 14123 -> RLT 24082 -> Item ID: 871, lvl 47 Flurry Axe
+ID: 14661, Stinglasher, lvl 47 -> CLT 14661 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 54 others
+ID: 15685, Southsea Kidnapper, lvl 45 -> CLT 15685 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 52 others
+ID: 15692, Dark Iron Kidnapper, lvl 45 -> CLT 15692 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 52 others
+ID: 24818, Anvilrage Taskmaster, lvl 49 -> CLT 24818 -> RLT 24028 -> Item ID: 5266, lvl 53 Eye of Adaegus and 4 others

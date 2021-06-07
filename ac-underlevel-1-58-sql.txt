@@ -1,0 +1,1515 @@
+-- Deletes RLT 24074 from lvl 43 Fire Roc, ID 5429 (19 items/33 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5429 AND `Reference` = 24074;
+
+-- Deletes RLT 24078 from lvl 50 Jadefire Rogue, ID 7106 (70 items/32 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7106 AND `Reference` = 24078;
+
+-- Deletes RLT 24076 from lvl 42 Horizon Scout Crewman, ID 8386 (50 items/28 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 8386 AND `Reference` = 24076;
+
+-- Deletes RLT 24050 from lvl 54 Plague Lurker, ID 1824 (89 items/22 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1824 AND `Reference` = 24050;
+
+-- Deletes RLT 24054 from lvl 55 Crypt Walker, ID 8556 (96 items/19 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 8556 AND `Reference` = 24054;
+
+-- Deletes RLT 24077 from lvl 34 Drysnap Pincer, ID 11563 (63 items/18 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 11563 AND `Reference` = 24077;
+
+-- Deletes RLT 24056 from lvl 53 Winterfall Pathfinder, ID 7442 (92 items/15 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7442 AND `Reference` = 24056;
+
+-- Deletes RLT 24078 from lvl 31 Athrikus Narassin, ID 3660 (70 items/13 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3660 AND `Reference` = 24078;
+
+-- Deletes RLT 24039 from lvl 53 Great Wavethrasher, ID 6349 (87 items/11 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6349 AND `Reference` = 24039;
+
+-- Deletes RLT 24037 from lvl 51 Black Broodling, ID 7047 (94 items/11 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7047 AND `Reference` = 24037;
+
+-- Deletes RLT 24064 from lvl 30 Magistrate Burnside, ID 2335 (68 items/9 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2335 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 30 Snapjaw, ID 2408 (68 items/9 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2408 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 29 Elder Razormaw, ID 1019 (68 items/8 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1019 AND `Reference` = 24064;
+
+-- Deletes RLT 24060 from lvl 28 Dark Strand Voidcaller, ID 2337 (69 items/8 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2337 AND `Reference` = 24060;
+
+-- Deletes RLT 24066 from lvl 34 Dalaran Summoner, ID 2358 (81 items/8 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2358 AND `Reference` = 24066;
+
+-- Deletes RLT 24066 from lvl 34 Witherbark Headhunter, ID 2556 (81 items/8 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2556 AND `Reference` = 24066;
+
+-- Deletes RLT 24041 from lvl 48 Surf Glider, ID 5431 (67 items/8 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5431 AND `Reference` = 24041;
+
+-- Deletes RLT 24050 from lvl 40 Jinar'Zillen, ID 11317 (89 items/8 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 11317 AND `Reference` = 24050;
+
+-- Deletes RLT 24074 from lvl 17 Defias Highwayman, ID 122 (19 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 122 AND `Reference` = 24074;
+
+-- Deletes RLT 24064 from lvl 28 Nightbane Dark Runner, ID 205 (31 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 205 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 28 Brain Eater, ID 570 (31 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 570 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 28 Skeletal Warder, ID 785 (31 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 785 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 28 Dun Garok Mountaineer, ID 2344 (31 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2344 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 28 Daggerspine Shorestalker, ID 2368 (31 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2368 AND `Reference` = 24064;
+
+-- Deletes RLT 24041 from lvl 47 Vilebranch Shadowcaster, ID 2642 (12 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2642 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 47 Vilebranch Berserker, ID 2643 (12 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2643 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 47 Jade Ooze, ID 2656 (12 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2656 AND `Reference` = 24041;
+
+-- Deletes RLT 24054 from lvl 43 Silvermane Wolf, ID 2924 (96 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2924 AND `Reference` = 24054;
+
+-- Deletes RLT 24041 from lvl 47 Silvermane Stalker, ID 2926 (12 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2926 AND `Reference` = 24041;
+
+-- Deletes RLT 24064 from lvl 28 Xavian Betrayer, ID 3754 (31 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3754 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 28 Xavian Felsworn, ID 3755 (31 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3755 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 28 Forsaken Intruder, ID 3804 (31 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3804 AND `Reference` = 24064;
+
+-- Deletes RLT 24077 from lvl 23 Pridewing Skyhunter, ID 4013 (63 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4013 AND `Reference` = 24077;
+
+-- Deletes RLT 24064 from lvl 28 Screeching Harpy, ID 4100 (31 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4100 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 28 Highperch Wyvern, ID 4107 (31 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4107 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 28 Highperch Consort, ID 4109 (31 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4109 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 28 Pesterhide Snarler, ID 4249 (31 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4249 AND `Reference` = 24064;
+
+-- Deletes RLT 24041 from lvl 47 Jade Sludge, ID 4468 (46 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4468 AND `Reference` = 24041;
+
+-- Deletes RLT 24042 from lvl 47 Rabid Longtooth, ID 5288 (1 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5288 AND `Reference` = 24042;
+
+-- Deletes RLT 24042 from lvl 47 Rabid Blisterpaw, ID 5427 (1 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5427 AND `Reference` = 24042;
+
+-- Deletes RLT 24042 from lvl 47 Hazzali Wasp, ID 5441 (1 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5441 AND `Reference` = 24042;
+
+-- Deletes RLT 24042 from lvl 47 Centipaar Wasp, ID 5455 (1 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5455 AND `Reference` = 24042;
+
+-- Deletes RLT 24042 from lvl 47 Centipaar Tunneler, ID 5459 (1 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5459 AND `Reference` = 24042;
+
+-- Deletes RLT 24042 from lvl 47 Sea Spray, ID 5462 (1 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5462 AND `Reference` = 24042;
+
+-- Deletes RLT 24042 from lvl 47 Dunemaul Brute, ID 5474 (1 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5474 AND `Reference` = 24042;
+
+-- Deletes RLT 24042 from lvl 47 Dunemaul Warlock, ID 5475 (1 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5475 AND `Reference` = 24042;
+
+-- Deletes RLT 24042 from lvl 47 Thistleshrub Dew Collector, ID 5481 (1 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5481 AND `Reference` = 24042;
+
+-- Deletes RLT 24041 from lvl 47 Dark Iron Taskmaster, ID 5846 (12 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5846 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 47 Heavy War Golem, ID 5854 (12 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5854 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 47 Greater Lava Spider, ID 5858 (12 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5858 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 47 Black Slayer, ID 5982 (12 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5982 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 47 Redstone Basilisk, ID 5990 (36 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5990 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 47 Nethergarde Miner, ID 5996 (36 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5996 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 47 Nethergarde Engineer, ID 5997 (12 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5997 AND `Reference` = 24041;
+
+-- Deletes RLT 24042 from lvl 47 Spitelash Screamer, ID 6193 (1 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6193 AND `Reference` = 24042;
+
+-- Deletes RLT 24043 from lvl 53 Scorching Elemental, ID 6520 (108 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6520 AND `Reference` = 24043;
+
+-- Deletes RLT 24042 from lvl 47 Lord Shalzaru, ID 8136 (1 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 8136 AND `Reference` = 24042;
+
+-- Deletes RLT 24041 from lvl 47 Dark Iron Lookout, ID 8566 (12 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 8566 AND `Reference` = 24041;
+
+-- Deletes RLT 24042 from lvl 47 Timberweb Recluse, ID 8762 (1 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 8762 AND `Reference` = 24042;
+
+-- Deletes RLT 24041 from lvl 47 Muck Splash, ID 8837 (46 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 8837 AND `Reference` = 24041;
+
+-- Deletes RLT 24042 from lvl 47 Felpaw Wolf, ID 8959 (1 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 8959 AND `Reference` = 24042;
+
+-- Deletes RLT 24041 from lvl 47 Incendosaur, ID 9318 (12 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 9318 AND `Reference` = 24041;
+
+-- Deletes RLT 24064 from lvl 28 Scalding Elemental, ID 10756 (31 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 10756 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 28 Grimtotem Reaver, ID 10761 (31 items/7 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 10761 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 27 Highland Razormaw, ID 1018 (1 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1018 AND `Reference` = 24064;
+
+-- Deletes RLT 24025 from lvl 56 Wailing Death, ID 1804 (108 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1804 AND `Reference` = 24025;
+
+-- Deletes RLT 24049 from lvl 35 Syndicate Spy, ID 2242 (11 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2242 AND `Reference` = 24049;
+
+-- Deletes RLT 24050 from lvl 38 Crushridge Enforcer, ID 2256 (89 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2256 AND `Reference` = 24050;
+
+-- Deletes RLT 24041 from lvl 46 Zanzil the Outcast, ID 2534 (24 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2534 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Vilebranch Witch Doctor, ID 2640 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2640 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Vilebranch Headhunter, ID 2641 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2641 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Green Sludge, ID 2655 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2655 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Razorbeak Skylord, ID 2659 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2659 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Vilebranch Wolf Pup, ID 2680 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2680 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Highvale Ranger, ID 2694 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2694 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Savage Owlbeast, ID 2929 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2929 AND `Reference` = 24041;
+
+-- Deletes RLT 24064 from lvl 27 Elder Cloud Serpent, ID 4119 (1 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4119 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 27 Gerenzo Wrenchwhistle, ID 4202 (1 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4202 AND `Reference` = 24064;
+
+-- Deletes RLT 24041 from lvl 46 Vilebranch Scalper, ID 4466 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4466 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Vilebranch Soothsayer, ID 4467 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4467 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Emerald Ooze, ID 4469 (24 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4469 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Murk Spitter, ID 5225 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5225 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Gordunni Warlord, ID 5241 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5241 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Mummified Atal'ai, ID 5263 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5263 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Atal'ai Priest, ID 5269 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5269 AND `Reference` = 24041;
+
+-- Deletes RLT 24039 from lvl 48 Ironfur Patriarch, ID 5274 (87 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5274 AND `Reference` = 24039;
+
+-- Deletes RLT 24041 from lvl 46 Rage Scar Yeti, ID 5296 (24 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5296 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Frayfeather Patriarch, ID 5306 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5306 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Scorpid Dunestalker, ID 5424 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5424 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Dunemaul Enforcer, ID 5472 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5472 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Dunemaul Ogre Mage, ID 5473 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5473 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Dark Iron Steamsmith, ID 5840 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5840 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Magma Elemental, ID 5855 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5855 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Dreadmaul Ogre Mage, ID 5975 (24 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5975 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Dreadmaul Brute, ID 5976 (24 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5976 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Nethergarde Foreman, ID 5998 (34 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5998 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Highborne Lichling, ID 6117 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6117 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Haldarr Felsworn, ID 6127 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6127 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Timbermaw Pathfinder, ID 6184 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6184 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Spitelash Warrior, ID 6190 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6190 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Thunderhead Hippogryph, ID 6375 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6375 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Caliph Scorpidsting, ID 7847 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7847 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Quarry Slave, ID 8917 (12 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 8917 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 46 Jarquia, ID 9916 (34 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 9916 AND `Reference` = 24041;
+
+-- Deletes RLT 24064 from lvl 27 Horde Deforester, ID 11681 (1 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 11681 AND `Reference` = 24064;
+
+-- Deletes RLT 24043 from lvl 52 Gordok Hyena, ID 12418 (108 items/6 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 12418 AND `Reference` = 24043;
+
+-- Deletes RLT 24060 from lvl 25 Shadowhide Slayer, ID 431 (30 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 431 AND `Reference` = 24060;
+
+-- Deletes RLT 24075 from lvl 17 Murloc Oracle, ID 517 (22 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 517 AND `Reference` = 24075;
+
+-- Deletes RLT 24065 from lvl 27 Nightbane Shadow Weaver, ID 533 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 533 AND `Reference` = 24065;
+
+-- Deletes RLT 24065 from lvl 27 Plague Spreader, ID 604 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 604 AND `Reference` = 24065;
+
+-- Deletes RLT 24041 from lvl 45 Mosh'Ogg Lord, ID 680 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 680 AND `Reference` = 24041;
+
+-- Deletes RLT 24052 from lvl 39 Skullsplitter Axe Thrower, ID 696 (88 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 696 AND `Reference` = 24052;
+
+-- Deletes RLT 24041 from lvl 45 Elder Dragonkin, ID 746 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 746 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Marsh Oracle, ID 752 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 752 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Mai'Zoth, ID 818 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 818 AND `Reference` = 24041;
+
+-- Deletes RLT 24065 from lvl 27 Splinter Fist Taskmaster, ID 892 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 892 AND `Reference` = 24065;
+
+-- Deletes RLT 24065 from lvl 27 Mosshide Alpha, ID 1014 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1014 AND `Reference` = 24065;
+
+-- Deletes RLT 24064 from lvl 26 Flamesnorting Whelp, ID 1044 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1044 AND `Reference` = 24064;
+
+-- Deletes RLT 24065 from lvl 27 Dark Iron Dwarf, ID 1051 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1051 AND `Reference` = 24065;
+
+-- Deletes RLT 24041 from lvl 45 Ana'thek the Cruel, ID 1059 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1059 AND `Reference` = 24041;
+
+-- Deletes RLT 24065 from lvl 27 Skeletal Raider, ID 1110 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1110 AND `Reference` = 24065;
+
+-- Deletes RLT 24048 from lvl 35 Saltwater Crocolisk, ID 1151 (84 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1151 AND `Reference` = 24048;
+
+-- Deletes RLT 24048 from lvl 35 Snapjaw Crocolisk, ID 1152 (84 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1152 AND `Reference` = 24048;
+
+-- Deletes RLT 24065 from lvl 27 Cursed Marine, ID 1158 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1158 AND `Reference` = 24065;
+
+-- Deletes RLT 24074 from lvl 15 Stonesplinter Bonesnapper, ID 1164 (19 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1164 AND `Reference` = 24074;
+
+-- Deletes RLT 24075 from lvl 17 Wood Lurker, ID 1185 (22 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1185 AND `Reference` = 24075;
+
+-- Deletes RLT 24025 from lvl 55 Skeletal Acolyte, ID 1789 (108 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1789 AND `Reference` = 24025;
+
+-- Deletes RLT 24025 from lvl 55 Scarlet Paladin, ID 1834 (108 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1834 AND `Reference` = 24025;
+
+-- Deletes RLT 24050 from lvl 37 Crushridge Mage, ID 2255 (89 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2255 AND `Reference` = 24050;
+
+-- Deletes RLT 24060 from lvl 25 Hillsbrad Footman, ID 2268 (30 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2268 AND `Reference` = 24060;
+
+-- Deletes RLT 24065 from lvl 27 Hillsbrad Sentry, ID 2270 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2270 AND `Reference` = 24065;
+
+-- Deletes RLT 24065 from lvl 27 Mudsnout Shaman, ID 2373 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2373 AND `Reference` = 24065;
+
+-- Deletes RLT 24065 from lvl 27 Feral Mountain Lion, ID 2385 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2385 AND `Reference` = 24065;
+
+-- Deletes RLT 24060 from lvl 25 Hillsbrad Councilman, ID 2387 (30 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2387 AND `Reference` = 24060;
+
+-- Deletes RLT 24055 from lvl 41 Lord Aliden Perenolde, ID 2423 (10 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2423 AND `Reference` = 24055;
+
+-- Deletes RLT 24065 from lvl 27 Hillsbrad Foreman, ID 2503 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2503 AND `Reference` = 24065;
+
+-- Deletes RLT 24041 from lvl 45 Vilebranch Axe Thrower, ID 2639 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2639 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Witherbark Caller, ID 2654 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2654 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Highvale Marksman, ID 2693 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2693 AND `Reference` = 24041;
+
+-- Deletes RLT 24054 from lvl 41 Dustbelcher Mauler, ID 2717 (96 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2717 AND `Reference` = 24054;
+
+-- Deletes RLT 24041 from lvl 45 Silvermane Howler, ID 2925 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2925 AND `Reference` = 24041;
+
+-- Deletes RLT 24074 from lvl 15 Kolkar Marauder, ID 3275 (19 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3275 AND `Reference` = 24074;
+
+-- Deletes RLT 24065 from lvl 27 Isha Awak, ID 3476 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3476 AND `Reference` = 24065;
+
+-- Deletes RLT 24065 from lvl 27 Bleakheart Trickster, ID 3767 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3767 AND `Reference` = 24065;
+
+-- Deletes RLT 24065 from lvl 27 Bleakheart Shadowstalker, ID 3770 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3770 AND `Reference` = 24065;
+
+-- Deletes RLT 24065 from lvl 27 Ghostpaw Alpha, ID 3825 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3825 AND `Reference` = 24065;
+
+-- Deletes RLT 24065 from lvl 27 Crazed Ancient, ID 3834 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3834 AND `Reference` = 24065;
+
+-- Deletes RLT 24065 from lvl 27 Bloodtooth Guard, ID 3932 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3932 AND `Reference` = 24065;
+
+-- Deletes RLT 24077 from lvl 21 Windshear Digger, ID 3999 (63 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3999 AND `Reference` = 24077;
+
+-- Deletes RLT 24060 from lvl 25 Bloodfury Slayer, ID 4024 (30 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4024 AND `Reference` = 24060;
+
+-- Deletes RLT 24062 from lvl 27 Blackened Ancient, ID 4029 (60 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4029 AND `Reference` = 24062;
+
+-- Deletes RLT 24064 from lvl 26 Furious Stone Spirit, ID 4035 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4035 AND `Reference` = 24064;
+
+-- Deletes RLT 24062 from lvl 27 Scorched Basilisk, ID 4041 (60 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4041 AND `Reference` = 24062;
+
+-- Deletes RLT 24062 from lvl 27 Galak Mauler, ID 4095 (60 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4095 AND `Reference` = 24062;
+
+-- Deletes RLT 24065 from lvl 27 Gravelsnout Forager, ID 4114 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4114 AND `Reference` = 24065;
+
+-- Deletes RLT 24065 from lvl 27 Needles Cougar, ID 4124 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4124 AND `Reference` = 24065;
+
+-- Deletes RLT 24041 from lvl 45 Vilebranch Warrior, ID 4465 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4465 AND `Reference` = 24041;
+
+-- Deletes RLT 24027 from lvl 57 Scarlet Spellbinder, ID 4494 (94 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4494 AND `Reference` = 24027;
+
+-- Deletes RLT 24041 from lvl 45 Murk Slitherer, ID 5224 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5224 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Fungal Ooze, ID 5235 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5235 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Gordunni Battlemaster, ID 5238 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5238 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Gordunni Mage-Lord, ID 5239 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5239 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Cursed Atal'ai, ID 5243 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5243 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Zukk'ash Stinger, ID 5244 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5244 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Zukk'ash Tunneler, ID 5247 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5247 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Enthralled Atal'ai, ID 5261 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5261 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Hulking Feral Scar, ID 5293 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5293 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Frayfeather Skystormer, ID 5305 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5305 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Glasshide Gazer, ID 5420 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5420 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Land Rager, ID 5465 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5465 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Dunemaul Ogre, ID 5471 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5471 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Slave Worker, ID 5843 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5843 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Dark Iron Slaver, ID 5844 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5844 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Blazing Elemental, ID 5850 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5850 AND `Reference` = 24041;
+
+-- Deletes RLT 24039 from lvl 47 Inferno Elemental, ID 5852 (87 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5852 AND `Reference` = 24039;
+
+-- Deletes RLT 24041 from lvl 45 Tempered War Golem, ID 5853 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5853 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Searing Lava Spider, ID 5857 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5857 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Cursed Sycamore, ID 5881 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5881 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Dreadmaul Ogre, ID 5974 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5974 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Wretched Lost One, ID 5979 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5979 AND `Reference` = 24041;
+
+-- Deletes RLT 24081 from lvl 49 Bonepicker, ID 5983 (2 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5982 AND `Reference` = 24081;
+
+-- Deletes RLT 24041 from lvl 45 Starving Snickerfang, ID 5984 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5984 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Highborne Apparition, ID 6116 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6116 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Haldarr Satyr, ID 6125 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6125 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Haldarr Trickster, ID 6126 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6126 AND `Reference` = 24041;
+
+-- Deletes RLT 24043 from lvl 51 Spitelash Siren, ID 6195 (108 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6195 AND `Reference` = 24043;
+
+-- Deletes RLT 24065 from lvl 27 Dark Iron Rifleman, ID 6523 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6523 AND `Reference` = 24065;
+
+-- Deletes RLT 24026 from lvl 55 Blackrock Soldier, ID 7025 (9 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7025 AND `Reference` = 24026;
+
+-- Deletes RLT 24026 from lvl 55 Blackrock Sorcerer, ID 7026 (9 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7026 AND `Reference` = 24026;
+
+-- Deletes RLT 24027 from lvl 57 Flamescale Wyrmkin, ID 7043 (94 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7043 AND `Reference` = 24027;
+
+-- Deletes RLT 24045 from lvl 53 Jadefire Betrayer, ID 7108 (106 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7108 AND `Reference` = 24045;
+
+-- Deletes RLT 24045 from lvl 53 Deadwood Den Watcher, ID 7156 (106 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7156 AND `Reference` = 24045;
+
+-- Deletes RLT 24041 from lvl 45 Andre Firebeard, ID 7883 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7883 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Twilight Idolater, ID 8419 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 8419 AND `Reference` = 24041;
+
+-- Deletes RLT 24025 from lvl 55 Scourge Warder, ID 8525 (108 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 8525 AND `Reference` = 24025;
+
+-- Deletes RLT 24025 from lvl 55 Hate Shrieker, ID 8541 (108 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 8541 AND `Reference` = 24025;
+
+-- Deletes RLT 24041 from lvl 45 Mosshoof Runner, ID 8759 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 8759 AND `Reference` = 24041;
+
+-- Deletes RLT 24025 from lvl 55 Scarlet Priest, ID 10608 (108 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 10608 AND `Reference` = 24025;
+
+-- Deletes RLT 24065 from lvl 27 Boiling Elemental, ID 10757 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 10757 AND `Reference` = 24065;
+
+-- Deletes RLT 24083 from lvl 53 Gordok Enforcer, ID 11440 (2 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 11440 AND `Reference` = 24083;
+
+-- Deletes RLT 24045 from lvl 53 Gordok Mauler, ID 11442 (106 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 11442 AND `Reference` = 24045;
+
+-- Deletes RLT 24028 from lvl 57 Hive'Ashi Stinger, ID 11698 (5 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 11698 AND `Reference` = 24028;
+
+-- Deletes RLT 24027 from lvl 57 Hive'Ashi Worker, ID 11721 (94 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 11721 AND `Reference` = 24027;
+
+-- Deletes RLT 24027 from lvl 57 Hive'Ashi Swarmer, ID 11724 (94 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 11724 AND `Reference` = 24027;
+
+-- Deletes RLT 24025 from lvl 55 Dust Stormer, ID 11744 (108 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 11744 AND `Reference` = 24025;
+
+-- Deletes RLT 24025 from lvl 55 Zaeldarr the Outcast, ID 12250 (108 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 12250 AND `Reference` = 24025;
+
+-- Deletes RLT 24064 from lvl 26 Bloodfury Ripper, ID 12579 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 12579 AND `Reference` = 24064;
+
+-- Deletes RLT 24065 from lvl 27 Tideress, ID 12759 (1 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 12759 AND `Reference` = 24065;
+
+-- Deletes RLT 24025 from lvl 55 Thundering Invader, ID 14462 (108 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 14462 AND `Reference` = 24025;
+
+-- Deletes RLT 24041 from lvl 45 Southsea Kidnapper, ID 15685 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 15685 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 45 Dark Iron Kidnapper, ID 15692 (12 items/5 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 15692 AND `Reference` = 24041;
+
+-- Deletes RLT 24074 from lvl 14 Harvest Watcher, ID 114 (6 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 114 AND `Reference` = 24074;
+
+-- Deletes RLT 24075 from lvl 16 Defias Pathstalker, ID 121 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 121 AND `Reference` = 24075;
+
+-- Deletes RLT 24078 from lvl 22 Skeletal Mage, ID 203 (34 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 203 AND `Reference` = 24078;
+
+-- Deletes RLT 24067 from lvl 30 Nightbane Vile Fang, ID 206 (4 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 206 AND `Reference` = 24067;
+
+-- Deletes RLT 24065 from lvl 26 Bone Chewer, ID 210 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 210 AND `Reference` = 24065;
+
+-- Deletes RLT 24066 from lvl 30 Zzarc' Vul, ID 300 (41 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 300 AND `Reference` = 24066;
+
+-- Deletes RLT 24068 from lvl 32 Stalvan Mistmantle, ID 315 (41 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 315 AND `Reference` = 24068;
+
+-- Deletes RLT 24065 from lvl 26 Morganth, ID 397 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 397 AND `Reference` = 24065;
+
+-- Deletes RLT 24075 from lvl 16 Redridge Poacher, ID 424 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 424 AND `Reference` = 24075;
+
+-- Deletes RLT 24064 from lvl 25 Shadowhide Darkweaver, ID 429 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 429 AND `Reference` = 24064;
+
+-- Deletes RLT 24076 from lvl 18 Redridge Mystic, ID 430 (11 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 430 AND `Reference` = 24076;
+
+-- Deletes RLT 24078 from lvl 22 Shadowhide Gnoll, ID 433 (34 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 433 AND `Reference` = 24078;
+
+-- Deletes RLT 24061 from lvl 24 Blackrock Champion, ID 435 (5 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 435 AND `Reference` = 24061;
+
+-- Deletes RLT 24078 from lvl 22 Blackrock Shadowcaster, ID 436 (34 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 436 AND `Reference` = 24078;
+
+-- Deletes RLT 24075 from lvl 16 Defias Knuckleduster, ID 449 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 449 AND `Reference` = 24075;
+
+-- Deletes RLT 24075 from lvl 16 Riverpaw Bandit, ID 452 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 452 AND `Reference` = 24075;
+
+-- Deletes RLT 24074 from lvl 14 Murloc Minor Oracle, ID 456 (6 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 456 AND `Reference` = 24074;
+
+-- Deletes RLT 24065 from lvl 26 Insane Ghoul, ID 511 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 511 AND `Reference` = 24065;
+
+-- Deletes RLT 24077 from lvl 20 Yowler, ID 518 (28 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 518 AND `Reference` = 24077;
+
+-- Deletes RLT 24075 from lvl 16 Great Goretusk, ID 547 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 547 AND `Reference` = 24075;
+
+-- Deletes RLT 24061 from lvl 24 Shadowhide Warrior, ID 568 (5 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 568 AND `Reference` = 24061;
+
+-- Deletes RLT 24077 from lvl 20 Redridge Drudger, ID 580 (28 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 580 AND `Reference` = 24077;
+
+-- Deletes RLT 24049 from lvl 33 Bloodscalp Warrior, ID 587 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 587 AND `Reference` = 24049;
+
+-- Deletes RLT 24074 from lvl 14 Defias Pillager, ID 589 (6 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 589 AND `Reference` = 24074;
+
+-- Deletes RLT 24050 from lvl 36 Bloodscalp Berserker, ID 597 (44 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 597 AND `Reference` = 24050;
+
+-- Deletes RLT 24042 from lvl 44 Skullsplitter Spiritchaser, ID 672 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 672 AND `Reference` = 24042;
+
+-- Deletes RLT 24054 from lvl 40 Venture Co. Strip Miner, ID 674 (50 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 674 AND `Reference` = 24054;
+
+-- Deletes RLT 24054 from lvl 40 Venture Co. Tinkerer, ID 677 (50 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 677 AND `Reference` = 24054;
+
+-- Deletes RLT 24049 from lvl 33 Stranglethorn Raptor, ID 685 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 685 AND `Reference` = 24049;
+
+-- Deletes RLT 24054 from lvl 40 Jungle Stalker, ID 687 (50 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 687 AND `Reference` = 24054;
+
+-- Deletes RLT 24049 from lvl 33 Bloodscalp Axe Thrower, ID 694 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 694 AND `Reference` = 24049;
+
+-- Deletes RLT 24049 from lvl 33 Bloodscalp Shaman, ID 697 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 697 AND `Reference` = 24049;
+
+-- Deletes RLT 24049 from lvl 33 Bloodscalp Scavenger, ID 702 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 702 AND `Reference` = 24049;
+
+-- Deletes RLT 24065 from lvl 26 Lieutenant Fangore, ID 703 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 703 AND `Reference` = 24065;
+
+-- Deletes RLT 24054 from lvl 40 Deathstrike Tarantula, ID 769 (50 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 769 AND `Reference` = 24054;
+
+-- Deletes RLT 24065 from lvl 26 Skeletal Healer, ID 787 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 787 AND `Reference` = 24065;
+
+-- Deletes RLT 24064 from lvl 25 Splinter Fist Ogre, ID 889 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 889 AND `Reference` = 24064;
+
+-- Deletes RLT 24065 from lvl 26 Splinter Fist Fire Weaver, ID 891 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 891 AND `Reference` = 24065;
+
+-- Deletes RLT 24065 from lvl 26 Nightbane Worgen, ID 898 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 898 AND `Reference` = 24065;
+
+-- Deletes RLT 24064 from lvl 25 Defias Night Blade, ID 909 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 909 AND `Reference` = 24064;
+
+-- Deletes RLT 24065 from lvl 26 Defias Enchanter, ID 910 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 910 AND `Reference` = 24065;
+
+-- Deletes RLT 24060 from lvl 24 Black Widow Hatchling, ID 930 (39 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 930 AND `Reference` = 24060;
+
+-- Deletes RLT 24064 from lvl 25 Rotted One, ID 948 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 948 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 25 Carrion Recluse, ID 949 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 949 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 25 Highland Scytheclaw, ID 1017 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1017 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 25 Mottled Scytheclaw, ID 1022 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1022 AND `Reference` = 24064;
+
+-- Deletes RLT 24065 from lvl 26 Mottled Razormaw, ID 1023 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1022 AND `Reference` = 24065;
+
+-- Deletes RLT 24064 from lvl 25 Bluegill Oracle, ID 1029 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1029 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 25 Monstrous Ooze, ID 1033 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1031 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 25 Fen Lord, ID 1041 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1041 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 25 Crimson Whelp, ID 1069 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1069 AND `Reference` = 24064;
+
+-- Deletes RLT 24051 from lvl 36 Venture Co. Workboss, ID 1095 (5 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1095 AND `Reference` = 24051;
+
+-- Deletes RLT 24065 from lvl 26 Cursed Sailor, ID 1157 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1157 AND `Reference` = 24065;
+
+-- Deletes RLT 24064 from lvl 25 Black Ravager Mastiff, ID 1258 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1258 AND `Reference` = 24064;
+
+-- Deletes RLT 24078 from lvl 22 Gobbler, ID 1259 (34 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1259 AND `Reference` = 24078;
+
+-- Deletes RLT 24042 from lvl 44 Zanzil Witch Doctor, ID 1490 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1490 AND `Reference` = 24042;
+
+-- Deletes RLT 24042 from lvl 44 Zanzil Naga, ID 1491 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1491 AND `Reference` = 24042;
+
+-- Deletes RLT 24075 from lvl 16 Defias Magician, ID 1726 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1726 AND `Reference` = 24075;
+
+-- Deletes RLT 24075 from lvl 16 Defias Worker, ID 1727 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1727 AND `Reference` = 24075;
+
+-- Deletes RLT 24043 from lvl 50 Skeletal Flayer, ID 1783 (55 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1783 AND `Reference` = 24043;
+
+-- Deletes RLT 24025 from lvl 54 Skeletal Executioner, ID 1787 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1787 AND `Reference` = 24025;
+
+-- Deletes RLT 24025 from lvl 54 Rotting Ghoul, ID 1793 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1793 AND `Reference` = 24025;
+
+-- Deletes RLT 24045 from lvl 52 Scarlet Hunter, ID 1831 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1831 AND `Reference` = 24045;
+
+-- Deletes RLT 24027 from lvl 56 Scarlet Magus, ID 1832 (47 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1832 AND `Reference` = 24027;
+
+-- Deletes RLT 24075 from lvl 16 Bloodsnout Worg, ID 1923 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1923 AND `Reference` = 24075;
+
+-- Deletes RLT 24075 from lvl 16 Rot Hide Brute, ID 1939 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1939 AND `Reference` = 24075;
+
+-- Deletes RLT 24075 from lvl 16 Elder Lake Skulker, ID 1954 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1954 AND `Reference` = 24075;
+
+-- Deletes RLT 24075 from lvl 16 Vile Fin Shorecreeper, ID 1957 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1957 AND `Reference` = 24075;
+
+-- Deletes RLT 24076 from lvl 18 Deathstalker Faerleia, ID 2058 (11 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2058 AND `Reference` = 24076;
+
+-- Deletes RLT 24064 from lvl 25 Giant Wetlands Crocolisk, ID 2089 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2089 AND `Reference` = 24064;
+
+-- Deletes RLT 24075 from lvl 16 Grizzled Thistle Bear, ID 2165 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2165 AND `Reference` = 24075;
+
+-- Deletes RLT 24075 from lvl 16 Blackwood Warrior, ID 2168 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2168 AND `Reference` = 24075;
+
+-- Deletes RLT 24075 from lvl 16 Stormscale Siren, ID 2180 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2180 AND `Reference` = 24075;
+
+-- Deletes RLT 24077 from lvl 20 Stormscale Warrior, ID 2183 (28 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2183 AND `Reference` = 24077;
+
+-- Deletes RLT 24075 from lvl 16 Elder Darkshore Thresher, ID 2187 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2187 AND `Reference` = 24075;
+
+-- Deletes RLT 24075 from lvl 16 Greymist Hunter, ID 2206 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2206 AND `Reference` = 24075;
+
+-- Deletes RLT 24077 from lvl 20 Raging Reef Crawler, ID 2236 (28 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2236 AND `Reference` = 24077;
+
+-- Deletes RLT 24049 from lvl 33 Syndicate Thief, ID 2241 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2241 AND `Reference` = 24049;
+
+-- Deletes RLT 24049 from lvl 33 Giant Yeti, ID 2251 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2251 AND `Reference` = 24049;
+
+-- Deletes RLT 24050 from lvl 36 Crushridge Mauler, ID 2254 (44 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2254 AND `Reference` = 24050;
+
+-- Deletes RLT 24065 from lvl 26 Hillsbrad Miner, ID 2269 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2269 AND `Reference` = 24065;
+
+-- Deletes RLT 24054 from lvl 40 Baron Vardus, ID 2306 (50 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2306 AND `Reference` = 24054;
+
+-- Deletes RLT 24075 from lvl 16 Dark Strand Fanatic, ID 2336 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2336 AND `Reference` = 24075;
+
+-- Deletes RLT 24065 from lvl 26 Elder Moss Creeper, ID 2348 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2348 AND `Reference` = 24065;
+
+-- Deletes RLT 24078 from lvl 22 Vicious Gray Bear, ID 2354 (34 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2354 AND `Reference` = 24078;
+
+-- Deletes RLT 24064 from lvl 25 Elder Gray Bear, ID 2356 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2356 AND `Reference` = 24064;
+
+-- Deletes RLT 24049 from lvl 33 Elemental Slave, ID 2359 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2359 AND `Reference` = 24049;
+
+-- Deletes RLT 24078 from lvl 22 Hillsbrad Farmhand, ID 2360 (34 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2360 AND `Reference` = 24078;
+
+-- Deletes RLT 24066 from lvl 30 Daggerspine Shorehunter, ID 2369 (41 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2369 AND `Reference` = 24066;
+
+-- Deletes RLT 24065 from lvl 26 Mudsnout Gnoll, ID 2372 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2372 AND `Reference` = 24065;
+
+-- Deletes RLT 24060 from lvl 24 Farmer Getz, ID 2403 (39 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2403 AND `Reference` = 24060;
+
+-- Deletes RLT 24065 from lvl 26 Blacksmith Verringtan, ID 2404 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2404 AND `Reference` = 24065;
+
+-- Deletes RLT 24049 from lvl 33 Hulking Mountain Lion, ID 2407 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2407 AND `Reference` = 24049;
+
+-- Deletes RLT 24049 from lvl 33 Ricter, ID 2411 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2411 AND `Reference` = 24049;
+
+-- Deletes RLT 24049 from lvl 33 Alina, ID 2412 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2412 AND `Reference` = 24049;
+
+-- Deletes RLT 24054 from lvl 40 Muckrake, ID 2421 (50 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2421 AND `Reference` = 24054;
+
+-- Deletes RLT 24065 from lvl 26 Clerk Horrace Whitesteed, ID 2448 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2448 AND `Reference` = 24065;
+
+-- Deletes RLT 24064 from lvl 25 Citizen Wilkes, ID 2449 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2449 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 25 Farmer Kalaba, ID 2451 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2451 AND `Reference` = 24064;
+
+-- Deletes RLT 24054 from lvl 40 Granistad, ID 2473 (50 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2473 AND `Reference` = 24054;
+
+-- Deletes RLT 24054 from lvl 40 Southern Sand Crawler, ID 2544 (50 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2544 AND `Reference` = 24054;
+
+-- Deletes RLT 24049 from lvl 33 Witherbark Witch Doctor, ID 2555 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2555 AND `Reference` = 24049;
+
+-- Deletes RLT 24049 from lvl 33 Highland Thrasher, ID 2560 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2560 AND `Reference` = 24049;
+
+-- Deletes RLT 24049 from lvl 33 Boulderfist Enforcer, ID 2564 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2564 AND `Reference` = 24049;
+
+-- Deletes RLT 24052 from lvl 38 Rumbling Exile, ID 2592 (45 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2592 AND `Reference` = 24052;
+
+-- Deletes RLT 24052 from lvl 38 Daggerspine Raider, ID 2595 (45 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2595 AND `Reference` = 24052;
+
+-- Deletes RLT 24054 from lvl 40 Lord Falconcrest, ID 2597 (50 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2597 AND `Reference` = 24054;
+
+-- Deletes RLT 24052 from lvl 38 Otto, ID 2599 (45 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2599 AND `Reference` = 24052;
+
+-- Deletes RLT 24042 from lvl 44 Prince Galen Trollbane, ID 2607 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2607 AND `Reference` = 24042;
+
+-- Deletes RLT 24049 from lvl 33 Hammerfall Peon, ID 2618 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2618 AND `Reference` = 24049;
+
+-- Deletes RLT 24049 from lvl 33 Dalaran Worker, ID 2628 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2628 AND `Reference` = 24049;
+
+-- Deletes RLT 24043 from lvl 50 Vilebranch Aman'zasi Guard, ID 2648 (55 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2648 AND `Reference` = 24043;
+
+-- Deletes RLT 24054 from lvl 40 Witherbark Scalper, ID 2649 (50 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2649 AND `Reference` = 24054;
+
+-- Deletes RLT 24042 from lvl 44 Witherbark Sadist, ID 2653 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2653 AND `Reference` = 24042;
+
+-- Deletes RLT 24042 from lvl 44 Witherbark Broodguard, ID 2686 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2686 AND `Reference` = 24042;
+
+-- Deletes RLT 24042 from lvl 44 Highvale Scout, ID 2692 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2692 AND `Reference` = 24042;
+
+-- Deletes RLT 24052 from lvl 38 Quae, ID 2712 (45 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2712 AND `Reference` = 24052;
+
+-- Deletes RLT 24054 from lvl 40 Dustbelcher Wyrmhunter, ID 2716 (50 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2716 AND `Reference` = 24054;
+
+-- Deletes RLT 24056 from lvl 42 Dustbelcher Shaman, ID 2718 (46 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2718 AND `Reference` = 24056;
+
+-- Deletes RLT 24042 from lvl 44 Dustbelcher Lord, ID 2719 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2719 AND `Reference` = 24042;
+
+-- Deletes RLT 24052 from lvl 38 Burning Exile, ID 2760 (45 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2760 AND `Reference` = 24052;
+
+-- Deletes RLT 24054 from lvl 40 Marez Cowl, ID 2783 (50 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2783 AND `Reference` = 24054;
+
+-- Deletes RLT 24042 from lvl 44 Primitive Owlbeast, ID 2928 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2928 AND `Reference` = 24042;
+
+-- Deletes RLT 24064 from lvl 25 Wooly Kodo, ID 3237 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3237 AND `Reference` = 24064;
+
+-- Deletes RLT 24078 from lvl 22 Stormhide, ID 3238 (34 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3238 AND `Reference` = 24078;
+
+-- Deletes RLT 24075 from lvl 16 Ornery Plainstrider, ID 3245 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3245 AND `Reference` = 24075;
+
+-- Deletes RLT 24075 from lvl 16 Sunscale Scytheclaw, ID 3256 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3256 AND `Reference` = 24075;
+
+-- Deletes RLT 24075 from lvl 16 Bristleback Water Seeker, ID 3260 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3260 AND `Reference` = 24075;
+
+-- Deletes RLT 24074 from lvl 14 Kolkar Pack Runner, ID 3274 (6 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3274 AND `Reference` = 24074;
+
+-- Deletes RLT 24075 from lvl 16 Witchwing Slayer, ID 3278 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3278 AND `Reference` = 24075;
+
+-- Deletes RLT 24075 from lvl 16 Venture Co. Enforcer, ID 3283 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3283 AND `Reference` = 24075;
+
+-- Deletes RLT 24078 from lvl 22 Bael'dun Foreman, ID 3375 (34 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3375 AND `Reference` = 24078;
+
+-- Deletes RLT 24062 from lvl 26 Bael'dun Officer, ID 3378 (28 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3378 AND `Reference` = 24062;
+
+-- Deletes RLT 24075 from lvl 16 Theramore Preserver, ID 3386 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3386 AND `Reference` = 24075;
+
+-- Deletes RLT 24075 from lvl 16 Barak Kodobane, ID 3394 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3394 AND `Reference` = 24075;
+
+-- Deletes RLT 24074 from lvl 14 Kolkar Bloodcharger, ID 3397 (6 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3397 AND `Reference` = 24074;
+
+-- Deletes RLT 24064 from lvl 25 Lok Orcbane, ID 3435 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3435 AND `Reference` = 24064;
+
+-- Deletes RLT 24078 from lvl 22 Razormane Stalker, ID 3457 (34 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3457 AND `Reference` = 24078;
+
+-- Deletes RLT 24060 from lvl 24 Razormane Warfrenzy, ID 3459 (39 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3459 AND `Reference` = 24060;
+
+-- Deletes RLT 24075 from lvl 16 Baron Longshore, ID 3467 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3467 AND `Reference` = 24075;
+
+-- Deletes RLT 24075 from lvl 16 Tinkerer Sniggles, ID 3471 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3471 AND `Reference` = 24075;
+
+-- Deletes RLT 24064 from lvl 25 Washte Pawne, ID 3472 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3472 AND `Reference` = 24064;
+
+-- Deletes RLT 24075 from lvl 16 Deviate Stinglash, ID 3631 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3631 AND `Reference` = 24075;
+
+-- Deletes RLT 24075 from lvl 16 Deviate Slayer, ID 3633 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3633 AND `Reference` = 24075;
+
+-- Deletes RLT 24075 from lvl 16 Devouring Ectoplasm, ID 3638 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3638 AND `Reference` = 24075;
+
+-- Deletes RLT 24075 from lvl 16 Deviate Lurker, ID 3641 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3641 AND `Reference` = 24075;
+
+-- Deletes RLT 24075 from lvl 16 Anaya Dawnrunner, ID 3667 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3667 AND `Reference` = 24075;
+
+-- Deletes RLT 24060 from lvl 24 Foulweald Den Watcher, ID 3746 (39 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3746 AND `Reference` = 24060;
+
+-- Deletes RLT 24064 from lvl 25 Felmusk Satyr, ID 3758 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3758 AND `Reference` = 24064;
+
+-- Deletes RLT 24065 from lvl 26 Felmusk Rogue, ID 3759 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3759 AND `Reference` = 24065;
+
+-- Deletes RLT 24063 from lvl 26 Felmusk Felsworn, ID 3762 (3 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3762 AND `Reference` = 24063;
+
+-- Deletes RLT 24065 from lvl 26 Felmusk Shadowstalker, ID 3763 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3763 AND `Reference` = 24065;
+
+-- Deletes RLT 24065 from lvl 26 Bleakheart Satyr, ID 3765 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3765 AND `Reference` = 24065;
+
+-- Deletes RLT 24065 from lvl 26 Bleakheart Hellcaller, ID 3771 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3771 AND `Reference` = 24065;
+
+-- Deletes RLT 24064 from lvl 25 Shadethicket Stone Mover, ID 3782 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3782 AND `Reference` = 24064;
+
+-- Deletes RLT 24078 from lvl 22 Shadethicket Raincaller, ID 3783 (34 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3783 AND `Reference` = 24078;
+
+-- Deletes RLT 24065 from lvl 26 Shadethicket Bark Ripper, ID 3784 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3784 AND `Reference` = 24065;
+
+-- Deletes RLT 24064 from lvl 25 Cenarion Protector, ID 3797 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3797 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 25 Elder Ashenvale Bear, ID 3810 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3810 AND `Reference` = 24064;
+
+-- Deletes RLT 24077 from lvl 20 Spined Crawler, ID 3814 (28 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3814 AND `Reference` = 24077;
+
+-- Deletes RLT 24065 from lvl 26 Blink Dragon, ID 3815 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3815 AND `Reference` = 24065;
+
+-- Deletes RLT 24065 from lvl 26 Elder Shadowhorn Stag, ID 3818 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3818 AND `Reference` = 24065;
+
+-- Deletes RLT 24065 from lvl 26 Cenarion Vindicator, ID 3833 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3833 AND `Reference` = 24065;
+
+-- Deletes RLT 24065 from lvl 26 Withered Ancient, ID 3919 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3919 AND `Reference` = 24065;
+
+-- Deletes RLT 24068 from lvl 32 Uthil Mooncall, ID 3941 (41 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3941 AND `Reference` = 24068;
+
+-- Deletes RLT 24068 from lvl 32 Mavoris Cloudsbreak, ID 3942 (41 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3942 AND `Reference` = 24068;
+
+-- Deletes RLT 24078 from lvl 22 Ruuzel, ID 3943 (34 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3943 AND `Reference` = 24078;
+
+-- Deletes RLT 24064 from lvl 25 Sarilus Foulborne, ID 3986 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3986 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 25 Dal Bloodclaw, ID 3987 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3987 AND `Reference` = 24064;
+
+-- Deletes RLT 24075 from lvl 16 Deepmoss Creeper, ID 4005 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4005 AND `Reference` = 24075;
+
+-- Deletes RLT 24078 from lvl 22 Pridewing Consort, ID 4014 (34 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4014 AND `Reference` = 24078;
+
+-- Deletes RLT 24065 from lvl 26 Wily Fey Dragon, ID 4017 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4017 AND `Reference` = 24065;
+
+-- Deletes RLT 24078 from lvl 22 Antlered Courser, ID 4018 (34 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4018 AND `Reference` = 24078;
+
+-- Deletes RLT 24064 from lvl 25 Bloodfury Roguefeather, ID 4023 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4023 AND `Reference` = 24064;
+
+-- Deletes RLT 24060 from lvl 24 Bloodfury Windcaller, ID 4026 (39 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4026 AND `Reference` = 24060;
+
+-- Deletes RLT 24062 from lvl 26 Bloodfury Storm Witch, ID 4027 (28 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4027 AND `Reference` = 24062;
+
+-- Deletes RLT 24064 from lvl 25 Charred Ancient, ID 4028 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4028 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 25 Fledgling Chimaera, ID 4031 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4031 AND `Reference` = 24064;
+
+-- Deletes RLT 24065 from lvl 26 Burning Destroyer, ID 4038 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4038 AND `Reference` = 24065;
+
+-- Deletes RLT 24064 from lvl 25 Singed Basilisk, ID 4042 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4042 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 25 Cenarion Caretaker, ID 4050 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4050 AND `Reference` = 24064;
+
+-- Deletes RLT 24065 from lvl 26 Cenarion Druid, ID 4052 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4052 AND `Reference` = 24065;
+
+-- Deletes RLT 24062 from lvl 26 Mirkfallon Keeper, ID 4056 (28 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4056 AND `Reference` = 24062;
+
+-- Deletes RLT 24064 from lvl 25 Mirkfallon Dryad, ID 4061 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4061 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 25 Galak Wrangler, ID 4093 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4093 AND `Reference` = 24064;
+
+-- Deletes RLT 24061 from lvl 24 Galak Windchaser, ID 4096 (5 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4096 AND `Reference` = 24061;
+
+-- Deletes RLT 24065 from lvl 26 Galak Stormer, ID 4097 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4097 AND `Reference` = 24065;
+
+-- Deletes RLT 24065 from lvl 26 Galak Marauder, ID 4099 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4099 AND `Reference` = 24065;
+
+-- Deletes RLT 24066 from lvl 30 Screeching Windcaller, ID 4104 (41 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4104 AND `Reference` = 24066;
+
+-- Deletes RLT 24065 from lvl 26 Gravelsnout Kobold, ID 4111 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4111 AND `Reference` = 24065;
+
+-- Deletes RLT 24064 from lvl 25 Gravelsnout Vermin, ID 4112 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4112 AND `Reference` = 24064;
+
+-- Deletes RLT 24064 from lvl 25 Cloud Serpent, ID 4117 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4117 AND `Reference` = 24064;
+
+-- Deletes RLT 24065 from lvl 26 Venomous Cloud Serpent, ID 4118 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4118 AND `Reference` = 24065;
+
+-- Deletes RLT 24064 from lvl 25 Crag Stalker, ID 4126 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4126 AND `Reference` = 24064;
+
+-- Deletes RLT 24078 from lvl 22 Hecklefang Stalker, ID 4128 (34 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4128 AND `Reference` = 24078;
+
+-- Deletes RLT 24049 from lvl 33 Silithid Hive Drone, ID 4133 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4133 AND `Reference` = 24049;
+
+-- Deletes RLT 24049 from lvl 33 Scorpid Terror, ID 4139 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4139 AND `Reference` = 24049;
+
+-- Deletes RLT 24068 from lvl 32 Saltstone Crystalhide, ID 4151 (41 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4151 AND `Reference` = 24068;
+
+-- Deletes RLT 24065 from lvl 26 Pesterhide Hyena, ID 4248 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4248 AND `Reference` = 24065;
+
+-- Deletes RLT 24064 from lvl 25 Gatekeeper Kordurus, ID 4409 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4409 AND `Reference` = 24064;
+
+-- Deletes RLT 24078 from lvl 22 Blackrock Summoner, ID 4463 (34 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4463 AND `Reference` = 24078;
+
+-- Deletes RLT 24060 from lvl 24 Blackrock Gladiator, ID 4464 (39 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4464 AND `Reference` = 24060;
+
+-- Deletes RLT 24049 from lvl 33 Magram Scout, ID 4638 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4638 AND `Reference` = 24049;
+
+-- Deletes RLT 24049 from lvl 33 Magram Wrangler, ID 4640 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4640 AND `Reference` = 24049;
+
+-- Deletes RLT 24049 from lvl 33 Magram Windchaser, ID 4641 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4641 AND `Reference` = 24049;
+
+-- Deletes RLT 24049 from lvl 33 Gelkis Stamper, ID 4648 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4648 AND `Reference` = 24049;
+
+-- Deletes RLT 24049 from lvl 33 Gelkis Windchaser, ID 4649 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4649 AND `Reference` = 24049;
+
+-- Deletes RLT 24068 from lvl 32 Dread Swoop, ID 4692 (41 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4692 AND `Reference` = 24068;
+
+-- Deletes RLT 24049 from lvl 33 Slitherblade Warrior, ID 4713 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4713 AND `Reference` = 24049;
+
+-- Deletes RLT 24049 from lvl 33 Raging Thunder Lizard, ID 4726 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4726 AND `Reference` = 24049;
+
+-- Deletes RLT 24054 from lvl 40 Gordunni Ogre, ID 5229 (50 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5229 AND `Reference` = 24054;
+
+-- Deletes RLT 24042 from lvl 44 Gordunni Shaman, ID 5236 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5236 AND `Reference` = 24042;
+
+-- Deletes RLT 24042 from lvl 44 Zukk'ash Wasp, ID 5245 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5245 AND `Reference` = 24042;
+
+-- Deletes RLT 24042 from lvl 44 Zukk'ash Worker, ID 5246 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5246 AND `Reference` = 24042;
+
+-- Deletes RLT 24054 from lvl 40 Woodpaw Mongrel, ID 5249 (50 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5249 AND `Reference` = 24054;
+
+-- Deletes RLT 24042 from lvl 44 Grizzled Ironfur Bear, ID 5272 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5272 AND `Reference` = 24042;
+
+-- Deletes RLT 24054 from lvl 40 Longtooth Runner, ID 5286 (50 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5286 AND `Reference` = 24054;
+
+-- Deletes RLT 24042 from lvl 44 Enraged Feral Scar, ID 5295 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5295 AND `Reference` = 24042;
+
+-- Deletes RLT 24042 from lvl 44 Frayfeather Stagwing, ID 5304 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5304 AND `Reference` = 24042;
+
+-- Deletes RLT 24042 from lvl 44 Rogue Vale Screecher, ID 5308 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5308 AND `Reference` = 24042;
+
+-- Deletes RLT 24042 from lvl 44 Coast Crawl Snapclaw, ID 5327 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5327 AND `Reference` = 24042;
+
+-- Deletes RLT 24042 from lvl 44 Hatecrest Serpent Guard, ID 5333 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5333 AND `Reference` = 24042;
+
+-- Deletes RLT 24042 from lvl 44 Hatecrest Myrmidon, ID 5334 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5334 AND `Reference` = 24042;
+
+-- Deletes RLT 24054 from lvl 40 Scorpid Hunter, ID 5422 (50 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5422 AND `Reference` = 24054;
+
+-- Deletes RLT 24042 from lvl 44 Blisterpaw Hyena, ID 5426 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5426 AND `Reference` = 24042;
+
+-- Deletes RLT 24054 from lvl 40 Wastewander Thief, ID 5616 (50 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5616 AND `Reference` = 24054;
+
+-- Deletes RLT 24041 from lvl 44 Twilight Fire Guard, ID 5861 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5861 AND `Reference` = 24041;
+
+-- Deletes RLT 24041 from lvl 44 Twilight Geomancer, ID 5862 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5862 AND `Reference` = 24041;
+
+-- Deletes RLT 24045 from lvl 52 Helboar, ID 5993 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 5993 AND `Reference` = 24045;
+
+-- Deletes RLT 24045 from lvl 52 Shadowsworn Adept, ID 6006 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6006 AND `Reference` = 24045;
+
+-- Deletes RLT 24076 from lvl 18 Slimeshell Makrura, ID 6020 (11 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6020 AND `Reference` = 24076;
+
+-- Deletes RLT 24043 from lvl 50 Spitelash Myrmidon, ID 6196 (55 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6196 AND `Reference` = 24043;
+
+-- Deletes RLT 24045 from lvl 52 Blood Elf Reclaimer, ID 6199 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6199 AND `Reference` = 24045;
+
+-- Deletes RLT 24045 from lvl 52 Legashi Hellcaller, ID 6202 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6202 AND `Reference` = 24045;
+
+-- Deletes RLT 24064 from lvl 25 Caverndeep Invader, ID 6208 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6208 AND `Reference` = 24064;
+
+-- Deletes RLT 24065 from lvl 26 Techbot, ID 6231 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6231 AND `Reference` = 24065;
+
+-- Deletes RLT 24025 from lvl 54 Storm Bay Oracle, ID 6351 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6351 AND `Reference` = 24025;
+
+-- Deletes RLT 24045 from lvl 52 Bloodpetal Trapper, ID 6512 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6512 AND `Reference` = 24045;
+
+-- Deletes RLT 24045 from lvl 52 Un'Goro Thunderer, ID 6516 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6516 AND `Reference` = 24045;
+
+-- Deletes RLT 24045 from lvl 52 Tar Lurker, ID 6518 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6518 AND `Reference` = 24045;
+
+-- Deletes RLT 24025 from lvl 54 Living Blaze, ID 6521 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6521 AND `Reference` = 24025;
+
+-- Deletes RLT 24064 from lvl 25 Suffering Victim, ID 6547 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6547 AND `Reference` = 24064;
+
+-- Deletes RLT 24045 from lvl 52 Gorishi Stinger, ID 6554 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6554 AND `Reference` = 24045;
+
+-- Deletes RLT 24045 from lvl 52 Gorishi Tunneler, ID 6555 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6555 AND `Reference` = 24045;
+
+-- Deletes RLT 24027 from lvl 56 Blackrock Slayer, ID 7027 (47 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7027 AND `Reference` = 24027;
+
+-- Deletes RLT 24027 from lvl 56 Blackrock Warlock, ID 7028 (47 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7028 AND `Reference` = 24027;
+
+-- Deletes RLT 24045 from lvl 52 Obsidian Elemental, ID 7031 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7031 AND `Reference` = 24045;
+
+-- Deletes RLT 24043 from lvl 50 Firegut Ogre, ID 7033 (55 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7033 AND `Reference` = 24043;
+
+-- Deletes RLT 24045 from lvl 52 Firegut Brute, ID 7035 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7035 AND `Reference` = 24045;
+
+-- Deletes RLT 24045 from lvl 52 Black Dragonspawn, ID 7040 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7040 AND `Reference` = 24045;
+
+-- Deletes RLT 24027 from lvl 56 Flamescale Dragonspawn, ID 7042 (47 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7042 AND `Reference` = 24027;
+
+-- Deletes RLT 24083 from lvl 52 Black Drake, ID 7044 (2 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7044 AND `Reference` = 24083;
+
+-- Deletes RLT 24025 from lvl 54 Blackrock Worg, ID 7055 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7055 AND `Reference` = 24025;
+
+-- Deletes RLT 24045 from lvl 52 Warpwood Moss Flayer, ID 7100 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7100 AND `Reference` = 24045;
+
+-- Deletes RLT 24045 from lvl 52 Jadefire Trickster, ID 7107 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7107 AND `Reference` = 24045;
+
+-- Deletes RLT 24045 from lvl 52 Jaedenar Enforcer, ID 7114 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7114 AND `Reference` = 24045;
+
+-- Deletes RLT 24045 from lvl 52 Jaedenar Hunter, ID 7126 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7126 AND `Reference` = 24045;
+
+-- Deletes RLT 24045 from lvl 52 Irontree Stomper, ID 7139 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7139 AND `Reference` = 24045;
+
+-- Deletes RLT 24042 from lvl 44 Wandering Forest Walker, ID 7584 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7584 AND `Reference` = 24042;
+
+-- Deletes RLT 24027 from lvl 56 Servant of Sevine, ID 7671 (47 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7671 AND `Reference` = 24027;
+
+-- Deletes RLT 24042 from lvl 44 Southsea Pirate, ID 7855 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7855 AND `Reference` = 24042;
+
+-- Deletes RLT 24042 from lvl 44 Southsea Freebooter, ID 7856 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7856 AND `Reference` = 24042;
+
+-- Deletes RLT 24042 from lvl 44 Southsea Dock Worker, ID 7857 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7857 AND `Reference` = 24042;
+
+-- Deletes RLT 24042 from lvl 44 Southsea Swashbuckler, ID 7858 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7858 AND `Reference` = 24042;
+
+-- Deletes RLT 24049 from lvl 33 Death's Head Cultist, ID 7872 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7872 AND `Reference` = 24049;
+
+-- Deletes RLT 24049 from lvl 33 Razorfen Battleguard, ID 7873 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7873 AND `Reference` = 24049;
+
+-- Deletes RLT 24049 from lvl 33 Razorfen Thornweaver, ID 7874 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7874 AND `Reference` = 24049;
+
+-- Deletes RLT 24029 from lvl 58 Plague Monstrosity, ID 8522 (48 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 8522 AND `Reference` = 24029;
+
+-- Deletes RLT 24027 from lvl 56 Vile Tutor, ID 8548 (47 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 8548 AND `Reference` = 24027;
+
+-- Deletes RLT 24025 from lvl 54 Carrion Grub, ID 8603 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 8603 AND `Reference` = 24025;
+
+-- Deletes RLT 24042 from lvl 44 Dark Iron Watchman, ID 8637 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 8637 AND `Reference` = 24042;
+
+-- Deletes RLT 24045 from lvl 52 Mosshoof Courser, ID 8761 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 8761 AND `Reference` = 24045;
+
+-- Deletes RLT 24026 from lvl 54 Krom'Grul, ID 8977 (5 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 8977 AND `Reference` = 24026;
+
+-- Deletes RLT 24045 from lvl 52 Frenzied Pterrordax, ID 9167 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 9167 AND `Reference` = 24045;
+
+-- Deletes RLT 24045 from lvl 52 Venomtip Scorpid, ID 9691 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 9691 AND `Reference` = 24045;
+
+-- Deletes RLT 24045 from lvl 52 Moora, ID 9861 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 9861 AND `Reference` = 24045;
+
+-- Deletes RLT 24065 from lvl 26 Galak Messenger, ID 10617 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 10617 AND `Reference` = 24065;
+
+-- Deletes RLT 24064 from lvl 25 Grimtotem Bandit, ID 10758 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 10758 AND `Reference` = 24064;
+
+-- Deletes RLT 24065 from lvl 26 Grimtotem Stomper, ID 10759 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 10759 AND `Reference` = 24065;
+
+-- Deletes RLT 24064 from lvl 25 Grimtotem Geomancer, ID 10760 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 10760 AND `Reference` = 24064;
+
+-- Deletes RLT 24025 from lvl 54 Jabbering Ghoul, ID 10801 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 10801 AND `Reference` = 24025;
+
+-- Deletes RLT 24045 from lvl 52 Gordok Ogre-Mage, ID 11443 (53 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 11443 AND `Reference` = 24045;
+
+-- Deletes RLT 24049 from lvl 33 Drysnap Crawler, ID 11562 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 11562 AND `Reference` = 24049;
+
+-- Deletes RLT 24065 from lvl 26 Warsong Peon, ID 11656 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 11656 AND `Reference` = 24065;
+
+-- Deletes RLT 24065 from lvl 26 Horde Scout, ID 11680 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 11680 AND `Reference` = 24065;
+
+-- Deletes RLT 24054 from lvl 40 Maraudine Priest, ID 11685 (50 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 11685 AND `Reference` = 24054;
+
+-- Deletes RLT 24054 from lvl 40 Ghostly Raider, ID 11686 (50 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 11686 AND `Reference` = 24054;
+
+-- Deletes RLT 24054 from lvl 40 Shadowshard Rumbler, ID 11777 (50 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 11777 AND `Reference` = 24054;
+
+-- Deletes RLT 24054 from lvl 40 Ambershard Crusher, ID 11781 (50 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 11781 AND `Reference` = 24054;
+
+-- Deletes RLT 24054 from lvl 40 Ambereye Basilisk, ID 11785 (50 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 11785 AND `Reference` = 24054;
+
+-- Deletes RLT 24054 from lvl 40 Rock Borer, ID 11787 (50 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 11787 AND `Reference` = 24054;
+
+-- Deletes RLT 24075 from lvl 16 Gogger Rock Keeper, ID 11915 (10 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 11915 AND `Reference` = 24075;
+
+-- Deletes RLT 24064 from lvl 25 Ursangous, ID 12678 (1 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 12678 AND `Reference` = 24064;
+
+-- Deletes RLT 24078 from lvl 22 Silverwing Sentinel, ID 12896 (34 items/4 level gap)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 12896 AND `Reference` = 24078;
+
