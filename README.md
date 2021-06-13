@@ -1,5 +1,5 @@
 # ac-overlvlitems
-Finds overlevelled item drops in AzerothCore's reference loot tables and generates SQL to delete them.
+Finds overlevelled and underlevelled item drops in AzerothCore's reference loot tables and generates SQL to delete them.
 
 ## Requirements ##
 Requires a file called "db-auth.txt" in the program directory. This contains authorization details for the MySQL database. 
