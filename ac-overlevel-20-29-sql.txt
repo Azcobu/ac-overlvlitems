@@ -1,7 +1,7 @@
 -- Deletes RLT 24042 from lvl 24 Galak Packhound, ID 4250 (12 items/21 level gap)
 DELETE FROM `creature_loot_template` WHERE `Entry` = 4250 AND `Reference` = 24042;
 
--- Deletes RLT 24056 from lvl 21 Syndicate Rogue, ID 2260 (92 items/17 level gap)
+-- Deletes RLT 24056 from lvl 21 Syndicate Rogue, ID 2260 (91 items/17 level gap)
 DELETE FROM `creature_loot_template` WHERE `Entry` = 2260 AND `Reference` = 24056;
 
 -- Deletes RLT 24051 from lvl 26 Chieftain Nek'rosh, ID 2091 (5 items/7 level gap)

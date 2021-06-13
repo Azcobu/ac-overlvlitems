@@ -199,10 +199,10 @@ def main():
 	start = time.time()
 	min_lvl, max_lvl = 1, 58 # level ranges are inclusive, so min <= val <= max
 	level_diff = 4 #positive number for overlevelled, negative for underlevelled
-	#batch_scan_lvl_ranges(level_diff)
+	batch_scan_lvl_ranges(level_diff)
 
-	found = scan_reftables(min_lvl, max_lvl, level_diff)
-	export_data(found, f'{min_lvl}-{max_lvl}', level_diff, gen_sql=True)
+	#found = scan_reftables(min_lvl, max_lvl, level_diff)
+	#export_data(found, f'{min_lvl}-{max_lvl}', level_diff, gen_sql=True)
 
 	print(f'Run complete in {time.time() - start:.2f} secs.')
 
