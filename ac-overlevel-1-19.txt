@@ -1,4 +1,4 @@
-ID: 6466, Gamon, lvl 12 -> CLT 6466 -> RLT 24054 -> Item ID: 863, lvl 37 Gloom Reaper and 94 others
+ID: 6466, Gamon, lvl 12 -> CLT 6466 -> RLT 24054 -> Item ID: 863, lvl 37 Gloom Reaper and 95 others
 ID: 705, Ragged Young Wolf, lvl 1 -> CLT 705 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 18 others
 ID: 1501, Mindless Zombie, lvl 1 -> CLT 1501 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 18 others
 ID: 1508, Young Scavenger, lvl 1 -> CLT 1508 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 18 others

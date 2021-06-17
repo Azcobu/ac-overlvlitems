@@ -1,4 +1,4 @@
--- Deletes RLT 24054 from lvl 12 Gamon, ID 6466 (95 items/25 level gap)
+-- Deletes RLT 24054 from lvl 12 Gamon, ID 6466 (96 items/25 level gap)
 DELETE FROM `creature_loot_template` WHERE `Entry` = 6466 AND `Reference` = 24054;
 
 -- Deletes RLT 24074 from lvl 1 Ragged Young Wolf, ID 705 (19 items/10 level gap)

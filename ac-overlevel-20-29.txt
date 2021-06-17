@@ -1,5 +1,5 @@
 ID: 4250, Galak Packhound, lvl 24 -> CLT 4250 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 11 others
-ID: 2260, Syndicate Rogue, lvl 22 -> CLT 2260 -> RLT 24056 -> Item ID: 1207, lvl 39 Murphstar and 90 others
+ID: 2260, Syndicate Rogue, lvl 22 -> CLT 2260 -> RLT 24056 -> Item ID: 1207, lvl 39 Murphstar and 91 others
 ID: 2091, Chieftain Nek'rosh, lvl 26 -> CLT 2091 -> RLT 24051 -> Item ID: 2299, lvl 33 Burning War Axe and 4 others
 ID: 6132, Razorfen Servitor, lvl 24 -> CLT 6132 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff and 10 others
 ID: 215, Defias Night Runner, lvl 25 -> CLT 215 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff

@@ -1,0 +1,231 @@
+ID: 6466, Gamon, lvl 12 -> CLT 6466 -> RLT 24054 -> Item ID: 863, lvl 37 Gloom Reaper and 95 others
+ID: 2031, Young Nightsaber, lvl 1 -> CLT 2031 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 1508, Young Scavenger, lvl 1 -> CLT 1508 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 1501, Mindless Zombie, lvl 1 -> CLT 1501 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 705, Ragged Young Wolf, lvl 1 -> CLT 705 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 589, Defias Pillager, lvl 15 -> CLT 589 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 68 others
+ID: 3098, Mottled Boar, lvl 2 -> CLT 3098 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 2955, Plainstrider, lvl 2 -> CLT 2955 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 2032, Mangy Nightsaber, lvl 2 -> CLT 2032 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 1984, Young Thistle Boar, lvl 2 -> CLT 1984 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 1512, Duskbat, lvl 2 -> CLT 1512 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 724, Burly Rockjaw Trogg, lvl 2 -> CLT 724 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 707, Rockjaw Trogg, lvl 2 -> CLT 707 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 704, Ragged Timber Wolf, lvl 2 -> CLT 704 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 3124, Scorpid Worker, lvl 3 -> CLT 3124 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 2961, Mountain Cougar, lvl 3 -> CLT 2961 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 2234, Young Reef Crawler, lvl 11 -> CLT 2234 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 1988, Grell, lvl 3 -> CLT 1988 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 1985, Thistle Boar, lvl 3 -> CLT 1985 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 1939, Rot Hide Brute, lvl 17 -> CLT 1939 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 1918, Karrel Grayves, lvl 3 -> CLT 1918 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 1917, Daniel Ulfman, lvl 3 -> CLT 1917 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 1916, Stephen Bhartec, lvl 3 -> CLT 1916 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 1890, Rattlecage Skeleton, lvl 3 -> CLT 1890 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 1765, Worg, lvl 11 -> CLT 1765 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 1509, Ragged Scavenger, lvl 3 -> CLT 1509 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 1506, Scarlet Convert, lvl 3 -> CLT 1506 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 1504, Young Night Web Spider, lvl 3 -> CLT 1504 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 708, Small Crag Boar, lvl 3 -> CLT 708 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 3281, Sarkoth, lvl 4 -> CLT 3281 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 3102, Felstalker, lvl 4 -> CLT 3102 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 3101, Vile Familiar, lvl 4 -> CLT 3101 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 2966, Battleboar, lvl 4 -> CLT 2966 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 2953, Bristleback Shaman, lvl 4 -> CLT 2953 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 2952, Bristleback Quilboar, lvl 4 -> CLT 2952 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 1989, Grellkin, lvl 4 -> CLT 1989 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 1986, Webwood Spider, lvl 4 -> CLT 1986 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 1718, Rockjaw Raider, lvl 4 -> CLT 1718 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 1513, Mangy Duskbat, lvl 4 -> CLT 1513 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 1507, Scarlet Initiate, lvl 4 -> CLT 1507 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 1505, Night Web Spider, lvl 4 -> CLT 1505 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 946, Frostmane Novice, lvl 4 -> CLT 946 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 706, Frostmane Troll Whelp, lvl 4 -> CLT 706 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 548, Murloc Minor Tidecaller, lvl 18 -> CLT 548 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 118, Prowler, lvl 10 -> CLT 118 -> RLT 24077 -> Item ID: 827, lvl 17 Wicked Blackjack and 63 others
+ID: 11910, Grimtotem Ruffian, lvl 15 -> CLT 11910 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 69 others
+ID: 10158, Moonkin, lvl 13 -> CLT 10158 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 6494, Tazan, lvl 13 -> CLT 6494 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 6020, Slimeshell Makrura, lvl 19 -> CLT 6020 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 4316, Kolkar Packhound, lvl 13 -> CLT 4316 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 4129, Hecklefang Snarler, lvl 19 -> CLT 4129 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 3989, Venture Co. Logger, lvl 19 -> CLT 3989 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 3816, Wild Buck, lvl 19 -> CLT 3816 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 3733, Forsaken Herbalist, lvl 19 -> CLT 3733 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 3717, Wrathtail Sorceress, lvl 19 -> CLT 3717 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 3713, Wrathtail Wave Rider, lvl 19 -> CLT 3713 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 3634, Deviate Stalker, lvl 15 -> CLT 3634 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 69 others
+ID: 3503, Silithid Protector, lvl 19 -> CLT 3503 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 3463, Wandering Barrens Giraffe, lvl 19 -> CLT 3463 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 3455, Cannoneer Whessan, lvl 19 -> CLT 3455 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 3397, Kolkar Bloodcharger, lvl 15 -> CLT 3397 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 69 others
+ID: 3381, Southsea Brigand, lvl 13 -> CLT 3381 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 3283, Venture Co. Enforcer, lvl 17 -> CLT 3283 -> RLT 24062 -> Item ID: 790, lvl 23 Forester's Axe and 60 others
+ID: 3272, Kolkar Wrangler, lvl 13 -> CLT 3272 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 3269, Razormane Geomancer, lvl 13 -> CLT 3269 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 3266, Razormane Defender, lvl 13 -> CLT 3266 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 3261, Bristleback Thornweaver, lvl 19 -> CLT 3261 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 3254, Sunscale Lashtail, lvl 13 -> CLT 3254 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 3246, Fleeting Plainstrider, lvl 13 -> CLT 3246 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 3243, Savannah Highmane, lvl 13 -> CLT 3243 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 3240, Stormsnout, lvl 19 -> CLT 3240 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 3229, "Squealer" Thornmantle, lvl 5 -> CLT 3229 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 2954, Bristleback Battleboar, lvl 5 -> CLT 2954 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 2323, Giant Foreststrider, lvl 19 -> CLT 2323 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 2321, Foreststrider Fledgling, lvl 13 -> CLT 2321 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 2212, Deth'ryll Satyr, lvl 13 -> CLT 2212 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 2207, Greymist Oracle, lvl 19 -> CLT 2207 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 2202, Greymist Coastrunner, lvl 13 -> CLT 2202 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 2181, Stormscale Myrmidon, lvl 19 -> CLT 2181 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 2178, Wailing Highborne, lvl 13 -> CLT 2178 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 2167, Blackwood Pathfinder, lvl 13 -> CLT 2167 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 2164, Rabid Thistle Bear, lvl 13 -> CLT 2164 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 2156, Cracked Golem, lvl 19 -> CLT 2156 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 2053, Haggard Refugee, lvl 19 -> CLT 2053 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 1994, Githyiss the Vile, lvl 5 -> CLT 1994 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 1956, Elder Lake Creeper, lvl 19 -> CLT 1956 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 1942, Rot Hide Savage, lvl 19 -> CLT 1942 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 1919, Samuel Fipps, lvl 5 -> CLT 1919 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 1797, Giant Grizzled Bear, lvl 13 -> CLT 1797 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 1780, Moss Stalker, lvl 13 -> CLT 1780 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 1779, Moonrage Glutton, lvl 13 -> CLT 1779 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 1688, Night Web Matriarch, lvl 5 -> CLT 1688 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 1674, Rot Hide Gnoll, lvl 7 -> CLT 1674 -> RLT 24075 -> Item ID: 3283, lvl 13 Battle Chain Tunic and 22 others
+ID: 1667, Meven Korgal, lvl 5 -> CLT 1667 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 1553, Greater Duskbat, lvl 7 -> CLT 1553 -> RLT 24075 -> Item ID: 3283, lvl 13 Battle Chain Tunic and 22 others
+ID: 1535, Scarlet Warrior, lvl 7 -> CLT 1535 -> RLT 24075 -> Item ID: 3283, lvl 13 Battle Chain Tunic and 22 others
+ID: 832, Dust Devil, lvl 19 -> CLT 832 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 808, Grik'nir the Cold, lvl 5 -> CLT 808 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 19 others
+ID: 539, Pygmy Venom Web Spider, lvl 19 -> CLT 539 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 504, Defias Trapper, lvl 13 -> CLT 504 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 500, Riverpaw Scout, lvl 13 -> CLT 500 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 454, Young Goretusk, lvl 13 -> CLT 454 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 453, Riverpaw Mystic, lvl 19 -> CLT 453 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 446, Redridge Basher, lvl 19 -> CLT 446 -> RLT 24065 -> Item ID: 2194, lvl 25 Diamond Hammer and 5 others
+ID: 430, Redridge Mystic, lvl 19 -> CLT 430 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 428, Dire Condor, lvl 19 -> CLT 428 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 422, Murloc Flesheater, lvl 19 -> CLT 422 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 199, Young Fleshripper, lvl 11 -> CLT 199 -> RLT 24077 -> Item ID: 827, lvl 17 Wicked Blackjack and 63 others
+ID: 157, Goretusk, lvl 15 -> CLT 157 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 69 others
+ID: 154, Greater Fleshripper, lvl 17 -> CLT 154 -> RLT 24062 -> Item ID: 790, lvl 23 Forester's Axe and 60 others
+ID: 127, Murloc Tidehunter, lvl 19 -> CLT 127 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 67 others
+ID: 126, Murloc Coastrunner, lvl 13 -> CLT 126 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 70 others
+ID: 11913, Grimtotem Sorcerer, lvl 16 -> CLT 11913 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 11912, Grimtotem Brute, lvl 16 -> CLT 11912 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 10160, Raging Moonkin, lvl 14 -> CLT 10160 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 36 others
+ID: 10157, Moonkin Oracle, lvl 14 -> CLT 10157 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 36 others
+ID: 7318, Rageclaw, lvl 10 -> CLT 7318 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 6909, Sethir the Ancient, lvl 12 -> CLT 6909 -> RLT 24077 -> Item ID: 827, lvl 17 Wicked Blackjack and 35 others
+ID: 6846, Defias Dockmaster, lvl 10 -> CLT 6846 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 6789, Thistle Cub, lvl 10 -> CLT 6789 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 6570, Fenwick Thatros, lvl 16 -> CLT 6570 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 6123, Dark Iron Spy, lvl 10 -> CLT 6123 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 4127, Hecklefang Hyena, lvl 16 -> CLT 4127 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 3667, Anaya Dawnrunner, lvl 16 -> CLT 3667 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 3632, Deviate Creeper, lvl 16 -> CLT 3632 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 3630, Deviate Coiler, lvl 16 -> CLT 3630 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 3467, Baron Longshore, lvl 16 -> CLT 3467 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 3461, Oasis Snapjaw, lvl 16 -> CLT 3461 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 3394, Barak Kodobane, lvl 16 -> CLT 3394 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 3385, Theramore Marine, lvl 16 -> CLT 3385 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 3382, Southsea Cannoneer, lvl 14 -> CLT 3382 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 36 others
+ID: 3285, Venture Co. Peon, lvl 14 -> CLT 3285 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 36 others
+ID: 3282, Venture Co. Mercenary, lvl 16 -> CLT 3282 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 3277, Witchwing Roguefeather, lvl 16 -> CLT 3277 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 3275, Kolkar Marauder, lvl 16 -> CLT 3275 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 3273, Kolkar Stormer, lvl 14 -> CLT 3273 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 36 others
+ID: 3271, Razormane Mystic, lvl 14 -> CLT 3271 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 36 others
+ID: 3258, Bristleback Hunter, lvl 18 -> CLT 3258 -> RLT 24062 -> Item ID: 790, lvl 23 Forester's Axe and 32 others
+ID: 3256, Sunscale Scytheclaw, lvl 18 -> CLT 3256 -> RLT 24062 -> Item ID: 790, lvl 23 Forester's Axe and 32 others
+ID: 3248, Barrens Giraffe, lvl 16 -> CLT 3248 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 3242, Zhevra Runner, lvl 14 -> CLT 3242 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 36 others
+ID: 3232, Bristleback Interloper, lvl 10 -> CLT 3232 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 3205, Zalazane, lvl 10 -> CLT 3205 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 3204, Gazz'uz, lvl 10 -> CLT 3204 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 3197, Burning Blade Fanatic, lvl 10 -> CLT 3197 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 3196, Burning Blade Neophyte, lvl 10 -> CLT 3196 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 3130, Thunder Lizard, lvl 10 -> CLT 3130 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 3128, Kul Tiras Sailor, lvl 6 -> CLT 3128 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 13 others
+ID: 3127, Venomtail Scorpid, lvl 10 -> CLT 3127 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 3125, Clattering Scorpid, lvl 6 -> CLT 3125 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 13 others
+ID: 3123, Bloodtalon Scythemaw, lvl 10 -> CLT 3123 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 3117, Dustwind Savage, lvl 10 -> CLT 3117 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 3116, Dustwind Pillager, lvl 8 -> CLT 3116 -> RLT 24075 -> Item ID: 3283, lvl 13 Battle Chain Tunic and 12 others
+ID: 3114, Razormane Battleguard, lvl 10 -> CLT 3114 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 3106, Pygmy Surf Crawler, lvl 6 -> CLT 3106 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 13 others
+ID: 3105, Makrura Snapclaw, lvl 8 -> CLT 3105 -> RLT 24075 -> Item ID: 3283, lvl 13 Battle Chain Tunic and 12 others
+ID: 2979, Venture Co. Supervisor, lvl 10 -> CLT 2979 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 2971, Taloned Swoop, lvl 10 -> CLT 2971 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 2968, Galak Outrunner, lvl 10 -> CLT 2968 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 2964, Windfury Sorceress, lvl 10 -> CLT 2964 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 2960, Prairie Wolf Alpha, lvl 10 -> CLT 2960 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 2958, Prairie Wolf, lvl 6 -> CLT 2958 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 13 others
+ID: 2949, Palemane Tanner, lvl 6 -> CLT 2949 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 13 others
+ID: 2324, Blackwood Windtalker, lvl 14 -> CLT 2324 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 36 others
+ID: 2322, Foreststrider, lvl 16 -> CLT 2322 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 2232, Tide Crawler, lvl 14 -> CLT 2232 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 36 others
+ID: 2231, Pygmy Tide Crawler, lvl 10 -> CLT 2231 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 2203, Greymist Seer, lvl 14 -> CLT 2203 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 36 others
+ID: 2185, Darkshore Thresher, lvl 14 -> CLT 2185 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 36 others
+ID: 2179, Stormscale Wave Rider, lvl 16 -> CLT 2179 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 2106, Apothecary Berard, lvl 16 -> CLT 2106 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 2042, Nightsaber, lvl 6 -> CLT 2042 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 13 others
+ID: 2029, Timberling Mire Beast, lvl 10 -> CLT 2029 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 2022, Timberling, lvl 6 -> CLT 2022 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 13 others
+ID: 2020, Bloodfeather Wind Witch, lvl 10 -> CLT 2020 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 2013, Gnarlpine Avenger, lvl 10 -> CLT 2013 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 2012, Gnarlpine Pathfinder, lvl 10 -> CLT 2012 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 2006, Gnarlpine Ursa, lvl 6 -> CLT 2006 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 13 others
+ID: 2003, Shadow Sprite, lvl 6 -> CLT 2003 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 13 others
+ID: 2002, Rascal Sprite, lvl 6 -> CLT 2002 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 13 others
+ID: 1998, Webwood Lurker, lvl 6 -> CLT 1998 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 13 others
+ID: 1995, Strigid Owl, lvl 6 -> CLT 1995 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 13 others
+ID: 1993, Greenpaw, lvl 10 -> CLT 1993 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 1983, Nightlash, lvl 14 -> CLT 1983 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 36 others
+ID: 1953, Lake Skulker, lvl 16 -> CLT 1953 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 1924, Moonrage Bloodhowler, lvl 16 -> CLT 1924 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 1914, Dalaran Mage, lvl 16 -> CLT 1914 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 1891, Pyrewood Watcher, lvl 14 -> CLT 1891 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 36 others
+ID: 1868, Ravenclaw Servant, lvl 14 -> CLT 1868 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 36 others
+ID: 1867, Dalaran Apprentice, lvl 14 -> CLT 1867 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 36 others
+ID: 1782, Moonrage Darksoul, lvl 14 -> CLT 1782 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 36 others
+ID: 1781, Mist Creeper, lvl 14 -> CLT 1781 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 36 others
+ID: 1768, Vile Fin Tidehunter, lvl 14 -> CLT 1768 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 36 others
+ID: 1753, Maggot Eye, lvl 10 -> CLT 1753 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 1548, Cursed Darkhound, lvl 8 -> CLT 1548 -> RLT 24075 -> Item ID: 3283, lvl 13 Battle Chain Tunic and 12 others
+ID: 1547, Decrepit Darkhound, lvl 6 -> CLT 1547 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 13 others
+ID: 1543, Vile Fin Puddlejumper, lvl 8 -> CLT 1543 -> RLT 24075 -> Item ID: 3283, lvl 13 Battle Chain Tunic and 12 others
+ID: 1527, Hungering Dead, lvl 8 -> CLT 1527 -> RLT 24075 -> Item ID: 3283, lvl 13 Battle Chain Tunic and 12 others
+ID: 1525, Rotting Dead, lvl 6 -> CLT 1525 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 13 others
+ID: 1522, Darkeye Bonecaster, lvl 8 -> CLT 1522 -> RLT 24075 -> Item ID: 3283, lvl 13 Battle Chain Tunic and 12 others
+ID: 1216, Shore Crawler, lvl 18 -> CLT 1216 -> RLT 24062 -> Item ID: 790, lvl 23 Forester's Axe and 32 others
+ID: 1199, Juvenile Snow Leopard, lvl 6 -> CLT 1199 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 13 others
+ID: 1196, Ice Claw Bear, lvl 8 -> CLT 1196 -> RLT 24075 -> Item ID: 3283, lvl 13 Battle Chain Tunic and 12 others
+ID: 1134, Young Wendigo, lvl 6 -> CLT 1134 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 13 others
+ID: 1128, Young Black Bear, lvl 6 -> CLT 1128 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 13 others
+ID: 1125, Crag Boar, lvl 6 -> CLT 1125 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 13 others
+ID: 830, Sand Crawler, lvl 14 -> CLT 830 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 36 others
+ID: 824, Defias Digger, lvl 16 -> CLT 824 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 732, Murloc Lurker, lvl 10 -> CLT 732 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 626, Foreman Thistlenettle, lvl 18 -> CLT 626 -> RLT 24063 -> Item ID: 2911, lvl 23 Keller's Girdle and 5 others
+ID: 619, Defias Conjurer, lvl 16 -> CLT 619 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 594, Defias Henchman, lvl 16 -> CLT 594 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 590, Defias Looter, lvl 14 -> CLT 590 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 36 others
+ID: 550, Defias Messenger, lvl 14 -> CLT 550 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 36 others
+ID: 480, Rusty Harvest Golem, lvl 10 -> CLT 480 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 478, Riverpaw Outrunner, lvl 10 -> CLT 478 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 475, Kobold Tunneler, lvl 6 -> CLT 475 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 13 others
+ID: 474, Defias Rogue Wizard, lvl 10 -> CLT 474 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 473, Morgan the Collector, lvl 10 -> CLT 473 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 456, Murloc Minor Oracle, lvl 14 -> CLT 456 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 36 others
+ID: 442, Tarantula, lvl 16 -> CLT 442 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 441, Black Dragon Whelp, lvl 18 -> CLT 441 -> RLT 24062 -> Item ID: 790, lvl 23 Forester's Axe and 32 others
+ID: 423, Redridge Mongrel, lvl 16 -> CLT 423 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 171, Murloc Warrior, lvl 16 -> CLT 171 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 124, Riverpaw Brute, lvl 16 -> CLT 124 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 30 others
+ID: 123, Riverpaw Mongrel, lvl 14 -> CLT 123 -> RLT 24078 -> Item ID: 899, lvl 19 Venom Web Fang and 36 others
+ID: 122, Defias Highwayman, lvl 18 -> CLT 122 -> RLT 24062 -> Item ID: 790, lvl 23 Forester's Axe and 32 others
+ID: 113, Stonetusk Boar, lvl 6 -> CLT 113 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 13 others
+ID: 94, Defias Cutpurse, lvl 6 -> CLT 94 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 13 others
+ID: 46, Murloc Forager, lvl 10 -> CLT 46 -> RLT 24076 -> Item ID: 826, lvl 15 Brutish Riverpaw Axe and 39 others
+ID: 30, Forest Spider, lvl 6 -> CLT 30 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 13 others
