@@ -6,6 +6,7 @@
 # checked. Mobs must also be non-elite.
 # Todo - rewrite to also find underlevelled items
 #      - improve SQL speed, it's too slow atm
+#      - concatenate SQL cmds
 
 from mysql.connector import connect, Error
 from os import path
@@ -37,7 +38,7 @@ def get_auth_details(infile):
 		sys.exit(1)
 
 def process_data(found, gen_sql):
-    oli = {}
+    oli, rlt = {}, {}
     output, sqlout = [], []
     for item in found:
         npc_id, reftable = item[0], item[4]
@@ -45,6 +46,12 @@ def process_data(found, gen_sql):
             oli[npc_id] = {reftable: 1}
         else:
             oli[npc_id][reftable] += 1
+        
+        #generate RLT-based view for concatenated SQL
+        if reftable in rlt:
+            rlt[reftable].append(item)
+        else:
+            rlt[reftable] = [item]
 
     for item in found:
         npc_id, reftable = item[0], item[4]
@@ -58,14 +65,28 @@ def process_data(found, gen_sql):
                 output.append(f' and {numfound-1} others\n')
             else:
                 output.append('\n')
+            del oli[npc_id][reftable]
 
+            ''''
             if gen_sql:
                 sqlout.append(f'-- Deletes RLT {reftable} from lvl {item[2]} '\
                               f'{item[1]}, ID {npc_id} ({numfound} '\
                               f'items/{item[8]} level gap)\n')
                 sqlout.append(f'DELETE FROM `creature_loot_template` WHERE '\
                               f'`Entry` = {item[9]} AND `Reference` = {reftable};\n\n')
-            del oli[npc_id][reftable]
+                '''
+    for rlt, itemlist in rlt.items():
+        intermed = [(x[0], x[1], x[2], x[9]) for x in itemlist]
+        intermed = list(set(intermed))
+        intermed = sorted(intermed, key = lambda x:x[3])
+        clt_list = [x[3] for x in intermed]
+        clt_list = ', '.join([str(x) for x in clt_list])
+        txtlist = [f'lvl {x[2]} {x[1]} (ID {x[0]})' for x in intermed]
+        txtlist = ', '.join(txtlist)
+        sqlout.append(f'-- Deletes overlevelled RLT {rlt} from {txtlist}\n')
+        sqlout.append(f'DELETE FROM `creature_loot_template` WHERE `Entry` IN '\
+                      f'({clt_list}) AND `Reference` = {rlt};\n\n')
+            
 
     return ''.join(output), ''.join(sqlout)
 
@@ -197,12 +218,12 @@ def batch_scan_lvl_ranges(level_diff):
 
 def main():
 	start = time.time()
-	min_lvl, max_lvl = 1, 58 # level ranges are inclusive, so min <= val <= max
-	level_diff = 4 #positive number for overlevelled, negative for underlevelled
-	#batch_scan_lvl_ranges(level_diff)
+	min_lvl, max_lvl = 1, 19 # level ranges are inclusive, so min <= val <= max
+	level_diff = -4 #positive number for overlevelled, negative for underlevelled
+	batch_scan_lvl_ranges(level_diff)
 
-	found = scan_reftables(min_lvl, max_lvl, level_diff)
-	export_data(found, f'{min_lvl}-{max_lvl}', level_diff, gen_sql=True)
+	#found = scan_reftables(min_lvl, max_lvl, level_diff)
+	#export_data(found, f'{min_lvl}-{max_lvl}', level_diff, gen_sql=True)
 
 	print(f'Run complete in {time.time() - start:.2f} secs.')
 

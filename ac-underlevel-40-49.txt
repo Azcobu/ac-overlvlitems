@@ -4,7 +4,7 @@ ID: 11317, Jinar'Zillen, lvl 40 -> CLT 11317 -> RLT 24050 -> Item ID: 3341, lvl 
 ID: 2642, Vilebranch Shadowcaster, lvl 48 -> CLT 2642 -> RLT 24041 -> Item ID: 8156, lvl 40 Jouster's Wristguards and 11 others
 ID: 2643, Vilebranch Berserker, lvl 48 -> CLT 2643 -> RLT 24041 -> Item ID: 8156, lvl 40 Jouster's Wristguards and 11 others
 ID: 2656, Jade Ooze, lvl 48 -> CLT 2656 -> RLT 24041 -> Item ID: 8156, lvl 40 Jouster's Wristguards and 11 others
-ID: 2924, Silvermane Wolf, lvl 44 -> CLT 2924 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 95 others
+ID: 2924, Silvermane Wolf, lvl 44 -> CLT 2924 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 94 others
 ID: 2926, Silvermane Stalker, lvl 48 -> CLT 2926 -> RLT 24041 -> Item ID: 8156, lvl 40 Jouster's Wristguards and 11 others
 ID: 4468, Jade Sludge, lvl 48 -> CLT 4468 -> RLT 24041 -> Item ID: 8156, lvl 40 Jouster's Wristguards and 45 others
 ID: 5288, Rabid Longtooth, lvl 48 -> CLT 5288 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
@@ -73,7 +73,7 @@ ID: 2423, Lord Aliden Perenolde, lvl 41 -> CLT 2423 -> RLT 24055 -> Item ID: 172
 ID: 2639, Vilebranch Axe Thrower, lvl 46 -> CLT 2639 -> RLT 24041 -> Item ID: 8156, lvl 40 Jouster's Wristguards and 11 others
 ID: 2654, Witherbark Caller, lvl 46 -> CLT 2654 -> RLT 24041 -> Item ID: 8156, lvl 40 Jouster's Wristguards and 11 others
 ID: 2693, Highvale Marksman, lvl 46 -> CLT 2693 -> RLT 24041 -> Item ID: 8156, lvl 40 Jouster's Wristguards and 11 others
-ID: 2717, Dustbelcher Mauler, lvl 42 -> CLT 2717 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 95 others
+ID: 2717, Dustbelcher Mauler, lvl 42 -> CLT 2717 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 94 others
 ID: 2925, Silvermane Howler, lvl 46 -> CLT 2925 -> RLT 24041 -> Item ID: 8156, lvl 40 Jouster's Wristguards and 11 others
 ID: 4465, Vilebranch Warrior, lvl 46 -> CLT 4465 -> RLT 24041 -> Item ID: 8156, lvl 40 Jouster's Wristguards and 11 others
 ID: 5224, Murk Slitherer, lvl 46 -> CLT 5224 -> RLT 24041 -> Item ID: 8156, lvl 40 Jouster's Wristguards and 11 others
@@ -108,43 +108,43 @@ ID: 8759, Mosshoof Runner, lvl 47 -> CLT 8759 -> RLT 24041 -> Item ID: 8156, lvl
 ID: 15685, Southsea Kidnapper, lvl 45 -> CLT 15685 -> RLT 24041 -> Item ID: 8156, lvl 40 Jouster's Wristguards and 11 others
 ID: 15692, Dark Iron Kidnapper, lvl 45 -> CLT 15692 -> RLT 24041 -> Item ID: 8156, lvl 40 Jouster's Wristguards and 11 others
 ID: 672, Skullsplitter Spiritchaser, lvl 44 -> CLT 672 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
-ID: 674, Venture Co. Strip Miner, lvl 41 -> CLT 674 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 49 others
-ID: 677, Venture Co. Tinkerer, lvl 41 -> CLT 677 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 49 others
-ID: 687, Jungle Stalker, lvl 41 -> CLT 687 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 49 others
-ID: 769, Deathstrike Tarantula, lvl 41 -> CLT 769 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 49 others
+ID: 674, Venture Co. Strip Miner, lvl 41 -> CLT 674 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 48 others
+ID: 677, Venture Co. Tinkerer, lvl 41 -> CLT 677 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 48 others
+ID: 687, Jungle Stalker, lvl 41 -> CLT 687 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 48 others
+ID: 769, Deathstrike Tarantula, lvl 41 -> CLT 769 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 48 others
 ID: 1490, Zanzil Witch Doctor, lvl 44 -> CLT 1490 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
 ID: 1491, Zanzil Naga, lvl 44 -> CLT 1491 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
-ID: 2306, Baron Vardus, lvl 40 -> CLT 2306 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 49 others
-ID: 2421, Muckrake, lvl 40 -> CLT 2421 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 49 others
-ID: 2473, Granistad, lvl 40 -> CLT 2473 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 49 others
-ID: 2544, Southern Sand Crawler, lvl 41 -> CLT 2544 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 49 others
-ID: 2597, Lord Falconcrest, lvl 40 -> CLT 2597 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 49 others
+ID: 2306, Baron Vardus, lvl 40 -> CLT 2306 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 48 others
+ID: 2421, Muckrake, lvl 40 -> CLT 2421 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 48 others
+ID: 2473, Granistad, lvl 40 -> CLT 2473 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 48 others
+ID: 2544, Southern Sand Crawler, lvl 41 -> CLT 2544 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 48 others
+ID: 2597, Lord Falconcrest, lvl 40 -> CLT 2597 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 48 others
 ID: 2607, Prince Galen Trollbane, lvl 44 -> CLT 2607 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
-ID: 2649, Witherbark Scalper, lvl 41 -> CLT 2649 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 49 others
+ID: 2649, Witherbark Scalper, lvl 41 -> CLT 2649 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 48 others
 ID: 2653, Witherbark Sadist, lvl 45 -> CLT 2653 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
 ID: 2686, Witherbark Broodguard, lvl 45 -> CLT 2686 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
 ID: 2692, Highvale Scout, lvl 45 -> CLT 2692 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
-ID: 2716, Dustbelcher Wyrmhunter, lvl 41 -> CLT 2716 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 49 others
-ID: 2718, Dustbelcher Shaman, lvl 43 -> CLT 2718 -> RLT 24056 -> Item ID: 864, lvl 38 Knightly Longsword and 45 others
+ID: 2716, Dustbelcher Wyrmhunter, lvl 41 -> CLT 2716 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 48 others
+ID: 2718, Dustbelcher Shaman, lvl 43 -> CLT 2718 -> RLT 24056 -> Item ID: 864, lvl 38 Knightly Longsword and 44 others
 ID: 2719, Dustbelcher Lord, lvl 45 -> CLT 2719 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
-ID: 2783, Marez Cowl, lvl 40 -> CLT 2783 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 49 others
+ID: 2783, Marez Cowl, lvl 40 -> CLT 2783 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 48 others
 ID: 2928, Primitive Owlbeast, lvl 45 -> CLT 2928 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
-ID: 5229, Gordunni Ogre, lvl 41 -> CLT 5229 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 49 others
+ID: 5229, Gordunni Ogre, lvl 41 -> CLT 5229 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 48 others
 ID: 5236, Gordunni Shaman, lvl 45 -> CLT 5236 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
 ID: 5245, Zukk'ash Wasp, lvl 45 -> CLT 5245 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
 ID: 5246, Zukk'ash Worker, lvl 45 -> CLT 5246 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
-ID: 5249, Woodpaw Mongrel, lvl 41 -> CLT 5249 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 49 others
+ID: 5249, Woodpaw Mongrel, lvl 41 -> CLT 5249 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 48 others
 ID: 5272, Grizzled Ironfur Bear, lvl 45 -> CLT 5272 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
-ID: 5286, Longtooth Runner, lvl 41 -> CLT 5286 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 49 others
+ID: 5286, Longtooth Runner, lvl 41 -> CLT 5286 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 48 others
 ID: 5295, Enraged Feral Scar, lvl 44 -> CLT 5295 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
 ID: 5304, Frayfeather Stagwing, lvl 45 -> CLT 5304 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
 ID: 5308, Rogue Vale Screecher, lvl 46 -> CLT 5308 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
 ID: 5327, Coast Crawl Snapclaw, lvl 45 -> CLT 5327 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
 ID: 5333, Hatecrest Serpent Guard, lvl 45 -> CLT 5333 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
 ID: 5334, Hatecrest Myrmidon, lvl 44 -> CLT 5334 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
-ID: 5422, Scorpid Hunter, lvl 41 -> CLT 5422 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 49 others
+ID: 5422, Scorpid Hunter, lvl 41 -> CLT 5422 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 48 others
 ID: 5426, Blisterpaw Hyena, lvl 45 -> CLT 5426 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
-ID: 5616, Wastewander Thief, lvl 41 -> CLT 5616 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 49 others
+ID: 5616, Wastewander Thief, lvl 41 -> CLT 5616 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 48 others
 ID: 5861, Twilight Fire Guard, lvl 46 -> CLT 5861 -> RLT 24041 -> Item ID: 8156, lvl 40 Jouster's Wristguards and 9 others
 ID: 5862, Twilight Geomancer, lvl 45 -> CLT 5862 -> RLT 24041 -> Item ID: 8156, lvl 40 Jouster's Wristguards and 9 others
 ID: 7584, Wandering Forest Walker, lvl 46 -> CLT 7584 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
@@ -153,9 +153,9 @@ ID: 7856, Southsea Freebooter, lvl 45 -> CLT 7856 -> RLT 24042 -> Item ID: 13145
 ID: 7857, Southsea Dock Worker, lvl 45 -> CLT 7857 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
 ID: 7858, Southsea Swashbuckler, lvl 45 -> CLT 7858 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
 ID: 8637, Dark Iron Watchman, lvl 45 -> CLT 8637 -> RLT 24042 -> Item ID: 13145, lvl 40 Enormous Ogre Belt
-ID: 11685, Maraudine Priest, lvl 42 -> CLT 11685 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 49 others
-ID: 11686, Ghostly Raider, lvl 41 -> CLT 11686 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 49 others
-ID: 11777, Shadowshard Rumbler, lvl 41 -> CLT 11777 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 49 others
-ID: 11781, Ambershard Crusher, lvl 41 -> CLT 11781 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 49 others
-ID: 11785, Ambereye Basilisk, lvl 41 -> CLT 11785 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 49 others
-ID: 11787, Rock Borer, lvl 41 -> CLT 11787 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 49 others
+ID: 11685, Maraudine Priest, lvl 42 -> CLT 11685 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 48 others
+ID: 11686, Ghostly Raider, lvl 41 -> CLT 11686 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 48 others
+ID: 11777, Shadowshard Rumbler, lvl 41 -> CLT 11777 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 48 others
+ID: 11781, Ambershard Crusher, lvl 41 -> CLT 11781 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 48 others
+ID: 11785, Ambereye Basilisk, lvl 41 -> CLT 11785 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 48 others
+ID: 11787, Rock Borer, lvl 41 -> CLT 11787 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 48 others

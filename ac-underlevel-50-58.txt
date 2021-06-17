@@ -1,7 +1,7 @@
 ID: 7106, Jadefire Rogue, lvl 51 -> CLT 7106 -> RLT 24078 -> Item ID: 1391, lvl 18 Riverpaw Mystic Staff and 69 others
 ID: 1824, Plague Lurker, lvl 55 -> CLT 1824 -> RLT 24050 -> Item ID: 3341, lvl 32 Gauntlets of Ogre Strength and 88 others
-ID: 8556, Crypt Walker, lvl 56 -> CLT 8556 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 95 others
-ID: 7442, Winterfall Pathfinder, lvl 54 -> CLT 7442 -> RLT 24056 -> Item ID: 864, lvl 38 Knightly Longsword and 91 others
+ID: 8556, Crypt Walker, lvl 56 -> CLT 8556 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 94 others
+ID: 7442, Winterfall Pathfinder, lvl 54 -> CLT 7442 -> RLT 24056 -> Item ID: 864, lvl 38 Knightly Longsword and 90 others
 ID: 6349, Great Wavethrasher, lvl 54 -> CLT 6349 -> RLT 24039 -> Item ID: 866, lvl 42 Monk's Staff and 86 others
 ID: 7047, Black Broodling, lvl 52 -> CLT 7047 -> RLT 24037 -> Item ID: 1659, lvl 40 Engineering Gloves and 93 others
 ID: 6520, Scorching Elemental, lvl 54 -> CLT 6520 -> RLT 24043 -> Item ID: 1677, lvl 46 Drake-scale Vest and 107 others
