@@ -1,0 +1,9 @@
+Showing items with a 10 level difference:
+
+ID: 8400, Obsidion, lvl 46 -> CLT 8400 -> RLT 24031 -> Item ID: 8284, lvl 57 Arcane Boots and 95 others
+ID: 687, Jungle Stalker, lvl 41 -> CLT 687 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 54 others
+ID: 2505, Saltwater Snapjaw, lvl 45 -> CLT 2505 -> RLT 24029 -> Item ID: 8269, lvl 55 Ebonhold Boots and 46 others
+ID: 2521, Skymane Gorilla, lvl 41 -> CLT 2521 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 3 others
+ID: 2522, Jaguero Stalker, lvl 41 -> CLT 2522 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 3 others
+ID: 5843, Slave Worker, lvl 47 -> CLT 5843 -> RLT 24031 -> Item ID: 8284, lvl 57 Arcane Boots and 47 others
+ID: 5862, Twilight Geomancer, lvl 45 -> CLT 5862 -> RLT 24029 -> Item ID: 8269, lvl 55 Ebonhold Boots and 46 others

@@ -1,0 +1,8 @@
+Showing items with a 10 level difference:
+
+ID: 2561, Highland Fleshstalker, lvl 37 -> CLT 2561 -> RLT 24017 -> Item ID: 13001, lvl 61 Maiden's Circle and 9 others
+ID: 2408, Snapjaw, lvl 31 -> CLT 2408 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 2817, Rigglefuzz, lvl 37 -> CLT 2817 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 107 others
+ID: 587, Bloodscalp Warrior, lvl 34 -> CLT 587 -> RLT 24043 -> Item ID: 1608, lvl 47 Skullcrusher Mace and 107 others
+ID: 4404, Muckshell Scrabbler, lvl 36 -> CLT 4404 -> RLT 24043 -> Item ID: 1608, lvl 47 Skullcrusher Mace and 107 others
+ID: 4388, Young Murk Thresher, lvl 35 -> CLT 4388 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 52 others

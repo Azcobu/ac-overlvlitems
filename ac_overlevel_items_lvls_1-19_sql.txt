@@ -1,0 +1,18 @@
+-- Deletes lvl (min:59/avg:60.49/max:61) RLT 24016 from lvl 12 Gamon (ID 6466)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6466 AND `Reference` = 24016;
+
+-- Deletes lvl (min:56/avg:56.5/max:57) RLT 24031 from lvl 12 Gamon (ID 6466)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6466 AND `Reference` = 24031;
+
+-- Deletes lvl (min:36/avg:36.48/max:37) RLT 24054 from lvl 12 Gamon (ID 6466)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6466 AND `Reference` = 24054;
+
+-- Deletes lvl (min:20/avg:20.43/max:21) RLT 24060 from lvl 9 Prowler (ID 118)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 118 AND `Reference` = 24060;
+
+-- Deletes lvl (min:21/avg:24.5/max:25) RLT 24064 from lvl 14 Defias Pillager (ID 589)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 589 AND `Reference` = 24064;
+
+-- Deletes lvl (min:10/avg:10.68/max:11) RLT 24074 from lvl 1 Ragged Young Wolf (ID 705), lvl 1 Mindless Zombie (ID 1501), lvl 1 Young Scavenger (ID 1508), lvl 1 Young Nightsaber (ID 2031)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (705, 1501, 1508, 2031) AND `Reference` = 24074;
+

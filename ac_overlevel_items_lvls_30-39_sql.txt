@@ -1,0 +1,15 @@
+-- Deletes lvl (min:60/avg:60.5/max:61) RLT 24017 from lvl 36 Highland Fleshstalker (ID 2561)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2561 AND `Reference` = 24017;
+
+-- Deletes lvl (min:48/avg:48.5/max:49) RLT 24045 from lvl 30 Snapjaw (ID 2408)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2408 AND `Reference` = 24045;
+
+-- Deletes lvl (min:50/avg:50.51/max:51) RLT 24025 from lvl 37 Rigglefuzz (ID 2817)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2817 AND `Reference` = 24025;
+
+-- Deletes lvl (min:46/avg:46.49/max:47) RLT 24043 from lvl 33 Bloodscalp Warrior (ID 587), lvl 35 Muckshell Scrabbler (ID 4404)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (587, 4404) AND `Reference` = 24043;
+
+-- Deletes lvl (min:40/avg:43.62/max:45) RLT 24041 from lvl 34 Young Murk Thresher (ID 4388)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4388 AND `Reference` = 24041;
+

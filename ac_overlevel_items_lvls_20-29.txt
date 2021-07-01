@@ -1,0 +1,9 @@
+Showing items with a 10 level difference:
+
+ID: 232, Farmer Ray, lvl 23 -> CLT 232 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life
+ID: 4250, Galak Packhound, lvl 24 -> CLT 4250 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 11 others
+ID: 2260, Syndicate Rogue, lvl 22 -> CLT 2260 -> RLT 24056 -> Item ID: 1207, lvl 39 Murphstar and 91 others
+ID: 205, Nightbane Dark Runner, lvl 29 -> CLT 205 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 11 others
+ID: 2350, Forest Moss Creeper, lvl 21 -> CLT 2350 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff and 4 others
+ID: 4096, Galak Windchaser, lvl 25 -> CLT 4096 -> RLT 24053 -> Item ID: 2277, lvl 35 Necromancer Leggings and 3 others
+ID: 6547, Suffering Victim, lvl 25 -> CLT 6547 -> RLT 24052 -> Item ID: 3197, lvl 35 Stonecutter Claymore and 42 others

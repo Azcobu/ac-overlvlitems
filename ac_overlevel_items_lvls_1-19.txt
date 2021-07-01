@@ -1,0 +1,9 @@
+Showing items with a 10 level difference:
+
+ID: 6466, Gamon, lvl 12 -> CLT 6466 -> RLT 24054 -> Item ID: 863, lvl 37 Gloom Reaper and 95 others
+ID: 118, Prowler, lvl 10 -> CLT 118 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 69 others
+ID: 589, Defias Pillager, lvl 15 -> CLT 589 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 36 others
+ID: 705, Ragged Young Wolf, lvl 1 -> CLT 705 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 12 others
+ID: 1501, Mindless Zombie, lvl 1 -> CLT 1501 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 12 others
+ID: 1508, Young Scavenger, lvl 1 -> CLT 1508 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 12 others
+ID: 2031, Young Nightsaber, lvl 1 -> CLT 2031 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 12 others

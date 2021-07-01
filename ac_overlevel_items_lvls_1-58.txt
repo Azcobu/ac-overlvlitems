@@ -1,0 +1,32 @@
+Showing items with a 10 level difference:
+
+ID: 6466, Gamon, lvl 12 -> CLT 6466 -> RLT 24054 -> Item ID: 863, lvl 37 Gloom Reaper and 95 others
+ID: 2561, Highland Fleshstalker, lvl 37 -> CLT 2561 -> RLT 24017 -> Item ID: 13001, lvl 61 Maiden's Circle and 9 others
+ID: 232, Farmer Ray, lvl 23 -> CLT 232 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life
+ID: 4250, Galak Packhound, lvl 24 -> CLT 4250 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 11 others
+ID: 2408, Snapjaw, lvl 31 -> CLT 2408 -> RLT 24045 -> Item ID: 1639, lvl 49 Grinning Axe and 105 others
+ID: 2260, Syndicate Rogue, lvl 22 -> CLT 2260 -> RLT 24056 -> Item ID: 1207, lvl 39 Murphstar and 91 others
+ID: 205, Nightbane Dark Runner, lvl 29 -> CLT 205 -> RLT 24042 -> Item ID: 1713, lvl 45 Ankh of Life and 11 others
+ID: 2817, Rigglefuzz, lvl 37 -> CLT 2817 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 107 others
+ID: 587, Bloodscalp Warrior, lvl 34 -> CLT 587 -> RLT 24043 -> Item ID: 1608, lvl 47 Skullcrusher Mace and 107 others
+ID: 118, Prowler, lvl 10 -> CLT 118 -> RLT 24060 -> Item ID: 1218, lvl 21 Heavy Gnoll War Club and 69 others
+ID: 213, Starving Dire Wolf, lvl 20 -> CLT 213 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff and 9 others
+ID: 667, Skullsplitter Warrior, lvl 40 -> CLT 667 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 107 others
+ID: 3715, Wrathtail Sea Witch, lvl 20 -> CLT 3715 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff and 9 others
+ID: 4404, Muckshell Scrabbler, lvl 36 -> CLT 4404 -> RLT 24043 -> Item ID: 1608, lvl 47 Skullcrusher Mace and 107 others
+ID: 8400, Obsidion, lvl 46 -> CLT 8400 -> RLT 24031 -> Item ID: 8284, lvl 57 Arcane Boots and 95 others
+ID: 589, Defias Pillager, lvl 15 -> CLT 589 -> RLT 24064 -> Item ID: 911, lvl 25 Ironwood Treebranch and 36 others
+ID: 687, Jungle Stalker, lvl 41 -> CLT 687 -> RLT 24025 -> Item ID: 8106, lvl 51 Hibernal Armor and 54 others
+ID: 705, Ragged Young Wolf, lvl 1 -> CLT 705 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 12 others
+ID: 1501, Mindless Zombie, lvl 1 -> CLT 1501 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 12 others
+ID: 1508, Young Scavenger, lvl 1 -> CLT 1508 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 12 others
+ID: 2031, Young Nightsaber, lvl 1 -> CLT 2031 -> RLT 24074 -> Item ID: 2140, lvl 11 Carving Knife and 12 others
+ID: 2350, Forest Moss Creeper, lvl 21 -> CLT 2350 -> RLT 24049 -> Item ID: 791, lvl 31 Gnarled Ash Staff and 4 others
+ID: 2505, Saltwater Snapjaw, lvl 45 -> CLT 2505 -> RLT 24029 -> Item ID: 8269, lvl 55 Ebonhold Boots and 46 others
+ID: 2521, Skymane Gorilla, lvl 41 -> CLT 2521 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 3 others
+ID: 2522, Jaguero Stalker, lvl 41 -> CLT 2522 -> RLT 24026 -> Item ID: 7734, lvl 51 Six Demon Bag and 3 others
+ID: 4096, Galak Windchaser, lvl 25 -> CLT 4096 -> RLT 24053 -> Item ID: 2277, lvl 35 Necromancer Leggings and 3 others
+ID: 4388, Young Murk Thresher, lvl 35 -> CLT 4388 -> RLT 24041 -> Item ID: 4046, lvl 45 Mistscape Pants and 52 others
+ID: 5843, Slave Worker, lvl 47 -> CLT 5843 -> RLT 24031 -> Item ID: 8284, lvl 57 Arcane Boots and 47 others
+ID: 5862, Twilight Geomancer, lvl 45 -> CLT 5862 -> RLT 24029 -> Item ID: 8269, lvl 55 Ebonhold Boots and 46 others
+ID: 6547, Suffering Victim, lvl 25 -> CLT 6547 -> RLT 24052 -> Item ID: 3197, lvl 35 Stonecutter Claymore and 42 others

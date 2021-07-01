@@ -1,0 +1,36 @@
+-- Deletes lvl (min:40/avg:43.62/max:45) RLT 24041 from lvl 23 Farmer Ray (ID 232), lvl 24 Galak Windchaser (ID 4096)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (232, 4096) AND `Reference` = 24041;
+
+-- Deletes lvl (min:40/avg:44.17/max:45) RLT 24042 from lvl 28 Nightbane Dark Runner (ID 205), lvl 23 Farmer Ray (ID 232), lvl 24 Galak Packhound (ID 4250)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (205, 232, 4250) AND `Reference` = 24042;
+
+-- Deletes lvl (min:44/avg:44.5/max:45) RLT 24081 from lvl 23 Farmer Ray (ID 232)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 232 AND `Reference` = 24081;
+
+-- Deletes lvl (min:42/avg:42.52/max:43) RLT 24039 from lvl 23 Farmer Ray (ID 232)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 232 AND `Reference` = 24039;
+
+-- Deletes lvl (min:40/avg:40.52/max:42) RLT 24037 from lvl 23 Farmer Ray (ID 232), lvl 24 Galak Windchaser (ID 4096)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (232, 4096) AND `Reference` = 24037;
+
+-- Deletes lvl (min:40/avg:40.62/max:41) RLT 24038 from lvl 23 Farmer Ray (ID 232), lvl 24 Galak Windchaser (ID 4096)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (232, 4096) AND `Reference` = 24038;
+
+-- Deletes lvl (min:38/avg:38.5/max:39) RLT 24056 from lvl 21 Syndicate Rogue (ID 2260), lvl 24 Galak Windchaser (ID 4096)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (2260, 4096) AND `Reference` = 24056;
+
+-- Deletes lvl (min:38/avg:38.5/max:39) RLT 24057 from lvl 24 Galak Windchaser (ID 4096)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4096 AND `Reference` = 24057;
+
+-- Deletes lvl (min:36/avg:36.48/max:37) RLT 24054 from lvl 24 Galak Windchaser (ID 4096)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4096 AND `Reference` = 24054;
+
+-- Deletes lvl (min:29/avg:30.36/max:31) RLT 24049 from lvl 20 Forest Moss Creeper (ID 2350)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2350 AND `Reference` = 24049;
+
+-- Deletes lvl (min:34/avg:34.49/max:35) RLT 24052 from lvl 24 Galak Windchaser (ID 4096), lvl 25 Suffering Victim (ID 6547)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (4096, 6547) AND `Reference` = 24052;
+
+-- Deletes lvl (min:34/avg:34.44/max:35) RLT 24053 from lvl 24 Galak Windchaser (ID 4096)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 4096 AND `Reference` = 24053;
+

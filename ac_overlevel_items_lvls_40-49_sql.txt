@@ -1,0 +1,24 @@
+-- Deletes lvl (min:54/avg:54.49/max:55) RLT 24029 from lvl 44 Saltwater Snapjaw (ID 2505), lvl 41 Jaguero Stalker (ID 2522), lvl 44 Twilight Geomancer (ID 5862)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (2505, 2522, 5862) AND `Reference` = 24029;
+
+-- Deletes lvl (min:52/avg:52.5/max:53) RLT 24085 from lvl 41 Skymane Gorilla (ID 2521), lvl 41 Jaguero Stalker (ID 2522)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (2521, 2522) AND `Reference` = 24085;
+
+-- Deletes lvl (min:52/avg:52.5/max:53) RLT 24027 from lvl 41 Skymane Gorilla (ID 2521), lvl 41 Jaguero Stalker (ID 2522)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (2521, 2522) AND `Reference` = 24027;
+
+-- Deletes lvl (min:52/avg:52.5/max:53) RLT 24028 from lvl 41 Skymane Gorilla (ID 2521), lvl 41 Jaguero Stalker (ID 2522)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (2521, 2522) AND `Reference` = 24028;
+
+-- Deletes lvl (min:56/avg:56.5/max:57) RLT 24031 from lvl 45 Slave Worker (ID 5843), lvl 46 Obsidion (ID 8400)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (5843, 8400) AND `Reference` = 24031;
+
+-- Deletes lvl (min:50/avg:50.51/max:51) RLT 24025 from lvl 40 Jungle Stalker (ID 687), lvl 41 Skymane Gorilla (ID 2521), lvl 41 Jaguero Stalker (ID 2522)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (687, 2521, 2522) AND `Reference` = 24025;
+
+-- Deletes lvl (min:50/avg:50.5/max:51) RLT 24084 from lvl 41 Skymane Gorilla (ID 2521), lvl 41 Jaguero Stalker (ID 2522)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (2521, 2522) AND `Reference` = 24084;
+
+-- Deletes lvl (min:50/avg:50.44/max:51) RLT 24026 from lvl 41 Skymane Gorilla (ID 2521), lvl 41 Jaguero Stalker (ID 2522)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (2521, 2522) AND `Reference` = 24026;
+

@@ -1,0 +1,6 @@
+Showing items with a -10 level difference:
+
+ID: 5426, Blisterpaw Hyena, lvl 45 -> CLT 5426 -> RLT 24074 -> Item ID: 727, lvl 10 Notched Shortsword and 18 others
+ID: 5429, Fire Roc, lvl 45 -> CLT 5429 -> RLT 24074 -> Item ID: 727, lvl 10 Notched Shortsword and 18 others
+ID: 2924, Silvermane Wolf, lvl 44 -> CLT 2924 -> RLT 24064 -> Item ID: 1406, lvl 21 Pearl-encrusted Spear and 67 others
+ID: 8386, Horizon Scout Crewman, lvl 42 -> CLT 8386 -> RLT 24060 -> Item ID: 1220, lvl 20 Lupine Axe and 69 others

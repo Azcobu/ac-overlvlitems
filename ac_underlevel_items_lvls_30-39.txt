@@ -1,0 +1,5 @@
+Showing items with a -10 level difference:
+
+ID: 11563, Drysnap Pincer, lvl 35 -> CLT 11563 -> RLT 24060 -> Item ID: 1220, lvl 20 Lupine Axe and 69 others
+ID: 11562, Drysnap Crawler, lvl 34 -> CLT 11562 -> RLT 24060 -> Item ID: 1220, lvl 20 Lupine Axe and 69 others
+ID: 3660, Athrikus Narassin, lvl 31 -> CLT 3660 -> RLT 24060 -> Item ID: 1220, lvl 20 Lupine Axe and 69 others

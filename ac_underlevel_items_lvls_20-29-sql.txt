@@ -1,0 +1,6 @@
+-- Deletes lvl (min:18/avg:18.51/max:19) RLT 24078 from lvl 28 Nightbane Dark Runner (ID 205), lvl 28 Dark Strand Voidcaller (ID 2337)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (205, 2337) AND `Reference` = 24078;
+
+-- Deletes lvl (min:16/avg:16.56/max:17) RLT 24077 from lvl 26 Lieutenant Fangore (ID 703)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 703 AND `Reference` = 24077;
+

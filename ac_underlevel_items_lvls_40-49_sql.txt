@@ -1,0 +1,12 @@
+-- Deletes lvl (min:10/avg:10.68/max:11) RLT 24074 from lvl 44 Blisterpaw Hyena (ID 5426), lvl 43 Fire Roc (ID 5429)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (5426, 5429) AND `Reference` = 24074;
+
+-- Deletes lvl (min:14/avg:14.78/max:15) RLT 24076 from lvl 42 Horizon Scout Crewman (ID 8386)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 8386 AND `Reference` = 24076;
+
+-- Deletes lvl (min:21/avg:24.5/max:25) RLT 24064 from lvl 43 Silvermane Wolf (ID 2924)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2924 AND `Reference` = 24064;
+
+-- Deletes lvl (min:20/avg:20.43/max:21) RLT 24060 from lvl 42 Horizon Scout Crewman (ID 8386)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 8386 AND `Reference` = 24060;
+

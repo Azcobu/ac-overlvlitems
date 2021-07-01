@@ -1,0 +1,87 @@
+-- Deletes lvl (min:59/avg:60.49/max:61) RLT 24016 from lvl 12 Gamon (ID 6466)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6466 AND `Reference` = 24016;
+
+-- Deletes lvl (min:56/avg:56.5/max:57) RLT 24031 from lvl 45 Slave Worker (ID 5843), lvl 12 Gamon (ID 6466), lvl 46 Obsidion (ID 8400)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (5843, 6466, 8400) AND `Reference` = 24031;
+
+-- Deletes lvl (min:40/avg:43.62/max:45) RLT 24041 from lvl 23 Farmer Ray (ID 232), lvl 19 Wrathtail Sea Witch (ID 3715), lvl 24 Galak Windchaser (ID 4096), lvl 34 Young Murk Thresher (ID 4388)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (232, 3715, 4096, 4388) AND `Reference` = 24041;
+
+-- Deletes lvl (min:36/avg:36.48/max:37) RLT 24054 from lvl 19 Wrathtail Sea Witch (ID 3715), lvl 24 Galak Windchaser (ID 4096), lvl 12 Gamon (ID 6466)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (3715, 4096, 6466) AND `Reference` = 24054;
+
+-- Deletes lvl (min:60/avg:60.5/max:61) RLT 24017 from lvl 36 Highland Fleshstalker (ID 2561)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2561 AND `Reference` = 24017;
+
+-- Deletes lvl (min:40/avg:44.17/max:45) RLT 24042 from lvl 28 Nightbane Dark Runner (ID 205), lvl 23 Farmer Ray (ID 232), lvl 24 Galak Packhound (ID 4250)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (205, 232, 4250) AND `Reference` = 24042;
+
+-- Deletes lvl (min:44/avg:44.5/max:45) RLT 24081 from lvl 23 Farmer Ray (ID 232)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 232 AND `Reference` = 24081;
+
+-- Deletes lvl (min:40/avg:40.52/max:42) RLT 24037 from lvl 23 Farmer Ray (ID 232), lvl 19 Wrathtail Sea Witch (ID 3715), lvl 24 Galak Windchaser (ID 4096)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (232, 3715, 4096) AND `Reference` = 24037;
+
+-- Deletes lvl (min:40/avg:40.62/max:41) RLT 24038 from lvl 23 Farmer Ray (ID 232), lvl 19 Wrathtail Sea Witch (ID 3715), lvl 24 Galak Windchaser (ID 4096)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (232, 3715, 4096) AND `Reference` = 24038;
+
+-- Deletes lvl (min:42/avg:42.52/max:43) RLT 24039 from lvl 23 Farmer Ray (ID 232)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 232 AND `Reference` = 24039;
+
+-- Deletes lvl (min:38/avg:38.5/max:39) RLT 24056 from lvl 21 Syndicate Rogue (ID 2260), lvl 19 Wrathtail Sea Witch (ID 3715), lvl 24 Galak Windchaser (ID 4096)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (2260, 3715, 4096) AND `Reference` = 24056;
+
+-- Deletes lvl (min:38/avg:38.5/max:39) RLT 24057 from lvl 19 Wrathtail Sea Witch (ID 3715), lvl 24 Galak Windchaser (ID 4096)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (3715, 4096) AND `Reference` = 24057;
+
+-- Deletes lvl (min:48/avg:48.5/max:49) RLT 24045 from lvl 30 Snapjaw (ID 2408)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 2408 AND `Reference` = 24045;
+
+-- Deletes lvl (min:34/avg:34.49/max:35) RLT 24052 from lvl 19 Wrathtail Sea Witch (ID 3715), lvl 24 Galak Windchaser (ID 4096), lvl 25 Suffering Victim (ID 6547)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (3715, 4096, 6547) AND `Reference` = 24052;
+
+-- Deletes lvl (min:34/avg:34.44/max:35) RLT 24053 from lvl 19 Wrathtail Sea Witch (ID 3715), lvl 24 Galak Windchaser (ID 4096)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (3715, 4096) AND `Reference` = 24053;
+
+-- Deletes lvl (min:54/avg:54.49/max:55) RLT 24029 from lvl 44 Saltwater Snapjaw (ID 2505), lvl 41 Jaguero Stalker (ID 2522), lvl 44 Twilight Geomancer (ID 5862)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (2505, 2522, 5862) AND `Reference` = 24029;
+
+-- Deletes lvl (min:50/avg:50.51/max:51) RLT 24025 from lvl 39 Skullsplitter Warrior (ID 667), lvl 40 Jungle Stalker (ID 687), lvl 41 Skymane Gorilla (ID 2521), lvl 41 Jaguero Stalker (ID 2522), lvl 37 Rigglefuzz (ID 2817)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (667, 687, 2521, 2522, 2817) AND `Reference` = 24025;
+
+-- Deletes lvl (min:46/avg:46.49/max:47) RLT 24043 from lvl 33 Bloodscalp Warrior (ID 587), lvl 35 Muckshell Scrabbler (ID 4404)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (587, 4404) AND `Reference` = 24043;
+
+-- Deletes lvl (min:32/avg:32.51/max:33) RLT 24050 from lvl 19 Wrathtail Sea Witch (ID 3715)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3715 AND `Reference` = 24050;
+
+-- Deletes lvl (min:32/avg:32.5/max:33) RLT 24051 from lvl 19 Wrathtail Sea Witch (ID 3715)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 3715 AND `Reference` = 24051;
+
+-- Deletes lvl (min:52/avg:52.5/max:53) RLT 24085 from lvl 41 Skymane Gorilla (ID 2521), lvl 41 Jaguero Stalker (ID 2522)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (2521, 2522) AND `Reference` = 24085;
+
+-- Deletes lvl (min:52/avg:52.5/max:53) RLT 24027 from lvl 41 Skymane Gorilla (ID 2521), lvl 41 Jaguero Stalker (ID 2522)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (2521, 2522) AND `Reference` = 24027;
+
+-- Deletes lvl (min:52/avg:52.5/max:53) RLT 24028 from lvl 41 Skymane Gorilla (ID 2521), lvl 41 Jaguero Stalker (ID 2522)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (2521, 2522) AND `Reference` = 24028;
+
+-- Deletes lvl (min:20/avg:20.43/max:21) RLT 24060 from lvl 9 Prowler (ID 118)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 118 AND `Reference` = 24060;
+
+-- Deletes lvl (min:29/avg:30.36/max:31) RLT 24049 from lvl 19 Starving Dire Wolf (ID 213), lvl 20 Forest Moss Creeper (ID 2350), lvl 19 Wrathtail Sea Witch (ID 3715)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (213, 2350, 3715) AND `Reference` = 24049;
+
+-- Deletes lvl (min:21/avg:24.5/max:25) RLT 24064 from lvl 14 Defias Pillager (ID 589)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 589 AND `Reference` = 24064;
+
+-- Deletes lvl (min:10/avg:10.68/max:11) RLT 24074 from lvl 1 Ragged Young Wolf (ID 705), lvl 1 Mindless Zombie (ID 1501), lvl 1 Young Scavenger (ID 1508), lvl 1 Young Nightsaber (ID 2031)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (705, 1501, 1508, 2031) AND `Reference` = 24074;
+
+-- Deletes lvl (min:50/avg:50.5/max:51) RLT 24084 from lvl 41 Skymane Gorilla (ID 2521), lvl 41 Jaguero Stalker (ID 2522)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (2521, 2522) AND `Reference` = 24084;
+
+-- Deletes lvl (min:50/avg:50.44/max:51) RLT 24026 from lvl 41 Skymane Gorilla (ID 2521), lvl 41 Jaguero Stalker (ID 2522)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (2521, 2522) AND `Reference` = 24026;
+

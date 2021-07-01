@@ -1,0 +1,21 @@
+-- Deletes lvl (min:18/avg:18.51/max:19) RLT 24078 from lvl 50 Jadefire Rogue (ID 7106)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7106 AND `Reference` = 24078;
+
+-- Deletes lvl (min:32/avg:32.51/max:33) RLT 24050 from lvl 54 Plague Lurker (ID 1824)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 1824 AND `Reference` = 24050;
+
+-- Deletes lvl (min:36/avg:36.48/max:37) RLT 24054 from lvl 55 Crypt Walker (ID 8556)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 8556 AND `Reference` = 24054;
+
+-- Deletes lvl (min:38/avg:38.5/max:39) RLT 24056 from lvl 53 Winterfall Pathfinder (ID 7442)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7442 AND `Reference` = 24056;
+
+-- Deletes lvl (min:40/avg:43.62/max:45) RLT 24041 from lvl 54 Storm Bay Oracle (ID 6351), lvl 53 Gordok Enforcer (ID 11440), lvl 52 Gordok Ogre-Mage (ID 11443), lvl 52 Gordok Hyena (ID 12418)
+DELETE FROM `creature_loot_template` WHERE `Entry` IN (6351, 11440, 11443, 12418) AND `Reference` = 24041;
+
+-- Deletes lvl (min:42/avg:42.52/max:43) RLT 24039 from lvl 53 Great Wavethrasher (ID 6349)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 6349 AND `Reference` = 24039;
+
+-- Deletes lvl (min:40/avg:40.52/max:42) RLT 24037 from lvl 51 Black Broodling (ID 7047)
+DELETE FROM `creature_loot_template` WHERE `Entry` = 7047 AND `Reference` = 24037;
+

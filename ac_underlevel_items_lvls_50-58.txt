@@ -1,0 +1,12 @@
+Showing items with a -10 level difference:
+
+ID: 7106, Jadefire Rogue, lvl 51 -> CLT 7106 -> RLT 24078 -> Item ID: 1391, lvl 18 Riverpaw Mystic Staff and 69 others
+ID: 1824, Plague Lurker, lvl 55 -> CLT 1824 -> RLT 24050 -> Item ID: 3341, lvl 32 Gauntlets of Ogre Strength and 88 others
+ID: 8556, Crypt Walker, lvl 56 -> CLT 8556 -> RLT 24054 -> Item ID: 1522, lvl 36 Headhunting Spear and 95 others
+ID: 7442, Winterfall Pathfinder, lvl 54 -> CLT 7442 -> RLT 24056 -> Item ID: 864, lvl 38 Knightly Longsword and 91 others
+ID: 6351, Storm Bay Oracle, lvl 55 -> CLT 6351 -> RLT 24041 -> Item ID: 8156, lvl 40 Jouster's Wristguards and 100 others
+ID: 11440, Gordok Enforcer, lvl 54 -> CLT 11440 -> RLT 24041 -> Item ID: 8156, lvl 40 Jouster's Wristguards and 45 others
+ID: 11443, Gordok Ogre-Mage, lvl 53 -> CLT 11443 -> RLT 24041 -> Item ID: 8156, lvl 40 Jouster's Wristguards and 33 others
+ID: 12418, Gordok Hyena, lvl 54 -> CLT 12418 -> RLT 24041 -> Item ID: 8156, lvl 40 Jouster's Wristguards and 33 others
+ID: 6349, Great Wavethrasher, lvl 54 -> CLT 6349 -> RLT 24039 -> Item ID: 866, lvl 42 Monk's Staff and 86 others
+ID: 7047, Black Broodling, lvl 52 -> CLT 7047 -> RLT 24037 -> Item ID: 1659, lvl 40 Engineering Gloves and 92 others

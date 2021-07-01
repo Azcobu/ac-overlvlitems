@@ -1,0 +1,5 @@
+Showing items with a -10 level difference:
+
+ID: 205, Nightbane Dark Runner, lvl 29 -> CLT 205 -> RLT 24078 -> Item ID: 1391, lvl 18 Riverpaw Mystic Staff and 33 others
+ID: 703, Lieutenant Fangore, lvl 26 -> CLT 703 -> RLT 24077 -> Item ID: 1219, lvl 16 Redridge Machete and 27 others
+ID: 2337, Dark Strand Voidcaller, lvl 29 -> CLT 2337 -> RLT 24078 -> Item ID: 1391, lvl 18 Riverpaw Mystic Staff and 33 others

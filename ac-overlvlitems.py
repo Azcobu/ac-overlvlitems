@@ -37,7 +37,7 @@ def get_auth_details(infile):
 		print(err)
 		sys.exit(1)
 
-def process_data(found, gen_sql):
+def process_data(found, rlt_lvldata, gen_sql, level_diff):
     oli, rlt = {}, {}
     output, sqlout = [], []
     for item in found:
@@ -46,12 +46,14 @@ def process_data(found, gen_sql):
             oli[npc_id] = {reftable: 1}
         else:
             oli[npc_id][reftable] += 1
-        
+
         #generate RLT-based view for concatenated SQL
         if reftable in rlt:
             rlt[reftable].append(item)
         else:
             rlt[reftable] = [item]
+
+    output.append(f'Showing items with a {level_diff} level difference:\n\n')
 
     for item in found:
         npc_id, reftable = item[0], item[4]
@@ -80,25 +82,32 @@ def process_data(found, gen_sql):
         intermed = list(set(intermed))
         intermed = sorted(intermed, key = lambda x:x[3])
         clt_list = [x[3] for x in intermed]
+        numitems = len(clt_list)
         clt_list = ', '.join([str(x) for x in clt_list])
         txtlist = [f'lvl {x[2]} {x[1]} (ID {x[0]})' for x in intermed]
         txtlist = ', '.join(txtlist)
-        sqlout.append(f'-- Deletes overlevelled RLT {rlt} from {txtlist}\n')
-        sqlout.append(f'DELETE FROM `creature_loot_template` WHERE `Entry` IN '\
-                      f'({clt_list}) AND `Reference` = {rlt};\n\n')
-            
+        rltmin, rltavg, rltmax = rlt_lvldata[rlt]
+        sqlout.append(f'-- Deletes lvl (min:{rltmin}/avg:{rltavg}/max:{rltmax})'
+                      f' RLT {rlt} from {txtlist}\n')
+        sqlout.append('DELETE FROM `creature_loot_template` WHERE `Entry` ')
+        if numitems == 1:
+            sqlout.append(f'= {clt_list}')
+        else:
+            sqlout.append(f'IN ({clt_list})')
+        sqlout.append(f' AND `Reference` = {rlt};\n\n')
 
     return ''.join(output), ''.join(sqlout)
 
-def export_data(found, levelstr, level_diff, gen_sql=True):
-    outstr, sqlout = process_data(found, gen_sql)
-    outfilename = f'ac-{"over" if level_diff >= 0 else "under"}level-{levelstr}.txt'
+def export_data(found, rlt_lvldata, levelstr, level_diff, gen_sql=True):
+    outstr, sqlout = process_data(found, rlt_lvldata, gen_sql, level_diff)
+    outfilename = f'ac_{"over" if level_diff >= 0 else "under"}level_items_{levelstr}.txt'
+
     with open(outfilename, 'w') as outfile:
         outfile.write(outstr)
     print(f'Data written to file {outfilename}.')
 
     if sqlout != []:
-        sqloutfilename = outfilename[:-4] + '-sql.txt'
+        sqloutfilename = outfilename[:-4] + '_sql.txt'
         with open(sqloutfilename, 'w') as sqloutfile:
             sqloutfile.write(sqlout)
         print(f'SQL commands written to {sqloutfilename}.')
@@ -129,7 +138,7 @@ def build_rlt_table(db, cursor):
 
 def get_rlt_table(db, cursor, rlt_id):
     # returns all items in a specified RLT that meet query criteria
-    items = []
+    items, itemlvls = [], []
     #print(f'Reading RLT {rlt_id}.')
 
     query = ('SELECT it.entry, it.name, it.ItemLevel '
@@ -142,13 +151,20 @@ def get_rlt_table(db, cursor, rlt_id):
     cursor.execute(query)
     for item in cursor.fetchall():
         it_entry, it_name, it_itemlevel = item
+        itemlvls.append(it_itemlevel)
         items.append(item)
 
-    return {rlt_id: items}
+    if itemlvls:
+        avglvl = round(sum(itemlvls) / len(itemlvls), 2)
+        rlt_lvldata = min(itemlvls), avglvl, max(itemlvls)
+    else:
+        rlt_lvldata = 0, 0, 0
+
+    return {rlt_id: items}, rlt_lvldata
 
 def scan_reftables(min_npc_level=1, max_npc_level=58, leveldiff=4):
     found = []
-    npcs, rlt_tables = {}, {}
+    npcs, rlt_tables, rlt_lvldata = {}, {}, {}
 
     db_user, db_pass = get_auth_details('db-auth.txt')
     db, cursor = open_sql_db(db_user, db_pass)
@@ -163,13 +179,13 @@ def scan_reftables(min_npc_level=1, max_npc_level=58, leveldiff=4):
              'AND clt.reference != 0 AND ct.rank = 0 '
             f'AND ct.minlevel >= {min_npc_level} '
             f'AND ct.maxlevel <= {max_npc_level} '
-             'AND ct.entry IN (SELECT ct.entry FROM `creature_template` ct ' 
+             'AND ct.entry IN (SELECT ct.entry FROM `creature_template` ct '
                               'JOIN `creature` c ON c.id = ct.entry '
-                              'WHERE c.map IN (0, 1))')      
+                              'WHERE c.map IN (0, 1))')
     cursor.execute(query)
     npclist = cursor.fetchall()
     listsize = len(npclist)
-    
+
     # build NPC -> NPC info + RLT IDs lookup table
     for count, npc in enumerate(npclist):
         #print(f'Scanning {npc[1]}')
@@ -181,7 +197,7 @@ def scan_reftables(min_npc_level=1, max_npc_level=58, leveldiff=4):
 
     for npc_id, npcdata in npcs.items():
         npc_name, npc_minlvl, npc_maxlvl, npc_lootid, *curr_rlts = npcdata
-        
+
         #add nested RLTs
         addlist = []
         for x in curr_rlts:
@@ -191,7 +207,9 @@ def scan_reftables(min_npc_level=1, max_npc_level=58, leveldiff=4):
 
         for rlt_id in curr_rlts:
             if rlt_id not in rlt_tables: #cache RLT
-                rlt_tables.update(get_rlt_table(db, cursor, rlt_id))
+                itemdata, lvldata = get_rlt_table(db, cursor, rlt_id)
+                rlt_tables.update(itemdata)
+                rlt_lvldata[rlt_id] = lvldata
 
             for item in rlt_tables[rlt_id]:
                 if leveldiff >= 0 and item[2] >= npc_maxlvl + leveldiff:
@@ -207,24 +225,23 @@ def scan_reftables(min_npc_level=1, max_npc_level=58, leveldiff=4):
 
     # sort by level diff
     found.sort(key = lambda x: x[8], reverse=True)
-    return found
+    return found, rlt_lvldata
 
 def batch_scan_lvl_ranges(level_diff):
 	# allows scans of defined level ranges all at once
 	ranges  = [[1, 19], [20, 29], [30, 39], [40, 49], [50, 58], [1, 58]]
 	for min_lvl, max_lvl in ranges:
-		found = scan_reftables(min_lvl, max_lvl, level_diff)
-		export_data(found, f'{min_lvl}-{max_lvl}', level_diff, gen_sql=True)
+		found, rlt_lvldata = scan_reftables(min_lvl, max_lvl, level_diff)
+		export_data(found, rlt_lvldata, f'lvls_{min_lvl}-{max_lvl}', level_diff, gen_sql=True)
 
 def main():
 	start = time.time()
-	min_lvl, max_lvl = 1, 19 # level ranges are inclusive, so min <= val <= max
-	level_diff = -4 #positive number for overlevelled, negative for underlevelled
+	min_lvl, max_lvl = 20, 29 # level ranges are inclusive, so min <= val <= max
+	level_diff = 10 #positive number for overlevelled, negative for underlevelled
 	batch_scan_lvl_ranges(level_diff)
 
-	#found = scan_reftables(min_lvl, max_lvl, level_diff)
-	#export_data(found, f'{min_lvl}-{max_lvl}', level_diff, gen_sql=True)
-
+	#found, rlt_lvldata = scan_reftables(min_lvl, max_lvl, level_diff)
+	#export_data(found, rlt_lvldata, f'lvls_{min_lvl}-{max_lvl}', level_diff, gen_sql=True)
 	print(f'Run complete in {time.time() - start:.2f} secs.')
 
 if __name__ == '__main__':
